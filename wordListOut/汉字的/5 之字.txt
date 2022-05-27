@@ -1,0 +1,5 @@
+irony          	/'aiərəni/          	n.反话, 讽刺, 讽刺之事      
+resource       	/ri'sɔ:s/           	n.(pl.)资源,财力;办法,智谋;应变之才
+prior          	/'praiə/            	a.优先的,在前的;(to)在…之前  
+underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+succeed        	/sək'si:d/          	vi.成功；继承，接替 vt.接替；继…之后

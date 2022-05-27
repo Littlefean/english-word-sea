@@ -1,0 +1,17 @@
+clutch         	/klʌtʃ/             	v.抓住,攫住,掌握 n.离合器    
+brass          	/brɑ:s/             	n.黄铜,铜器             
+microphone     	/'maikrəfəun/       	n.话筒,扩音器            
+silver         	/'silvə/            	n.银;银器;银币 v.镀银      
+machinery      	/mə'ʃi:nəri/        	n.(总称)机器,机械         
+petty          	/'peti/             	a.小(器、规模)的,不重要的,细微的,卑鄙的
+instrument     	/'ɪnstrəmənt/       	n.工具,仪器,器械;乐器       
+organ          	/'ɔ:gən/            	n.器官;机构,机关;风琴       
+detector       	/dɪ'tektə(r)/       	n.发现者,侦察器,探测器,检波器,检电器
+aircraft       	/'εəkrɑ:ft/         	n.飞机，飞船，飞行器         
+speaker        	/'spi:kə/           	n.说话者，发言者；说某种语言者；扬声器
+implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+container      	/kən'teinə/         	n.容器;集装箱            
+monitor        	/'mɒnɪtə(r)/        	n.班长;监听器,监视器 v.监控,监测
+counter        	/'kauntə(r)/        	n.柜台;计数器 a.         
+measure        	/'meʒə/             	v.测量,分派,权衡 n.尺寸,量度器,措施,办法
+module         	/'mɔdju:l/          	n.组件，模块，模件；(航天器的)舱  

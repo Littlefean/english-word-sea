@@ -1,0 +1,24 @@
+lover          	/'lʌvə(r)/          	n.爱好者;(pl.)情侣       
+foster         	/'fɔstə/            	vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者
+governor       	/'gʌvənə/           	n.统治者,管理者,总督,州(省)长  
+scholar        	/'skɔlə/            	n.学者                
+escort         	/'eskɔ:t/           	vt.护送(卫)；陪同 n.警卫，护送者；仪仗兵
+auxiliary      	/ɔ:g'ziljəri/       	a.辅助的，支援的 n.辅助者，辅助设备
+waiter         	/weitə/             	n.侍者,服务员            
+witness        	/'witnis/           	n.目击者,证人;证据,证明 v.目击,目睹;作证
+reporter       	/ri'pɔ:tə/          	n.报告人,通讯员;记者,报导者    
+tease          	/ti:z/              	v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄
+sponsor        	/'spɔnsə/           	n.发起人,主力者,保证人 v.发起,主办
+enemy          	/'enimi/            	n.敌人，仇敌，反对者；敌人，敌军，敌国
+choice         	/tʃɔis/             	n.选择(机会),抉择,选择项;入选者 a.精选的
+survival       	/sə'vaivəl/         	n.幸存,生存;幸存者,残存物     
+superior       	/sju:'piriə/        	a.优良的,卓越的;上级的 n.上级;长者;高手
+messenger      	/'mesindʒə/         	n.送信者,使者,传令兵        
+prophet        	/'prɔfit/           	n.预言家；先知；提倡者        
+resident       	/'rezidənt/         	n.居民,常住者 a.居住的      
+visitor        	/'vizitə/           	n.访问者,客人,来宾,参观者     
+detector       	/dɪ'tektə(r)/       	n.发现者,侦察器,探测器,检波器,检电器
+audience       	/'ɔ:diəns/          	n.听众，观众，读者；见面，会见    
+speaker        	/'spi:kə/           	n.说话者，发言者；说某种语言者；扬声器
+pilgrim        	/'pilgrim/          	n.(在国外)旅游者;朝圣者,最初的移民
+refugee        	/ˌrefju'dʒi:/       	n.(政治上的)避难者，难民      

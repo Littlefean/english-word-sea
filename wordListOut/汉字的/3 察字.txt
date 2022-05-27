@@ -1,0 +1,3 @@
+visit          	/'vizit/            	n.访问,参观 v.访问,参观;视察;降临;闲谈
+detector       	/dɪ'tektə(r)/       	n.发现者,侦察器,探测器,检波器,检电器
+inspect        	/in'spekt/          	vt.检查,调查,视察         

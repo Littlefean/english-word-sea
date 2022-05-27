@@ -1,0 +1,9 @@
+verse          	/və:s/              	n.韵文,诗;诗节,诗句        
+thrift         	/θrift/             	a.节约，节俭             
+articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+holiday        	/'hɔlədi/           	n.假日,节日,假期,休假       
+moderate       	/'mɔdərət/          	a.有节制的,中等的,适度的,温和的,稳健的
+refrain        	/ˌri:'frein/        	v.节制,避免,制止 n.(诗的)叠句 
+programme      	/'prəugræm/         	n.(program)节目,计划,规划,程序 v.编程序
+class          	/klɑ:s/             	n.班，年级；种类，等级，阶级；(一节)课

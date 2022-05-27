@@ -1,0 +1,5 @@
+holiday        	/'hɔlədi/           	n.假日,节日,假期,休假       
+suppose        	/sə'pəuz/           	v.料想,猜想;假定;conj.假使...结果会怎样
+hypothesis     	/hai'pɔθisis/       	n.假说,假设,前提          
+artificial     	/ˌɑ:ti'fiʃəl/       	a.人工的，人造的，人为的；假的，做作的
+premise        	/pri'maiz/          	n.前提,房屋连地基v.提论,预述,假定

@@ -1,0 +1,4 @@
+enemy          	/'enimi/            	n.敌人，仇敌，反对者；敌人，敌军，敌国
+navy           	/'neivi/            	n.海军                
+colonel        	/'kə:nəl/           	n.(陆军)上校            
+troop          	/tru:p/             	n.(pl.)部队,军队;(一)群   

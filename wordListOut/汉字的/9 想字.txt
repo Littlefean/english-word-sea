@@ -1,0 +1,9 @@
+sick           	/sɪk/               	a.有病的,患病的;恶心的,想吐的   
+liberal        	/'libərəl/          	a.慷慨的,大方的;富足的;自由的,思想开放的
+romantic       	/rəu'mæntik/        	a.浪漫的,传奇式的;不切实际的,好幻想的
+envisage       	/in'vizidʒ/         	v.想象，设想，展望，正视       
+fairy          	/'feəri/            	a.幻想中的;虚构的;优雅的 n.仙女;精灵
+idea           	/ai'diə/            	n.想法，念头；概念，观念；意见，主意 
+suppose        	/sə'pəuz/           	v.料想,猜想;假定;conj.假使...结果会怎样
+want           	/wɔnt/              	vt.想要;希望;需要;缺,缺少 n.需要;短缺
+impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       

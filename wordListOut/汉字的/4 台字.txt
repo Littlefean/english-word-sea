@@ -1,0 +1,4 @@
+table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+barbecue       	/'bɑ:bikju:/        	n.烤肉；烤肉用的台架 vt.炙烤(肉等)
+counter        	/'kauntə(r)/        	n.柜台;计数器 a.         
+console        	/kən'səul /         	n.控制台，仪表板；落地柜 vt.安慰，慰问

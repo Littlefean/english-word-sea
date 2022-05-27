@@ -1,0 +1,18 @@
+outlet         	/'autlet/           	n.出路,出口;销路,市场;发泄方法;电源插座
+liberal        	/'libərəl/          	a.慷慨的,大方的;富足的;自由的,思想开放的
+local          	/'ləukəl/           	a.地方的,当地的;局部的       
+somehow        	/'sʌmhau/           	ad.以某种方式，用某种方法；不知怎么地
+orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+scheme         	/ski:m/             	n.计划,方案;阴谋;配置 v.计划,策划;阴谋
+rectangle      	/'rekˌtæŋgl/        	n.[数]矩形, 长方形        
+graceful       	/'greisful/         	a.优美的,文雅的,大方的       
+direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+official       	/ə'fɪʃl/            	n.官员,行政官员 a.官方的,官方的,正式的
+clockwise      	/'klɔkwaiz/         	a.顺时针方向             
+room           	/ru:m/              	n.房间，室，空间，地方；余地     
+method         	/'meθəd/            	n.方法,办法             
+northeast      	/ˌnɔ:θ'i:st/        	n.东北 a.东北方的 ad.向东北,在东北
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+cube           	/kju:b/             	n.立方形,立方体;立方,三次幂    
+southern       	/'sʌðən/            	a.南方的,南部的           
+western        	/'westən/           	a.西方的,西部的           

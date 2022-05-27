@@ -1,0 +1,7 @@
+sharp          	/ʃɑ:p/              	a.锋利的;轮廓分明的;急转的ad.(指时刻)正
+tire           	/'taiə/             	v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎
+carriage       	/'kæridʒ/           	n.(四轮)马车;(火车)客车厢    
+liner          	/'lainə/            	n.班机,定期轮船,邮船        
+turbine        	/'tə:bain/          	n.汽轮机,涡轮机           
+track          	/træk/              	n.跑道,小路;轨迹,轮迹 v.跟踪,追踪
+shift          	/ʃift/              	v.替换,转移n.转换,转变;(轮)班,(换)班

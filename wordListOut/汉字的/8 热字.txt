@@ -1,0 +1,8 @@
+temperature    	/'temprətʃə(r)/     	n.温度，体温；热度，发烧       
+fierce         	/fiəs/              	a.凶猛的,残忍的;狂热的,强烈的   
+thirst         	/θə:st/             	n.渴,口渴;(for)渴望,热望   
+keen           	/ki:n/              	a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的
+enthusiasm     	/in'θju:ziæzəm/     	n.热情,热心;狂热;积极性(for) 
+tropical       	/'trɔpikəl/         	a.热带的               
+warm           	/wɔ:m/              	a.温暖的，热心的，热情的  v.(使)变暖
+zeal           	/zi:l/              	n.热心，热忱，热情          

@@ -1,0 +1,5 @@
+snow           	/snəu/              	n.雪，下雪 vi.下雪；如雪一般地落下
+rain           	/rein/              	n.雨；雨天；下雨 vi.下雨 vt.使大量落下
+locate         	/ləu'keit/          	v.查出,探出,查找…地点,使…坐落于,位于
+situated       	/'sitjueitid/       	a.坐落在…的             
+console        	/kən'səul /         	n.控制台，仪表板；落地柜 vt.安慰，慰问

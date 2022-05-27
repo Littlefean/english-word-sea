@@ -1,0 +1,14 @@
+abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+finance        	/fai'næns/          	n.财政,金融 v.为…提供资金    
+motion         	/'məuʃn/            	n.运动,动;提议,动议 v.提议,动议
+table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+plead          	/pli:d/             	v.恳求,请求;为…辩护;提出…为理由 
+present        	/'prezənt/          	a.出席的,现在的 n.现在,礼物 v.赠送,提出
+commit         	/kə'mit/            	v.把…交托给,提交;犯(错误),干(坏事)
+prophet        	/'prɔfit/           	n.预言家；先知；提倡者        
+hypothesis     	/hai'pɔθisis/       	n.假说,假设,前提          
+introduce      	/ˌintrə'dju:s/      	vt.介绍；引进，传入；提出(议案等) 
+skeleton       	/'skelitən/         	n.骨骼;骨架,框架;梗概,提要    
+heave          	/hi:v/              	v.(用力)举，提，拉；扔；拖；呕吐n.举起
+portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+premise        	/pri'maiz/          	n.前提,房屋连地基v.提论,预述,假定

@@ -1,0 +1,5 @@
+hospital       	/'hɔspitəl/         	n.医院                
+doctor         	/dɔktə/             	n.医生;博士 vt.授以博士学位;诊断;修改
+remedy         	/'remidi/           	n.药品;治疗措施 v.治疗,医治;纠正,补救
+advice         	/əd'vais/           	n.劝告，忠告，(医生等的)意见    
+external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的

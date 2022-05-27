@@ -1,0 +1,49 @@
+body {
+  //background-color: black;
+}
+
+.lineBox {
+  //width: 20px;
+  //height: 20px;
+  background-color: transparent;
+  position: absolute;
+  //outline: solid 1px blue;
+  opacity: 0.1;
+  transition: all 0.5s;
+
+  .line {
+    width: 3px;
+    height: 100%;
+    background-color: red;
+  }
+}
+
+.word {
+  color: black;
+  position: absolute;
+  transition: all 0.2s;
+  //font-size: 20px;
+  outline: solid 1px #222;
+  z-index: 100;
+  .chinese {
+    display: none;
+  }
+
+  &:active {
+    color: greenyellow;
+    z-index: 100;
+    background-color: black;
+    font-size: 20px;
+    box-shadow: 0 0 10px whitesmoke;
+  }
+  &:hover {
+    transform: scale(1.1);
+  }
+  &:active .chinese {
+    display: block;
+  }
+  //
+  //&:hover ~ .lineBox {
+  //  opacity: 1;
+  //}
+}

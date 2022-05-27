@@ -1,0 +1,12 @@
+expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+lover          	/'lʌvə(r)/          	n.爱好者;(pl.)情侣       
+temperament    	/'tempərəmənt/      	n.气质，性格，性情；资质       
+mistress       	/'mistris/          	n.女主人;主妇;情妇,情人      
+evoke          	/i'vəuk/            	vt.唤起(回忆、感情等)；引起    
+sight          	/sait/              	n.视力;望见,瞥见;视域;眼界;情景,奇观
+await          	/ə'weit/            	vt.等候，期待；(事情等)降临于   
+banquet        	/'bæŋkwit/          	n.(正式的)宴会 vi.参加宴会 vt.宴情
+thing          	/θiŋ/               	n.物，东西；事，事情；所有物；局面，情况
+enthusiasm     	/in'θju:ziæzəm/     	n.热情,热心;狂热;积极性(for) 
+warm           	/wɔ:m/              	a.温暖的，热心的，热情的  v.(使)变暖
+zeal           	/zi:l/              	n.热心，热忱，热情          

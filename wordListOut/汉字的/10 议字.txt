@@ -1,0 +1,10 @@
+exception      	/ik'sepʃən/         	n.例外,除外;反对;异议       
+motion         	/'məuʃn/            	n.运动,动;提议,动议 v.提议,动议
+conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+chamber        	/'tʃeimbə/          	n.房间，室；会议室；议院；(动物体内)腔室
+advise         	/əd'vaiz/           	vt.忠告，劝告，建议；通知，告知   
+meeting        	/'mi:tiŋ/           	n.会议,集合,汇合,会见,接见,汇合点
+introduce      	/ˌintrə'dju:s/      	vt.介绍；引进，传入；提出(议案等) 
+agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       

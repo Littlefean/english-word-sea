@@ -1,0 +1,15 @@
+expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+list           	/lɪst/              	n.表,目录,名单 v.把…编列成表,列入表内
+articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+dial           	/'daiəlˌ dail/      	n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话
+recognize      	/'rekəgnaɪz/        	v.(recognise)认出,承认,公认,赏识,表扬
+table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+question       	/'kwestʃən/         	n.问题;询问 v.询问;怀疑,对…表示疑问
+denote         	/di'nəut/           	vt.表示,意味着           
+alphabet       	/'ælfəbet/          	n.字母表；初步，入门         
+external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的
+console        	/kən'səul /         	n.控制台，仪表板；落地柜 vt.安慰，慰问
+reading        	/'ri:diŋ/           	n.读书,读物,(仪表等的)读数,阅读 
+accustomed     	/ə'kʌstəmd/         	a.惯常的；习惯的，适应的(一般作表语)

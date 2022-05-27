@@ -1,0 +1,5 @@
+tame           	/teim/              	a.驯服的,温顺的;沉闷的,乏味的 vt.驯服
+along          	/ə'lɔŋ/             	ad.向前；和...一起，一同 prep.沿着，顺着
+comply         	/kəm'plai/          	v.(with)遵照，照做，应允；顺从，服从
+obedience      	/ə'bi:diəns/        	n.服从,顺从             
+clockwise      	/'klɔkwaiz/         	a.顺时针方向             

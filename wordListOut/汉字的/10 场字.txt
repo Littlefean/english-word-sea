@@ -1,0 +1,10 @@
+outlet         	/'autlet/           	n.出路,出口;销路,市场;发泄方法;电源插座
+playground     	/'pleɪgraund/       	n.运动场,游戏场           
+pasture        	/'pɑ:stʃə/          	n.牧草地,牧场            
+cemetery       	/'semitəri/         	n.坟墓，墓地，坟场          
+ticket         	/'tikit/            	n.票,入场券;票签;(交通违章)罚款传票
+airport        	/'εəpɔ:t/           	n.机场，航空站，航空港        
+motel          	/məu'tel/           	n.(附有停车场的)汽车旅馆      
+occasional     	/ə'keiʒənəl/        	a.偶然的,非经常的,特殊场合的;临时的
+meadow         	/'medəu/            	n.草地,牧场             
+court          	/kɔ:t/              	n.法院,法庭;宫廷,朝廷;院子;球场 

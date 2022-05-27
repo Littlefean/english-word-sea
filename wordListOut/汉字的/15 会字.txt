@@ -1,0 +1,15 @@
+conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+membership     	/'membəʃɪp/         	n.会员资格,成员资格         
+opening        	/'əupəniŋ/          	n.开,开放,开始,空缺,机会 a.开始的,开幕的
+misunderstand  	/ˌmisʌndə'stænd/    	v.误解,误会             
+banquet        	/'bæŋkwit/          	n.(正式的)宴会 vi.参加宴会 vt.宴情
+choice         	/tʃɔis/             	n.选择(机会),抉择,选择项;入选者 a.精选的
+ball           	/bɔ:l/              	n.球(状物);(正式的)舞会vt.把…捏成球状
+suppose        	/sə'pəuz/           	v.料想,猜想;假定;conj.假使...结果会怎样
+chamber        	/'tʃeimbə/          	n.房间，室；会议室；议院；(动物体内)腔室
+meeting        	/'mi:tiŋ/           	n.会议,集合,汇合,会见,接见,汇合点
+audience       	/'ɔ:diəns/          	n.听众，观众，读者；见面，会见    
+engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+disregard      	/disri'gɑ:d/        	vt.不理会;忽视;漠视 n.忽视;漠视
+comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定

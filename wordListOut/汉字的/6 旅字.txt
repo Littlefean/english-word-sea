@@ -1,0 +1,6 @@
+motel          	/məu'tel/           	n.(附有停车场的)汽车旅馆      
+passenger      	/'pæsindʒə/         	n.乘客,旅客             
+tour           	/tuə/               	n.旅游，旅行；巡回演出        
+pilgrim        	/'pilgrim/          	n.(在国外)旅游者;朝圣者,最初的移民
+voyage         	/'vɔiidʒ/           	n.航海;航行;旅行          
+journey        	/'dʒə:ni/           	n.旅行,旅程 v.旅行        

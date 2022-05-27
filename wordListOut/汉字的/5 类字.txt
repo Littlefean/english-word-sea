@@ -1,0 +1,5 @@
+cereal         	/'siəriəl/          	n.加工而成的谷类食物；谷类植物，谷物 
+similar        	/'similə/           	a.(to)相似的,类似的       
+type           	/taip/              	n.型式，类型；印刷字体；活      
+class          	/klɑ:s/             	n.班，年级；种类，等级，阶级；(一节)课
+resemble       	/ri'zembl/          	v.像,类似              

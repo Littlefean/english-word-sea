@@ -1,0 +1,4 @@
+speech         	/spi:tʃ/            	n.演说,讲话;言语,语言       
+articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+tell           	/tel/               	vt.告诉，讲述；告诫；吩咐，命令；辨 
+teach          	/ti:tʃ/             	vt.教，讲授；教导(训)vi.讲课，当教师

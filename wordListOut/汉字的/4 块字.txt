@@ -1,0 +1,4 @@
+block          	/blɒk/              	n.大块木（石）料;街区;障碍物 v.阻塞,拦阻
+chop           	/tʃɔp/              	v.砍,劈,斩 n.排骨,肉块     
+tumour         	/'tju:mə/           	n.(tumor)(肿)瘤，肿块    
+module         	/'mɔdju:l/          	n.组件，模块，模件；(航天器的)舱  

@@ -1,0 +1,6 @@
+major          	/'meidʒə/           	a.主要的n.成年人,专业学生,主修课程v.主修
+course         	/kɔ:s/              	n.课程,教程;过程,进程;路程,路线;一道菜
+extreme        	/ik'stri:m/         	a.末端的,尽头的;极度的 n.极端;最大程度
+programme      	/'prəugræm/         	n.(program)节目,计划,规划,程序 v.编程序
+journey        	/'dʒə:ni/           	n.旅行,旅程 v.旅行        
+departure      	/di'pɑ:tʃə/         	n.离开,起程             

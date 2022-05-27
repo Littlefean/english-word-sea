@@ -1,0 +1,6 @@
+conduct        	/'kɔndʌkt/          	n.行为,品行 v.引导;管理;指挥(乐队);传导
+steer          	/stiə/              	vt.驾驶，为…操舵；引导vi.驾驶  
+reporter       	/ri'pɔ:tə/          	n.报告人,通讯员;记者,报导者    
+navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+teach          	/ti:tʃ/             	vt.教，讲授；教导(训)vi.讲课，当教师
+guidance       	/'gaidəns/          	n.引导,指导             

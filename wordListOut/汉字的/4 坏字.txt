@@ -1,0 +1,4 @@
+wreck          	/rek/               	n.失事船(或飞机)v.(船等)失事,遇难;破坏
+commit         	/kə'mit/            	v.把…交托给,提交;犯(错误),干(坏事)
+poisonous      	/'pɔizənəs/         	a.有毒的,恶意的,恶毒的,道德败坏的 
+destructive    	/di'strʌktiv/       	a.破坏性               

@@ -1,0 +1,8 @@
+sponge         	/spʌndʒ/            	n.海绵                
+ocean          	/'əuʃən/            	n.海洋                
+navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+bottom         	/'bɔtəm/            	n.底(部);基础,根基;海底,湖底,河床
+harbor         	/'hɑ:bə/            	n.(harbour)海港;避难所 v.隐匿,窝藏
+navy           	/'neivi/            	n.海军                
+voyage         	/'vɔiidʒ/           	n.航海;航行;旅行          
+sea            	/si:/               	n.海，海洋，大量           

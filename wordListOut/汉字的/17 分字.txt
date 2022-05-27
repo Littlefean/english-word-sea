@@ -1,0 +1,17 @@
+component      	/kəm'pəunənt/       	n.组成部分,成分,元件 a.组成的,合成的
+sharp          	/ʃɑ:p/              	a.锋利的;轮廓分明的;急转的ad.(指时刻)正
+mostly         	/'məustli/          	ad.几乎全部地;主要地,大部分,基本上
+sufficient     	/sə'fiʃənt/         	a.(for)足够的,充分的(比enough拘谨、正式)
+slice          	/slais/             	n.薄片,切片;一份;部分切(片)   
+percentage     	/pə'sentidʒ/        	n.百分数,百分率,百分比       
+enough         	/i'nʌf/             	a.(for)足够的 n.足够,充分 ad.足够地
+assign         	/ə'sain/            	vt.派给，分配；选定，指定(时间、地点等)
+participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+installment    	/in'stɔ:lmənt/      	n.(instalment)分期付款；(连载的)一期
+disperse       	/dis'pə:s/          	v.(使)分散;(使)散开;疏散    
+addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+proportion     	/prə'pɔ:ʃn/         	n.比例;部分;均衡,相称       
+measure        	/'meʒə/             	v.测量,分派,权衡 n.尺寸,量度器,措施,办法
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+group          	/gru:p/             	n.群,组 v.分组          
+penny          	/'peni/             	n.便士,美分             

@@ -1,0 +1,6 @@
+infrastructure 	/'infrəˌstrʌktʃə/   	n.基础结构，基础设施         
+establishment  	/i'stæbliʃmənt/     	n.建立,设立,建立的机构(或组织)  
+fairy          	/'feəri/            	a.幻想中的;虚构的;优雅的 n.仙女;精灵
+fiber          	/faɪbə/             	n.(fibre)纤维;构造;纤维制品 
+organ          	/'ɔ:gən/            	n.器官;机构,机关;风琴       
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法

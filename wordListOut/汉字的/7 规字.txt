@@ -1,0 +1,7 @@
+standard       	/'stændəd/          	n.标准,规则 a.标准的       
+compass        	/'kʌmpəs/           	n.罗盘,指南针;(pl.)圆规    
+small          	/smɔ:l/             	a.小的；年幼的；不重要的；小规模(经营)的
+regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+large          	/lɑ:dʒ/             	a.大的,广大的,大规模的       
+petty          	/'peti/             	a.小(器、规模)的,不重要的,细微的,卑鄙的
+programme      	/'prəugræm/         	n.(program)节目,计划,规划,程序 v.编程序

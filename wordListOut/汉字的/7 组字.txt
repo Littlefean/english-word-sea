@@ -1,0 +1,7 @@
+component      	/kəm'pəunənt/       	n.组成部分,成分,元件 a.组成的,合成的
+establishment  	/i'stæbliʃmənt/     	n.建立,设立,建立的机构(或组织)  
+batch          	/bætʃ/              	n.一批,一组,一群          
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+suite          	/swi:t/             	n.套间；一套家具；套，组，系列    
+module         	/'mɔdju:l/          	n.组件，模块，模件；(航天器的)舱  
+group          	/gru:p/             	n.群,组 v.分组          

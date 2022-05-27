@@ -1,0 +1,3 @@
+kid            	/kid/               	n.小孩,儿童 v.戏弄,取笑     
+child          	/tʃaɪld/            	n.( [pl.] children)小孩，儿童，儿女
+lad            	/læd/               	n.男孩,小伙子            

@@ -1,0 +1,9 @@
+fabulous       	/'fæbjuləs/         	a.极好的；极为巨大的；寓言中的，传说中的
+axis           	/'æksis/            	n.轴，轴线，中心线；坐标轴，基准线  
+fairy          	/'feəri/            	a.幻想中的;虚构的;优雅的 n.仙女;精灵
+interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+moderate       	/'mɔdərət/          	a.有节制的,中等的,适度的,温和的,稳健的
+copy           	/'kɒpi/             	n.抄本，摹本；(一)本 vt.抄写；考试中抄袭
+hollow         	/'hɔləu/            	a.空的,中空的;空洞的,空虚的 v.挖空,凿空
+interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+win            	/wɪn/               	vi.获胜，赢 vt.赢得；在…中获胜 n.胜利

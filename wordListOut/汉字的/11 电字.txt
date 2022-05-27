@@ -1,0 +1,11 @@
+outlet         	/'autlet/           	n.出路,出口;销路,市场;发泄方法;电源插座
+trolley        	/'trɔli/            	n.手推车;(英)无轨电车,(美)有轨电车
+electricity    	/ˌilek'trisəti/     	n.电,电流;电学           
+e-mail         	/i: meɪl/           	n.(electronic mail)电子信函，电子邮件
+dial           	/'daiəlˌ dail/      	n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话
+circuit        	/'sə:kit/           	n.环行,周线,巡回;电路,线路    
+cinema         	/'sinəmə/           	n.电影院;电影,影片         
+telegraph      	/'teligrɑ:f/        	n.电报机,电报 v.打电报,发电报  
+detector       	/dɪ'tektə(r)/       	n.发现者,侦察器,探测器,检波器,检电器
+voltage        	/'vəultidʒ/         	n.电压                
+lift           	/lift/              	v.升起,举起,消散  n.电梯,上升,免费搭车

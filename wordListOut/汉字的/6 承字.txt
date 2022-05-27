@@ -1,0 +1,6 @@
+admit          	/əd'mit/            	vt.承认，供认；准许…进入，准许...加入
+recognize      	/'rekəgnaɪz/        	v.(recognise)认出,承认,公认,赏识,表扬
+acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+contract       	/'kɔntrækt/         	n.(承包)合同            
+confess        	/kən'fes/           	v.供认，承认，坦白，忏悔       
+succeed        	/sək'si:d/          	vi.成功；继承，接替 vt.接替；继…之后

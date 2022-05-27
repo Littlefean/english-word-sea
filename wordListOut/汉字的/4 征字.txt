@@ -1,0 +1,4 @@
+levy           	/'levi/             	n.征收,征税,征兵 v.征收,征集,征用
+symbol         	/'simbəl/           	n.符号,标志;象征          
+recruit        	/ri'kru:t/          	v.征募(新兵)，吸收；补充 n.新成员，新兵
+characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性

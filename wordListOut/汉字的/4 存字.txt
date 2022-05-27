@@ -1,0 +1,4 @@
+alive          	/ə'laiv/            	a.活着的；存在的；活跃的；(to)敏感的
+survival       	/sə'vaivəl/         	n.幸存,生存;幸存者,残存物     
+life           	/laif/              	n.生命，生存；一生，寿命；生活；生物 
+access         	/'ækses/            	n.进入；接入；到达；享用权；入口 vi.存取

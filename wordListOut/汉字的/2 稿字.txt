@@ -1,0 +1,2 @@
+script         	/skript/            	n.剧本(原稿)；手稿，原稿；笔迹，手迹
+manuscript     	/'mænjuskript/      	n.手稿,原稿             

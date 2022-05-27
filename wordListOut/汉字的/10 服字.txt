@@ -1,0 +1,10 @@
+tame           	/teim/              	a.驯服的,温顺的;沉闷的,乏味的 vt.驯服
+serve          	/sə:v/              	v.服务,尽责;招待,侍候;符合,适用 
+accessory      	/ək'sesəri/         	n.附件,附属品;(为全套衣服增加美感的)服饰
+comply         	/kəm'plai/          	v.(with)遵照，照做，应允；顺从，服从
+obedience      	/ə'bi:diəns/        	n.服从,顺从             
+waiter         	/weitə/             	n.侍者,服务员            
+persuasion     	/pə'sweiʒən/        	n.说服,说服力            
+eloquent       	/'eləkwənt/         	a.雄辩的,有说服力的;善辩的,口才流利的
+clothes        	/kləuðz/            	n.衣服(虽为复数，亦不可数)     
+steward        	/'stju:əd/          	n.乘务员，服务员；看管人；膳食管理员 

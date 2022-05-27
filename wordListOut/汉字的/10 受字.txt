@@ -1,0 +1,10 @@
+privacy        	/'praivəsi/         	n.(不受干扰的)独处，自由，隐私；私生活
+sensitive      	/'sensətɪv/         	a.(to)敏感的,易受伤害的;灵敏的 
+acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+immune         	/i'mju:n/           	a.免疫的,有免疫力的;有受影响的;豁免的
+incur          	/in'kə:/            	v.招致,惹起,遭受          
+sheep          	/ʃi:p/              	n.(绵)羊；易受人摆布的人      
+susceptible    	/sə'septəbl/        	a.易受影响的;易受感动的;易受感染的 
+intact         	/in'tækt/           	a.完整无缺的,未经触动的,未受损伤的 
+available      	/ə'veɪləbl/         	a.(用于物)可用的；可见到的，接受采访的
+accept         	/ək'sept/           	vt.接受，领受；认可，同意 vi.同意，认可

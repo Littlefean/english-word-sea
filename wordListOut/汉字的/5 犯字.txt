@@ -1,0 +1,5 @@
+offensive      	/ə'fensiv/          	a.冒犯的,攻击的 n.攻势,进攻   
+sin            	/sin/               	n.罪,罪恶 v.犯罪         
+commit         	/kə'mit/            	v.把…交托给,提交;犯(错误),干(坏事)
+invasion       	/in'veiʒən/         	n.入侵,侵略,侵犯          
+crime          	/kraim/             	n.罪行,犯罪             

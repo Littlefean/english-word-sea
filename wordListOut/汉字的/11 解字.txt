@@ -1,0 +1,11 @@
+alleviate      	/ə'li:vieit/        	v.减轻，缓和，缓解(痛苦等)     
+explain        	/ik'splein/         	v.解释,说明             
+account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+reconcile      	/'rekənsail/        	v.使和好,调解,使调和;(to,with)使一致
+misunderstand  	/ˌmisʌndə'stænd/    	v.误解,误会             
+redundant      	/ri'dʌndənt/        	a.多余的,过剩的;(食物)丰富的;被解雇的
+settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+undo           	/ˌʌn'du:/           	v.松开,解开             
+decide         	/di'said/           	v.决定,下决心;解决,裁决      
+comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     

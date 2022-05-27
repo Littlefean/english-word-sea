@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  color: white;
+  height: 100vh;
+}
+body .switchBtn {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  top: 0;
+  left: 2px;
+  background-color: green;
+}
+body .box {
+  width: 60%;
+  height: 500px;
+  text-align: center;
+  /*outline: solid 1px;*/
+  margin: 200px auto 0;
+}
+body .box .eng {
+  font-size: 150px;
+  font-family: "Times New Roman", serif;
+  /*outline: solid 1px;*/
+}
+body .box .chinese {
+  font-size: 60px;
+  /*outline: solid 1px;*/
+}
+body .nextBtn {
+  width: 300px;
+  height: 60px;
+  position: absolute;
+  bottom: 0;
+}
+/*# sourceMappingURL=index.css.map */

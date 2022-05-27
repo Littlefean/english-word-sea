@@ -1,0 +1,7 @@
+expire         	/ik'spaiə/          	v.期满,(期限)终止;呼气;断气,死亡
+doctor         	/dɔktə/             	n.医生;博士 vt.授以博士学位;诊断;修改
+conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+continual      	/kən'tinjuəl/       	a.不断的,连续的,频繁的       
+interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+inference      	/'infərəns/         	n.推论,推理,推断;结论       
+infer          	/in'fə:/            	v.推论,推断             

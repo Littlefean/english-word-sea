@@ -1,0 +1,5 @@
+account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+tell           	/tel/               	vt.告诉，讲述；告诫；吩咐，命令；辨 
+depict         	/di'pikt/           	v.描绘;描写,描述          
+proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+premise        	/pri'maiz/          	n.前提,房屋连地基v.提论,预述,假定

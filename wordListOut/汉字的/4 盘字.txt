@@ -1,0 +1,4 @@
+compass        	/'kʌmpəs/           	n.罗盘,指南针;(pl.)圆规    
+tray           	/trei/              	n.盘,碟,托盘            
+dial           	/'daiəlˌ dail/      	n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话
+keyboard       	/'ki:bɔ:d/          	n.键盘 vt.用键盘输入(信息)   

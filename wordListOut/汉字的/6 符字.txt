@@ -1,0 +1,6 @@
+expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+serve          	/sə:v/              	v.服务,尽责;招待,侍候;符合,适用 
+satisfactory   	/ˌsætis'fæktəri/    	a.令人满意的,圆满的,良好的,符合要求的
+symbol         	/'simbəl/           	n.符号,标志;象征          
+correspondence 	/ˌkɔ:ris'pɔndəns/   	n.通信,信件;(with)符合;(to)相当于,对应

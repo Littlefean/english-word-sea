@@ -1,0 +1,5 @@
+tile           	/tail/              	n.瓦片,瓷砖 vt.铺瓦于，贴砖于  
+musical        	/'mju:zikəl/        	a.音乐的;有音乐才能的 n.音乐片  
+slice          	/slais/             	n.薄片,切片;一份;部分切(片)   
+scrap          	/skræp/             	n.碎片;废料 v.废弃,报废     
+cinema         	/'sinəmə/           	n.电影院;电影,影片         

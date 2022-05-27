@@ -1,0 +1,10 @@
+fix            	/fiks/              	v.(使)固定;修理;安装;决定;注视 n.困境
+scrutiny       	/'skru:tini/        	n.周密的调查；仔细看；监视；选票复查 
+envisage       	/in'vizidʒ/         	v.想象，设想，展望，正视       
+sight          	/sait/              	n.视力;望见,瞥见;视域;眼界;情景,奇观
+ignore         	/ig'nɔ:/            	v.不理,不顾,忽视          
+glance         	/glɑ:ns/            	v.(at,over)扫视 n.匆匆看,一瞥,一眼
+visit          	/'vizit/            	n.访问,参观 v.访问,参观;视察;降临;闲谈
+monitor        	/'mɒnɪtə(r)/        	n.班长;监听器,监视器 v.监控,监测
+inspect        	/in'spekt/          	vt.检查,调查,视察         
+disregard      	/disri'gɑ:d/        	vt.不理会;忽视;漠视 n.忽视;漠视

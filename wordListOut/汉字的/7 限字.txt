@@ -1,0 +1,7 @@
+expire         	/ik'spaiə/          	v.期满,(期限)终止;呼气;断气,死亡
+constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+quota          	/'kwəutə/           	n.(生产、进出口等的)配额，(移民的)限额
+minimum        	/'miniməm/          	n.最小值,最低限度 a.最小的,最低的
+restrict       	/ri'strikt/         	v.限制,约束             
+utmost         	/'ʌtməust/          	a.最远的;极度的 n.极限,极度,最大可能
+finite         	/'fainait/          	a.有限的；[数]有穷的,限定的    

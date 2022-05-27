@@ -1,0 +1,4 @@
+abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+switch         	/switʃ/             	n.开关；转换；鞭子 v.转变,转换；抽打
+lottery        	/'lɔtəri/           	n.抽彩；碰运气的事，难于算计的事   
+sprout         	/spraut/            	vi.发芽，抽条 vt.使发芽 n.新芽，嫩苗

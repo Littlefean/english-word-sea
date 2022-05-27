@@ -1,0 +1,9 @@
+membership     	/'membəʃɪp/         	n.会员资格,成员资格         
+temperament    	/'tempərəmənt/      	n.气质，性格，性情；资质       
+finance        	/fai'næns/          	n.财政,金融 v.为…提供资金    
+resource       	/ri'sɔ:s/           	n.(pl.)资源,财力;办法,智谋;应变之才
+endow          	/in'dau/            	vt.资助，捐赠；(with)给予，赋予
+elder          	/'eldə/             	a.年长的,资格老的 n.长辈     
+substance      	/'sʌbstəns/         	n.物质；实质，本质；主旨；财产，资产 
+pool           	/pu:l/              	n.水池,游泳池;合资经营v.合伙经营,联营
+turnover       	/'tə:nˌəuvə/        	n.翻倒(物);人员调整;(资金等)周转;营业额

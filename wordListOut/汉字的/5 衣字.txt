@@ -1,0 +1,5 @@
+accessory      	/ək'sesəri/         	n.附件,附属品;(为全套衣服增加美感的)服饰
+clothes        	/kləuðz/            	n.衣服(虽为复数，亦不可数)     
+sweater        	/'swetə/            	n.毛衣,绒衣,厚运动衫        
+pocket         	/'pɔkit/            	n.衣袋 a.袖珍的,小型的 v.把…装入袋内
+cardinal       	/'kɑ:dɪnl/          	n.(天主教的)红衣主教 a.首要的，基本的

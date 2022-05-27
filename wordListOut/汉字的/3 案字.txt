@@ -1,0 +1,3 @@
+scheme         	/ski:m/             	n.计划,方案;阴谋;配置 v.计划,策划;阴谋
+answer         	/'ɑ:nsə/            	vt.回答，答复，答案 v.回答，答复，响应
+introduce      	/ˌintrə'dju:s/      	vt.介绍；引进，传入；提出(议案等) 

@@ -1,0 +1,6 @@
+absolute       	/'æbsəlju:t/        	a.绝对的，完全的；确实的，肯定的   
+accomplish     	/ə'kʌmpliʃ/         	v.实现(计划等)；达到(目的)；完成(任务)
+half           	/hɑ:fˌ hæf/         	n.半，一半 a.一半的，不完全的 ad.一半地
+wholly         	/'həuli/            	ad.完全地,全部,一概        
+dead           	/ded/               	a.死的；无生命的；死气沉沉的 ad.完全地
+intact         	/in'tækt/           	a.完整无缺的,未经触动的,未受损伤的 

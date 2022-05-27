@@ -1,0 +1,7 @@
+acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+triumph        	/'traiəmf/          	n.胜利,成功 v.得胜,战胜     
+desirable      	/di'zaiərəbl/       	a.值得做的;合意的,称心的;期望得到的
+get            	/get/               	v.获得，得到；使，使得；变得，成为；到达
+buy            	/baɪ/               	vt.买，买得；向…行贿，收买vi.购买东西
+win            	/wɪn/               	vi.获胜，赢 vt.赢得；在…中获胜 n.胜利

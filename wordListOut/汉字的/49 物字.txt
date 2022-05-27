@@ -1,0 +1,49 @@
+spur           	/spə:/              	n.靴刺,马刺;刺激,刺激物 v.刺激,激励
+favorite       	/'feivərit/         	n.(favourite)最喜欢的人或物 a.喜爱的
+monster        	/'mɔnstə/           	n.怪物,妖怪,畸形的动植物      
+fork           	/fɔ:k/              	n.叉,耙;叉形物;餐叉        
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+danger         	/'deindʒə/          	n.危险;威胁;危险事物        
+creep          	/kri:p/             	v.爬,爬行;(植物)蔓延       
+annual         	/'ænjuəl/           	a.每年的，一年生的 n.年刊；一年生植物
+veil           	/veil/              	n.面纱,遮蔽物 v.用面纱掩盖,掩饰 
+anything       	/'eniθiŋ/           	pron.任何东西(事物)；无论什么东西(事物)
+block          	/blɒk/              	n.大块木（石）料;街区;障碍物 v.阻塞,拦阻
+shipment       	/'ʃɪpmənt/          	n.装船,装运;装载的货物,装货量   
+cereal         	/'siəriəl/          	n.加工而成的谷类食物；谷类植物，谷物 
+organism       	/'ɔ:gənizəm/        	n.生物，有机体            
+theirs         	/ðεəz/              	pron.[they的物主代词]他(她、它)们的
+reserve        	/ri'zə:v/           	n.储备(物),储备金;缄默 v.保留,储备;预定
+reliance       	/ri'laiəns/         	n.信任,信心,依靠,依靠的人或物   
+universe       	/'ju:nivə:s/        	n.宇宙,万物             
+product        	/'prɔdəkt/          	n.产品,产物;乘积          
+reptile        	/'reptail/          	n.爬行动物              
+present        	/'prezənt/          	a.出席的,现在的 n.现在,礼物 v.赠送,提出
+redundant      	/ri'dʌndənt/        	a.多余的,过剩的;(食物)丰富的;被解雇的
+grease         	/gri:s/             	n.动物脂,油脂,润滑脂 v.抹油,润滑
+physical       	/'fɪzɪkl/           	a.物质的;肉体的,身体的;自然科学的,物理的
+mammal         	/'mæməl/            	n.哺乳动物              
+survival       	/sə'vaivəl/         	n.幸存,生存;幸存者,残存物     
+ball           	/bɔ:l/              	n.球(状物);(正式的)舞会vt.把…捏成球状
+remainder      	/ri'meində/         	n.剩余物,剩下的;余数,余项     
+serial         	/'siəriəl/          	n.连载小说，连续剧；连载刊物 a.连续的
+assistant      	/ə'sistənt/         	a.帮助的，辅助的 n.助手，助教；辅助物
+addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+chamber        	/'tʃeimbə/          	n.房间，室；会议室；议院；(动物体内)腔室
+thing          	/θiŋ/               	n.物，东西；事，事情；所有物；局面，情况
+rib            	/rib/               	n.肋骨,肋状物            
+egg            	/eg/                	n.蛋; 卵; 卵形物         
+horn           	/hɔ:n/              	n.(牛羊等的)角;号,喇叭;角状物;角制品
+resemblance    	/ri'zembləns/       	n.相似,相似性[点,物]       
+life           	/laif/              	n.生命，生存；一生，寿命；生活；生物 
+substance      	/'sʌbstəns/         	n.物质；实质，本质；主旨；财产，资产 
+zoo            	/zu:/               	n.动物园               
+reading        	/'ri:diŋ/           	n.读书,读物,(仪表等的)读数,阅读 
+mixture        	/'mikstʃə/          	n.混合;混合物,混合剂        
+available      	/ə'veɪləbl/         	a.(用于物)可用的；可见到的，接受采访的
+equivalent     	/i'kwivələnt/       	a.(to)相等的,等价的 n.相等物,等价物
+counterpart    	/'kauntəˌpɑ:t/      	n.对应的人(或物)          
+turnover       	/'tə:nˌəuvə/        	n.翻倒(物);人员调整;(资金等)周转;营业额
+goods          	/gudz/              	n.(pl.)货物，商品        
+diet           	/'daiət/            	n.饮食,食物             
+jewel          	/'dʒu:əl/           	n.宝石,宝石饰物           

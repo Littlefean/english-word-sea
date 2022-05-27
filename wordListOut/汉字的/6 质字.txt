@@ -1,0 +1,6 @@
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+temperament    	/'tempərəmənt/      	n.气质，性格，性情；资质       
+essential      	/i'senʃəl/          	a.本质的,基本的;净化的 n.本质;要素
+physical       	/'fɪzɪkl/           	a.物质的;肉体的,身体的;自然科学的,物理的
+substance      	/'sʌbstəns/         	n.物质；实质，本质；主旨；财产，资产 
+protein        	/'prəuti:n/         	n.蛋白质               

@@ -1,0 +1,5 @@
+airport        	/'εəpɔ:t/           	n.机场，航空站，航空港        
+navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+voyage         	/'vɔiidʒ/           	n.航海;航行;旅行          
+module         	/'mɔdju:l/          	n.组件，模块，模件；(航天器的)舱  
+sail           	/seil/              	n.帆,航行 v.航行         

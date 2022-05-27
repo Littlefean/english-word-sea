@@ -1,0 +1,4 @@
+spectacular    	/spek'tækjulə/      	a.壮观的,引人注目的 n.壮观的演出 
+speech         	/spi:tʃ/            	n.演说,讲话;言语,语言       
+tour           	/tuə/               	n.旅游，旅行；巡回演出        
+deduct         	/di'dʌkt/           	vt.扣除;演绎(推理)        

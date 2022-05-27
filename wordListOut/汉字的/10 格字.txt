@@ -1,0 +1,10 @@
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+membership     	/'membəʃɪp/         	n.会员资格,成员资格         
+temperament    	/'tempərəmənt/      	n.气质，性格，性情；资质       
+fail           	/feil/              	v.失败,不及格;衰退,减弱      
+table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+your           	/jɔ:/               	pron.[you的所有格]你的，你们的
+elder          	/'eldə/             	a.年长的,资格老的 n.长辈     
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+whom           	/hu:m/              	pron.谁；哪个人(who的宾格)  
+him            	/him/               	pron.他(he的宾格形式)     

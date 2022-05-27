@@ -1,0 +1,118 @@
+expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+----------
+important      	/im'pɔ:tənt/        	a.重要的,重大的;有地位的,有权力的 
+	importance     	/im'pɔ:təns/        	n.重要,重要性            
+----------
+administer     	/əd'ministə/        	v.施行，实施；掌管，料理...的事务；给予
+	minister       	/'ministə/          	n.部长,大臣             
+----------
+interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+----------
+temporary      	/'tempərəri/        	a.暂时的,临时的           
+	contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+----------
+minister       	/'ministə/          	n.部长,大臣             
+	administer     	/əd'ministə/        	v.施行，实施；掌管，料理...的事务；给予
+----------
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+	characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+----------
+electricity    	/ˌilek'trisəti/     	n.电,电流;电学           
+	electric       	/i'lektrik/         	a.电的,导电的,电动的        
+----------
+responsibility 	/ri.spɔnsə'biliti/  	n.责任,责任心;职责,任务      
+	possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+----------
+experimental   	/ekˌsperi'mentəl/   	a.实验(性)的,试验(性)的     
+	experiment     	/ik'speriment/      	n.实验;试验 v.(on)进行实验;做试验
+----------
+importance     	/im'pɔ:təns/        	n.重要,重要性            
+	important      	/im'pɔ:tənt/        	a.重要的,重大的;有地位的,有权力的 
+----------
+participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+	participant    	/pɑ:'tisipənt/      	n.参加者,参与者 a.有份的,参与的 
+----------
+repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+----------
+possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+	responsibility 	/ri.spɔnsə'biliti/  	n.责任,责任心;职责,任务      
+----------
+experiment     	/ik'speriment/      	n.实验;试验 v.(on)进行实验;做试验
+	experimental   	/ekˌsperi'mentəl/   	a.实验(性)的,试验(性)的     
+----------
+contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+	temporary      	/'tempərəri/        	a.暂时的,临时的           
+----------
+dominant       	/'dɔminənt/         	a.支配的,统治的,占优势的      
+	predominant    	/ˌpri'dɔminənt/     	a.(over)占优势的;主要的,突出的
+----------
+assistant      	/ə'sistənt/         	a.帮助的，辅助的 n.助手，助教；辅助物
+	assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+----------
+predominant    	/ˌpri'dɔminənt/     	a.(over)占优势的;主要的,突出的
+	dominant       	/'dɔminənt/         	a.支配的,统治的,占优势的      
+----------
+neighbor       	/'neibə/            	n.(neighbour)邻居     
+	neighborhood   	/'neɪbə(r)ˌhud/     	n.(neighbourhood)邻居;四邻,街道
+----------
+comprehensive  	/ˌkɔmpri'hensiv/    	a.内容广泛的,总括性的，综合的    
+	comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+----------
+neighborhood   	/'neɪbə(r)ˌhud/     	n.(neighbourhood)邻居;四邻,街道
+	neighbor       	/'neibə/            	n.(neighbour)邻居     
+----------
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+resistant      	/ri'zistənt/        	a.(to)抵抗的,有抵抗力的     
+	resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+----------
+comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+	comprehensive  	/ˌkɔmpri'hensiv/    	a.内容广泛的,总括性的，综合的    
+----------
+preposition    	/ˌprepə'ziʃən/      	n.介词                
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+----------
+institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+----------
+proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+----------
+characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+	character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+----------
+institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+----------
+electric       	/i'lektrik/         	a.电的,导电的,电动的        
+	electricity    	/ˌilek'trisəti/     	n.电,电流;电学           
+----------
+resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+	resistant      	/ri'zistənt/        	a.(to)抵抗的,有抵抗力的     
+	assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+----------
+impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+----------
+participant    	/pɑ:'tisipənt/      	n.参加者,参与者 a.有份的,参与的 
+	participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+----------
+interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+	interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+----------
+assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+	assistant      	/ə'sistənt/         	a.帮助的，辅助的 n.助手，助教；辅助物
+	resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+----------

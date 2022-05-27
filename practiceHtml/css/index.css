@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@keyframes bgRedAni {
+  0% {
+    background-color: darkred;
+  }
+  100% {
+    background-color: darkslategrey;
+  }
+}
+@keyframes greenRedAni {
+  0% {
+    background-color: green;
+  }
+  100% {
+    background-color: darkslategrey;
+  }
+}
+body {
+  background-color: darkslategrey;
+  color: white;
+}
+body .bar {
+  height: 20px;
+  background-color: #1c2c2c;
+  position: relative;
+}
+body .bar .ok {
+  width: 0;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  background-color: greenyellow;
+}
+body .bar .no {
+  width: 0;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  background-color: orange;
+}
+body .count {
+  position: absolute;
+  right: 20%;
+  top: 5%;
+  font-size: 30px;
+}
+body .wordEnglish {
+  font-size: 120px;
+  line-height: 400px;
+  outline: solid 1px;
+  text-align: center;
+}
+body .details {
+  height: 120px;
+  background-color: #223737;
+  text-align: center;
+}
+body .details:hover > p {
+  visibility: visible;
+}
+body .details p {
+  visibility: hidden;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  line-height: 100px;
+  transition: all 0.2s;
+}
+body .buttonArea {
+  width: 100%;
+  height: 20%;
+  position: absolute;
+  bottom: 5%;
+  outline: solid 1px;
+  text-align: center;
+}
+body .buttonArea button {
+  font-size: 60px;
+  outline: none;
+  border: solid 5px;
+  border-radius: 50%;
+  padding: 30px;
+  background-color: transparent;
+  color: white;
+  transition: all 0.5s;
+}
+body .buttonArea button:hover {
+  transform: scale(1.2);
+  user-select: none;
+  cursor: pointer;
+}
+body .buttonArea button:active {
+  transform: scale(0.9);
+}
+body .buttonArea #ok {
+  margin-right: 200px;
+}
+body .bg {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+body .bg .inner {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  animation-name: bgRedAni;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+}
+body .bg .redInner {
+  animation-name: bgRedAni;
+}
+body .bg .greenInner {
+  animation-name: greenRedAni;
+}
+/*# sourceMappingURL=index.css.map */

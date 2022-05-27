@@ -1,0 +1,4 @@
+constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+inhibit        	/in'hibit/          	vt.抑制，约束            
+restrict       	/ri'strikt/         	v.限制,约束             

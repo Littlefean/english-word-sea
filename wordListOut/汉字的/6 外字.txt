@@ -1,0 +1,6 @@
+exception      	/ik'sepʃən/         	n.例外,除外;反对;异议       
+exterior       	/ik'stiəriə/        	a.外部的,外面的 n.外部      
+strange        	/streindʒ/          	a.奇怪的,奇异的;陌生的,生疏的;外地的
+surgery        	/'sə:dʒəri/         	n.外科,外科学;手术室,诊疗室    
+external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的
+pilgrim        	/'pilgrim/          	n.(在国外)旅游者;朝圣者,最初的移民

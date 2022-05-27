@@ -1,0 +1,5 @@
+abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+envisage       	/in'vizidʒ/         	v.想象，设想，展望，正视       
+symbol         	/'simbəl/           	n.符号,标志;象征          
+like           	/laik/              	v.喜欢 prep.象；比如 a.相象的 n.象…一样
+impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       

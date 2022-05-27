@@ -1,0 +1,22 @@
+nutrition      	/nju:'triʃən/       	n.营养,营养学            
+technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+scholar        	/'skɔlə/            	n.学者                
+ethnic         	/'eθnik/            	a.种族的；人种学的          
+electricity    	/ˌilek'trisəti/     	n.电,电流;电学           
+major          	/'meidʒə/           	a.主要的n.成年人,专业学生,主修课程v.主修
+acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+doctor         	/dɔktə/             	n.医生;博士 vt.授以博士学位;诊断;修改
+acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+undergraduate  	/ˌʌndə'grædjuət/    	n.大学生,大学肆业生         
+historian      	/his'tɔ:riən/       	n.历史学家              
+physical       	/'fɪzɪkl/           	a.物质的;肉体的,身体的;自然科学的,物理的
+campus         	/'kæmpəs/           	n.(大学)校园            
+surgery        	/'sə:dʒəri/         	n.外科,外科学;手术室,诊疗室    
+bachelor       	/'bætʃələ/          	n.单身汉;(亦作B-)学士(学位)  
+biography      	/bai'ɔgrəfi/        	n.传记；传记文学           
+satire         	/'sætaiə/           	n.讽刺,讽刺文学,讽刺作品      
+science        	/'saiəns/           	n.科学;学科             
+chemist        	/'kemist/           	n.化学家;药剂师           
+scientist      	/'saiəntist/        	n.科学家               
+institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+scientific     	/ˌsaiən'tifik/      	a.科学上的              

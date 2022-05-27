@@ -1,0 +1,8 @@
+breed          	/bri:d/             	v.(使)繁殖,生殖;产生;教养,抚养 n.品种
+educate        	/'edju:keit/        	v.教育,培养,训练          
+course         	/kɔ:s/              	n.课程,教程;过程,进程;路程,路线;一道菜
+sister         	/'sɪstə(r)/         	n.姐，妹；护士长；修女，女教士    
+assistant      	/ə'sistənt/         	a.帮助的，辅助的 n.助手，助教；辅助物
+teach          	/ti:tʃ/             	vt.教，讲授；教导(训)vi.讲课，当教师
+theater        	/'θiətə/            	n.(theatre)戏院;戏剧;阶梯教室
+cardinal       	/'kɑ:dɪnl/          	n.(天主教的)红衣主教 a.首要的，基本的

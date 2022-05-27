@@ -1,0 +1,10 @@
+eccentric      	/ik'sentrik/        	a.古怪的，怪癖的，异乎寻常的n.古怪的人
+unusual        	/ˌʌn'ju:ʒuəl/       	a.不平常的,与众不同的        
+normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+frequent       	/'fri:kwənt/        	a.时常发生的,频繁的         
+occasional     	/ə'keiʒənəl/        	a.偶然的,非经常的,特殊场合的;临时的
+resident       	/'rezidənt/         	n.居民,常住者 a.居住的      
+weekday        	/'wi:kdeɪ/          	n.平常日,工作日           
+often          	/'ɔfən/             	ad.常常，经常，通常         
+height         	/hait/              	n.高,高度;(常pl.)高地,高处  
+accustomed     	/ə'kʌstəmd/         	a.惯常的；习惯的，适应的(一般作表语)

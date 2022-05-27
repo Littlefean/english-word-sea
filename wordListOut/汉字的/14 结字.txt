@@ -1,0 +1,14 @@
+tangle         	/'tæŋgl/            	n.纠缠；缠结；混乱 v.(使)缠绕；变乱
+unite          	/ju:'nait/          	vi.联合,团结;统一,合并vt.使联合
+seed           	/si:d/              	n.种子 v.播种;结实,结籽     
+infrastructure 	/'infrəˌstrʌktʃə/   	n.基础结构，基础设施         
+solid          	/'sɔlid/            	a.固体的;结实的,稳固的,可靠的 n.固体
+outcome        	/'autkʌm/           	n.结果,成果             
+conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+stumble        	/'stʌmbl/           	n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说
+solidarity     	/ˌsɔli'dæriti/      	n.团结；休戚相关           
+suppose        	/sə'pəuz/           	v.料想,猜想;假定;conj.假使...结果会怎样
+inference      	/'infərəns/         	n.推论,推理,推断;结论       
+unity          	/'ju:niti/          	n.团结;统一,一致,整体       
+catastrophe    	/kə'tæstrəfi/       	n.大灾难；(悲剧)结局        

@@ -1,0 +1,6 @@
+abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+idea           	/ai'diə/            	n.想法，念头；概念，观念；意见，主意 
+wholly         	/'həuli/            	ad.完全地,全部,一概        
+perhaps        	/pə'hæps/           	ad.也许,大概,恐怕         
+presumably     	/pri'zju:-məbli/    	ad.推测起来,大概          
+skeleton       	/'skelitən/         	n.骨骼;骨架,框架;梗概,提要    

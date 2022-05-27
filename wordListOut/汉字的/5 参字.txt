@@ -1,0 +1,5 @@
+parameter      	/pə'ræmitə/         	n.参数,参量             
+participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+banquet        	/'bæŋkwit/          	n.(正式的)宴会 vi.参加宴会 vt.宴情
+visit          	/'vizit/            	n.访问,参观 v.访问,参观;视察;降临;闲谈
+visitor        	/'vizitə/           	n.访问者,客人,来宾,参观者     

@@ -1,0 +1,72 @@
+small          	/smɔ:l/             	a.小的；年幼的；不重要的；小规模(经营)的
+	petty          	/'peti/             	a.小(器、规模)的,不重要的,细微的,卑鄙的
+----------
+trail          	/treil/             	n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;
+	track          	/træk/              	n.跑道,小路;轨迹,轮迹 v.跟踪,追踪
+----------
+mostly         	/'məustli/          	ad.几乎全部地;主要地,大部分,基本上
+	largely        	/'lɑ:dʒli/          	ad.主要地,基本上;大量地,大规模地 
+----------
+significance   	/sig'nifikəns/      	n.意义,含义;重要性,重要的     
+	meaning        	/'mi:niŋ/           	n.意思,意义,含义;重要性,价值   
+----------
+acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+----------
+acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+----------
+somehow        	/'sʌmhau/           	ad.以某种方式，用某种方法；不知怎么地
+	anyhow         	/'enihau/           	ad.不管怎么说，无论如何；不论用何种方法
+----------
+expand         	/ik'spænd/          	v.(使)膨胀,(使)扩张;张开,展开 
+	expansion      	/ik'spænʃən/        	n.扩张,膨胀;张开,伸展       
+----------
+disposal       	/dis'pəuzəl/        	n.处理,处置;布置,安排       
+	dispose        	/dɪ'spəuz/          	v.(of)处理,处置;(for)布置,安排
+----------
+meaning        	/'mi:niŋ/           	n.意思,意义,含义;重要性,价值   
+	significance   	/sig'nifikəns/      	n.意义,含义;重要性,重要的     
+----------
+threaten       	/'θretən/           	v.恐吓,威胁;有…危险,快要来临   
+	threat         	/θret/              	n.恐吓,威胁;坏兆头,危险迹象    
+----------
+petty          	/'peti/             	a.小(器、规模)的,不重要的,细微的,卑鄙的
+	small          	/smɔ:l/             	a.小的；年幼的；不重要的；小规模(经营)的
+----------
+indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+----------
+track          	/træk/              	n.跑道,小路;轨迹,轮迹 v.跟踪,追踪
+	trail          	/treil/             	n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;
+----------
+institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+threat         	/θret/              	n.恐吓,威胁;坏兆头,危险迹象    
+	threaten       	/'θretən/           	v.恐吓,威胁;有…危险,快要来临   
+----------
+indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+----------
+institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+	institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+----------
+dispose        	/dɪ'spəuz/          	v.(of)处理,处置;(for)布置,安排
+	disposal       	/dis'pəuzəl/        	n.处理,处置;布置,安排       
+----------
+contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+	devise         	/dɪ'vaɪz/           	vt.设计;发明;图谋;作出(计划);想出(办法)
+----------
+anyhow         	/'enihau/           	ad.不管怎么说，无论如何；不论用何种方法
+	somehow        	/'sʌmhau/           	ad.以某种方式，用某种方法；不知怎么地
+----------
+expansion      	/ik'spænʃən/        	n.扩张,膨胀;张开,伸展       
+	expand         	/ik'spænd/          	v.(使)膨胀,(使)扩张;张开,展开 
+----------
+devise         	/dɪ'vaɪz/           	vt.设计;发明;图谋;作出(计划);想出(办法)
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+----------
+largely        	/'lɑ:dʒli/          	ad.主要地,基本上;大量地,大规模地 
+	mostly         	/'məustli/          	ad.几乎全部地;主要地,大部分,基本上
+----------

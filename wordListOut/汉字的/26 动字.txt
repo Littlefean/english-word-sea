@@ -1,0 +1,26 @@
+monster        	/'mɔnstə/           	n.怪物,妖怪,畸形的动植物      
+maneuver       	/mə'nu:və/          	n.(manoeuvre)机动;运用,操作; v.机动
+wind           	/wɪnd/              	n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行
+drive          	/draiv/             	v.开(车);驱;驱动,把(钉,桩)打入 n.驾驶
+motion         	/'məuʃn/            	n.运动,动;提议,动议 v.提议,动议
+playground     	/'pleɪgraund/       	n.运动场,游戏场           
+lash           	/læʃ/               	v.鞭打,摆动,捆扎 n.鞭子,鞭打,睫毛,讽刺
+trouble        	/'trʌbl/            	n.烦恼;动乱;疾病;故障;辛苦v.(使)烦恼
+exciting       	/ik'saitiŋ/         	a.令人兴奋的,使人激动的       
+labor          	/'leibə/            	n.(labour)工作，劳动；劳力 v.劳动，苦干
+impetus        	/'ɪmpɪtəs/          	n.推动(力),促进          
+reptile        	/'reptail/          	n.爬行动物              
+swarm          	/swɔ:m/             	n.蜂群;一大群 vi.涌往;挤满;云集;成群移动
+grease         	/gri:s/             	n.动物脂,油脂,润滑脂 v.抹油,润滑
+mammal         	/'mæməl/            	n.哺乳动物              
+excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+chamber        	/'tʃeimbə/          	n.房间，室；会议室；议院；(动物体内)腔室
+sweater        	/'swetə/            	n.毛衣,绒衣,厚运动衫        
+uproar         	/'ʌprɔ:/            	n.骚动,喧嚣,鼎沸          
+susceptible    	/sə'septəbl/        	a.易受影响的;易受感动的;易受感染的 
+passive        	/'pæsiv/            	a.被动的,消极的           
+zoo            	/zu:/               	n.动物园               
+intact         	/in'tækt/           	a.完整无缺的,未经触动的,未受损伤的 
+portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+deed           	/di:d/              	n.行为,行动;功绩,事迹;证书；契据 
+statesman      	/'steitsmən/        	n.政治家,国务活动家         

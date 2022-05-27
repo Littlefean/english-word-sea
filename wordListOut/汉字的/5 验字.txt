@@ -1,0 +1,5 @@
+taste          	/teist/             	v.品尝;(of)有…味道;体验 n.滋味;味觉
+experimental   	/ekˌsperi'mentəl/   	a.实验(性)的,试验(性)的     
+acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+try            	/trai/              	v.尝试，试图；试验，试用；审讯 n.尝试
+experiment     	/ik'speriment/      	n.实验;试验 v.(on)进行实验;做试验

@@ -1,0 +1,5 @@
+foster         	/'fɔstə/            	vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者
+acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+levy           	/'levi/             	n.征收,征税,征兵 v.征收,征集,征用
+buy            	/baɪ/               	vt.买，买得；向…行贿，收买vi.购买东西
+recruit        	/ri'kru:t/          	v.征募(新兵)，吸收；补充 n.新成员，新兵

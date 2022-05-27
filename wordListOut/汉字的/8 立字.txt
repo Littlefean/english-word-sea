@@ -1,0 +1,8 @@
+isolate        	/'aisəleit/         	vt.隔离,孤立            
+found          	/faund/             	vt.建立;创立;创办;使有根据;铸造;熔制
+rise           	/raiz/              	v.升起;起立;上涨;起义 n.上涨,增高;起源
+upright        	/'ʌprait/           	a.垂直的,直立的;正直的,诚实的 ad.竖立着
+establishment  	/i'stæbliʃmənt/     	n.建立,设立,建立的机构(或组织)  
+build          	/bild/              	vt.建造，建筑；建设，建立 vi.增大，增强
+cube           	/kju:b/             	n.立方形,立方体;立方,三次幂    
+institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定

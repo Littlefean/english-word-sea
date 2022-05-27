@@ -1,0 +1,4 @@
+evoke          	/i'vəuk/            	vt.唤起(回忆、感情等)；引起    
+circuit        	/'sə:kit/           	n.环行,周线,巡回;电路,线路    
+answer         	/'ɑ:nsə/            	vt.回答，答复，答案 v.回答，答复，响应
+tour           	/tuə/               	n.旅游，旅行；巡回演出        

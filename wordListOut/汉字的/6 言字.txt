@@ -1,0 +1,6 @@
+speech         	/spi:tʃ/            	n.演说,讲话;言语,语言       
+fabulous       	/'fæbjuləs/         	a.极好的；极为巨大的；寓言中的，传说中的
+fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+prophet        	/'prɔfit/           	n.预言家；先知；提倡者        
+speaker        	/'spi:kə/           	n.说话者，发言者；说某种语言者；扬声器
+declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          

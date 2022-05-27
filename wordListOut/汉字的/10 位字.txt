@@ -1,0 +1,10 @@
+important      	/im'pɔ:tənt/        	a.重要的,重大的;有地位的,有权力的 
+locality       	/ləu'kæləti/        	n.位置,地点             
+doctor         	/dɔktə/             	n.医生;博士 vt.授以博士学位;诊断;修改
+orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+locate         	/ləu'keit/          	v.查出,探出,查找…地点,使…坐落于,位于
+underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+post           	/pəust/             	v.贴出;公告;投寄 n.(支)柱;邮政,邮寄;职位
+phase          	/feɪz/              	n.阶段,状态,时期;相,相位     
+bachelor       	/'bætʃələ/          	n.单身汉;(亦作B-)学士(学位)  

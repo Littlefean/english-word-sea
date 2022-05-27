@@ -1,0 +1,10 @@
+depth          	/depθ/              	n.深，深度,深奥,深刻        
+temperature    	/'temprətʃə(r)/     	n.温度，体温；热度，发烧       
+spectrum       	/'spektrəm/         	n.谱，光谱，频谱；范围，幅度，系列  
+dial           	/'daiəlˌ dail/      	n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话
+extreme        	/ik'stri:m/         	a.末端的,尽头的;极度的 n.极端;最大程度
+moderate       	/'mɔdərət/          	a.有节制的,中等的,适度的,温和的,稳健的
+height         	/hait/              	n.高,高度;(常pl.)高地,高处  
+measure        	/'meʒə/             	v.测量,分派,权衡 n.尺寸,量度器,措施,办法
+minimum        	/'miniməm/          	n.最小值,最低限度 a.最小的,最低的
+utmost         	/'ʌtməust/          	a.最远的;极度的 n.极限,极度,最大可能

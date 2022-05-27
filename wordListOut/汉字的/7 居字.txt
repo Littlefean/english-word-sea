@@ -1,0 +1,7 @@
+settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+resident       	/'rezidənt/         	n.居民,常住者 a.居住的      
+neighbor       	/'neibə/            	n.(neighbour)邻居     
+emigrate       	/'emigreit/         	v.(反)immigrate;(to,from)自本国移居他
+neighborhood   	/'neɪbə(r)ˌhud/     	n.(neighbourhood)邻居;四邻,街道
+citizen        	/'sitizən/          	n.公民;市民,居民          
+living-room    	/'lɪvɪŋ ru:m/       	n.起居室               

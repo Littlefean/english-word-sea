@@ -1,0 +1,9 @@
+steep          	/sti:p/             	a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸
+opera          	/'ɔpərə/            	n.歌剧                
+comedy         	/'kɒmɪdɪ/           	n.喜剧;喜剧性事件          
+script         	/skript/            	n.剧本(原稿)；手稿，原稿；笔迹，手迹
+serial         	/'siəriəl/          	n.连载小说，连续剧；连载刊物 a.连续的
+aggravate      	/'ægrəveit/         	vt.加重(剧),使恶化；激怒,使恼火 
+theater        	/'θiətə/            	n.(theatre)戏院;戏剧;阶梯教室
+trick          	/trik/              	n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗
+catastrophe    	/kə'tæstrəfi/       	n.大灾难；(悲剧)结局        

@@ -1,0 +1,3656 @@
+realistic      	/ˌriə'listik/       	a.现实(主义)的           
+	pessimistic    	/ˌpesi'mistik/      	a.悲观(主义)的           
+	specialist     	/'speʃəlist/        	n.专家                
+	characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+	realise        	/'riəlaiz/          	v.(realize)认识到,体会到;实现
+	artistic       	/ɑ:'tistik/         	a.艺术(家)的，美术(家)的；善于艺术创作的
+----------
+expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	procession     	/prəu'seʃən/        	n.队伍,行列             
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	oppress        	/ə'pres/            	v.压迫,压制             
+	depress        	/di'pres/           	v.压抑,降低;使沮丧,压下      
+	commission     	/kə'miʃən/          	n.委员会;委任,委托(书),代办;佣金,手续费
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+	passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+	compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+----------
+standard       	/'stændəd/          	n.标准,规则 a.标准的       
+	misunderstand  	/ˌmisʌndə'stænd/    	v.误解,误会             
+	standpoint     	/'stændpɔint/       	n.立场,观点             
+----------
+spectacular    	/spek'tækjulə/      	a.壮观的,引人注目的 n.壮观的演出 
+	muscular       	/'mʌskjulə/         	a.肌肉的;肌肉发达的;强健的     
+	spectrum       	/'spektrəm/         	n.谱，光谱，频谱；范围，幅度，系列  
+	inspect        	/in'spekt/          	vt.检查,调查,视察         
+	spectator      	/spek'teitə/        	n.观众,旁观者            
+----------
+nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+dictionary     	/'dikʃənəri/        	n.词典,字典             
+	direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	sanction       	/'sæŋˌkʃən/         	n.                  
+	revolutionary  	/ˌrevə'lju:ʃənəri/  	a.革命的,革新的 n.革命者     
+	junction       	/'dʒʌŋkʃən/         	n.连接,接合,交叉点,枢纽站,接头,中继线
+	fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+	reduction      	/rɪ'dʌkʃn/          	n.减小,减少,缩小          
+----------
+pollution      	/pə:'lju:ʃən/       	n.污染                
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	precaution     	/pri'kɔ:ʃən/        	n.预防,谨慎,警惕          
+	solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     
+	revolutionary  	/ˌrevə'lju:ʃənəri/  	a.革命的,革新的 n.革命者     
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+favorite       	/'feivərit/         	n.(favourite)最喜欢的人或物 a.喜爱的
+	favorable      	/'feivərəbl/        	a.(favourable)赞许的,有利的,讨人喜欢的
+----------
+technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+	technique      	/tek'ni:k/          	n.技巧，手艺，技能；技术，工艺    
+	psychology     	/psai'kɔlədʒi/      	n.心理,心理学,心理状态       
+	technical      	/'teknikəl/         	a.技术(性)的，工艺的；专门性的，专业性的
+	sociology      	/ˌsəusi'ɔlədʒi/     	n.社会学               
+----------
+important      	/im'pɔ:tənt/        	a.重要的,重大的;有地位的,有权力的 
+	importance     	/im'pɔ:təns/        	n.重要,重要性            
+	import         	/im'pɔ:t/           	v.                  
+	portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+----------
+vicious        	/'viʃəs/            	a.恶毒的,凶残的,邪恶的       
+	conscious      	/'kɔnʃəs/           	a.(of)意识到的,自觉的;神志清醒的
+----------
+component      	/kəm'pəunənt/       	n.组成部分,成分,元件 a.组成的,合成的
+	compound       	/'kɒmpaund /        	n.混合物,化合物 a.混合的,化合的；vt.混合
+	compose        	/kəm'pəuz/          	v.组成,构成;(of)由…组成;创作(诗歌等)
+----------
+mountain       	/'mauntin/          	n.山                 
+	container      	/kən'teinə/         	n.容器;集装箱            
+----------
+isolate        	/'aisəleit/         	vt.隔离,孤立            
+	violate        	/'vaiəleit/         	vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)
+----------
+administer     	/əd'ministə/        	v.施行，实施；掌管，料理...的事务；给予
+	minister       	/'ministə/          	n.部长,大臣             
+	register       	/'redʒistə/         	n.                  
+	badminton      	/'bædmintən/        	n.羽毛球               
+	sister         	/'sɪstə(r)/         	n.姐，妹；护士长；修女，女教士    
+----------
+conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	conversion     	/kən'və:ʃən/        	n.转变，转换；信仰的改变；      
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	universal      	/ˌju:ni'və:səl/     	a.普遍的,全体的,通用的;宇宙的,世界的
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	inverse        	/'invə:s/           	a.相反的,倒转的,反转的 n.相反之物 v.倒转
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+	interfere      	/ˌintə'fiə/         	v.(in)干涉,干预;(with)妨碍,打扰
+	interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	underestimate  	/ˌʌndə'estimeit/    	vt.低估，看轻            
+	intermittent   	/ˌɪntə'mɪtənt/      	a.间歇的,断断续续的         
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+----------
+naughty        	/'nɔ:ti/            	a.顽皮的,淘气的           
+	daughter       	/'dɔ:tə/            	n.女儿                
+----------
+unlikely       	/ˌʌn'laikli/        	a.未必的,靠不住的          
+	likely         	/'laikli/           	a.很可能的,有希望的 ad.大概,多半
+----------
+temporary      	/'tempərəri/        	a.暂时的,临时的           
+	contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+	tempo          	/'tempəu/           	n.节奏,行进速度;(音乐的)速度   
+----------
+advance        	/əd'vɑ:ns/          	n.前进，预付 vi.前进，进展 vt.促进，推进
+	advantage      	/əd'vɑ:ntidʒ/       	n.优点，长处，有利条件；利益，好处  
+----------
+locality       	/ləu'kæləti/        	n.位置,地点             
+	local          	/'ləukəl/           	a.地方的,当地的;局部的       
+----------
+eccentric      	/ik'sentrik/        	a.古怪的，怪癖的，异乎寻常的n.古怪的人
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+----------
+minister       	/'ministə/          	n.部长,大臣             
+	administer     	/əd'ministə/        	v.施行，实施；掌管，料理...的事务；给予
+	register       	/'redʒistə/         	n.                  
+	sister         	/'sɪstə(r)/         	n.姐，妹；护士长；修女，女教士    
+----------
+musical        	/'mju:zikəl/        	a.音乐的;有音乐才能的 n.音乐片  
+	physical       	/'fɪzɪkl/           	a.物质的;肉体的,身体的;自然科学的,物理的
+----------
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+	characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+	bacterium      	/bæk'tiəriəm/       	n.(pl.)bacteria 细菌  
+----------
+install        	/in'stɔ:l/          	vt.(instal)安装,设置,安置；使就职,任命
+	installment    	/in'stɔ:lmənt/      	n.(instalment)分期付款；(连载的)一期
+	stall          	/stɔ:l/             	n.货摊;畜栏,厩 v.(使)停转,(使)停止
+----------
+abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+	attract        	/ə'trækt/           	vt.引起的注意(或兴趣等),吸引；引起；激起
+	contract       	/'kɔntrækt/         	n.(承包)合同            
+	attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+----------
+explain        	/ik'splein/         	v.解释,说明             
+	plain          	/plein/             	a.明白的;朴素的;坦率;平凡 n.平原,旷野
+	complain       	/kəm'plein/         	v.(about,of)抱怨;申诉   
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+----------
+membership     	/'membəʃɪp/         	n.会员资格,成员资格         
+	worship        	/'wə:ʃip/           	n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜
+	November       	/nəu'vembə/         	n.十一月               
+----------
+identify       	/aɪ'dentɪfaɪ/       	v.识别,鉴别;(with)把…和…看成一样
+	confident      	/'kɔnfidənt/        	n.(of,in)确信的,自信的    
+	resident       	/'rezidənt/         	n.居民,常住者 a.居住的      
+	scientific     	/ˌsaiən'tifik/      	a.科学上的              
+	identity       	/ai'dentəti/        	n.身份;本体;特征;同一(性);一致;国籍;等式
+----------
+generous       	/'dʒenərəs/         	a.宽宏大量的,慷慨的         
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	generate       	/'dʒenəreɪt/        	vt.产生,发生;生殖         
+----------
+fridge         	/fridʒ/             	n.(refrigerator的略语)冰箱
+	bridge         	/bridʒ/             	n.桥；桥牌；鼻梁 vt.架桥；渡过  
+----------
+manager        	/'mænidʒə/          	n.经理,管理人            
+	manage         	/'mænɪdʒ/           	v.经营,管理,处理;设法,对付;操纵,运用
+	teenager       	/'ti:nˌeidʒə/       	n.十几岁的青少年           
+----------
+conscious      	/'kɔnʃəs/           	a.(of)意识到的,自觉的;神志清醒的
+	vicious        	/'viʃəs/            	a.恶毒的,凶残的,邪恶的       
+----------
+afternoon      	/ˌɑ:ftə:'nu:n/      	n.下午，午后             
+	afterward      	/'ɑ:ftəwəd/         	ad.(afterwards)以后，后来
+----------
+waterfall      	/'wɔ:təfɔ:l/        	n.瀑布                
+	water          	/'wɔ:tə(r)/         	n.水 vt.浇灌；给…饮水 vi.流泪，加水
+----------
+temperament    	/'tempərəmənt/      	n.气质，性格，性情；资质       
+	fundamental    	/ˌfʌndə'mentəl/     	a.基础的,基本的 n.(pl.)基本原则,基本原理
+	temperature    	/'temprətʃə(r)/     	n.温度，体温；热度，发烧       
+	emperor        	/'empərə/           	n.皇帝                
+	temper         	/'tempə/            	n.脾气；韧度vt.调和，使缓和；使回火
+----------
+account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	countryside    	/'kʌntriˌsaid/      	n.乡下,农村             
+	counter        	/'kauntə(r)/        	n.柜台;计数器 a.         
+	counterpart    	/'kauntəˌpɑ:t/      	n.对应的人(或物)          
+	country        	/'kʌntri/           	n.国家;农村,乡下          
+	discount       	/'diskaunt/         	n.折扣；贴现(率) vt.打折扣;不重视
+----------
+local          	/'ləukəl/           	a.地方的,当地的;局部的       
+	locality       	/ləu'kæləti/        	n.位置,地点             
+----------
+proficiency    	/prəu'fiʃənsi/      	n.(in)熟练,精通         
+	sufficient     	/sə'fiʃənt/         	a.(for)足够的,充分的(比enough拘谨、正式)
+	science        	/'saiəns/           	n.科学;学科             
+	profitable     	/'prɔfitəbl/        	a.有利可图的,有益的         
+----------
+fundamental    	/ˌfʌndə'mentəl/     	a.基础的,基本的 n.(pl.)基本原则,基本原理
+	temperament    	/'tempərəmənt/      	n.气质，性格，性情；资质       
+	experimental   	/ekˌsperi'mentəl/   	a.实验(性)的,试验(性)的     
+----------
+manage         	/'mænɪdʒ/           	v.经营,管理,处理;设法,对付;操纵,运用
+	manager        	/'mænidʒə/          	n.经理,管理人            
+----------
+spaceship      	/'speisʃip/         	n.宇宙飞船              
+	spacecraft     	/'speiskrɑ:ft/      	n.宇宙飞船              
+----------
+anything       	/'eniθiŋ/           	pron.任何东西(事物)；无论什么东西(事物)
+	thing          	/θiŋ/               	n.物，东西；事，事情；所有物；局面，情况
+----------
+tangle         	/'tæŋgl/            	n.纠缠；缠结；混乱 v.(使)缠绕；变乱
+	rectangle      	/'rekˌtæŋgl/        	n.[数]矩形, 长方形        
+	triangle       	/'traiæŋgl/         	n.三角(形)             
+----------
+mistress       	/'mistris/          	n.女主人;主妇;情妇,情人      
+	waitress       	/'weitris/          	n.女侍者,女服务员          
+----------
+temperature    	/'temprətʃə(r)/     	n.温度，体温；热度，发烧       
+	temperament    	/'tempərəmənt/      	n.气质，性格，性情；资质       
+	emperor        	/'empərə/           	n.皇帝                
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	temper         	/'tempə/            	n.脾气；韧度vt.调和，使缓和；使回火
+----------
+lecture        	/'lektʃə/           	n.                  
+	infrastructure 	/'infrəˌstrʌktʃə/   	n.基础结构，基础设施         
+----------
+destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	destiny        	/'destini/          	n.命运;天数,天命          
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+consolidate    	/kən'sɔlideit/      	v.使加固，使加强；(把...)联为一体，合并
+	solid          	/'sɔlid/            	a.固体的;结实的,稳固的,可靠的 n.固体
+	holiday        	/'hɔlədi/           	n.假日,节日,假期,休假       
+	solidarity     	/ˌsɔli'dæriti/      	n.团结；休戚相关           
+	console        	/kən'səul /         	n.控制台，仪表板；落地柜 vt.安慰，慰问
+----------
+inspire        	/in'spaiə/          	vt.鼓舞,激起;使产生灵感      
+	aspire         	/ə'spaiə/           	vi.(to，after)渴望，追求，有志于
+----------
+register       	/'redʒistə/         	n.                  
+	administer     	/əd'ministə/        	v.施行，实施；掌管，料理...的事务；给予
+	minister       	/'ministə/          	n.部长,大臣             
+	sister         	/'sɪstə(r)/         	n.姐，妹；护士长；修女，女教士    
+----------
+emperor        	/'empərə/           	n.皇帝                
+	temperament    	/'tempərəmənt/      	n.气质，性格，性情；资质       
+	temperature    	/'temprətʃə(r)/     	n.温度，体温；热度，发烧       
+	temper         	/'tempə/            	n.脾气；韧度vt.调和，使缓和；使回火
+----------
+romantic       	/rəu'mæntik/        	a.浪漫的,传奇式的;不切实际的,好幻想的
+	gigantic       	/ˌdʒai'gæntik/      	a.巨大的,庞大的           
+----------
+teenager       	/'ti:nˌeidʒə/       	n.十几岁的青少年           
+	manager        	/'mænidʒə/          	n.经理,管理人            
+----------
+pessimistic    	/ˌpesi'mistik/      	a.悲观(主义)的           
+	realistic      	/ˌriə'listik/       	a.现实(主义)的           
+	characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+	assimilate     	/ə'simileit/        	vt.吸收，消化；使同化 vi.被吸收；被同化
+	artistic       	/ɑ:'tistik/         	a.艺术(家)的，美术(家)的；善于艺术创作的
+----------
+exception      	/ik'sepʃən/         	n.例外,除外;反对;异议       
+	option         	/'ɔpʃən/            	n.选择(权),[商]选择买卖的特权  
+	susceptible    	/sə'septəbl/        	a.易受影响的;易受感动的;易受感染的 
+	description    	/di'skripʃən/       	n.描写,形容;种类          
+----------
+along          	/ə'lɔŋ/             	ad.向前；和...一起，一同 prep.沿着，顺着
+	alongside      	/ə'lɔŋ'said/        	ad.在旁边 prep.和...在一起；在...旁边
+----------
+verse          	/və:s/              	n.韵文,诗;诗节,诗句        
+	universe       	/'ju:nivə:s/        	n.宇宙,万物             
+	inverse        	/'invə:s/           	a.相反的,倒转的,反转的 n.相反之物 v.倒转
+----------
+normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+employ         	/im'plɔi/           	n.                  
+	employee       	/ˌemplɔi'i:/        	n.雇工,雇员             
+----------
+significance   	/sig'nifikəns/      	n.意义,含义;重要性,重要的     
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+----------
+absolute       	/'æbsəlju:t/        	a.绝对的，完全的；确实的，肯定的   
+	solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     
+----------
+muscular       	/'mʌskjulə/         	a.肌肉的;肌肉发达的;强健的     
+	spectacular    	/spek'tækjulə/      	a.壮观的,引人注目的 n.壮观的演出 
+----------
+paperback      	/'peipəbæk/         	n.平装本，简装本           
+	newspaper      	/'nju:sˌpeipə/      	n.报纸                
+----------
+drive          	/draiv/             	v.开(车);驱;驱动,把(钉,桩)打入 n.驾驶
+	driver         	/draivə/            	n.驾驶员               
+----------
+exterior       	/ik'stiəriə/        	a.外部的,外面的 n.外部      
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	superior       	/sju:'piriə/        	a.优良的,卓越的;上级的 n.上级;长者;高手
+	external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的
+	mysterious     	/mi'stiəriəs/       	a.神秘的,可疑的,难理解的      
+----------
+found          	/faund/             	vt.建立;创立;创办;使有根据;铸造;熔制
+	profound       	/prə'faund/         	a.深刻的,意义深远的;渊博的,造诣深的
+----------
+constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+	straightforward	/ˌstreit'fɔ:wəd/    	a.正直的;简单的,易懂的 ad.坦率地
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	train          	/trein/             	n.列车;行列,系列,一串 v.训练,培养
+----------
+plain          	/plein/             	a.明白的;朴素的;坦率;平凡 n.平原,旷野
+	explain        	/ik'splein/         	v.解释,说明             
+	complain       	/kəm'plein/         	v.(about,of)抱怨;申诉   
+----------
+gratitude      	/'grætɪtju:d/       	n.感激,感谢             
+	multitude      	/'mʌltiˌtju:d/      	n.众多,大量             
+----------
+opera          	/'ɔpərə/            	n.歌剧                
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+----------
+electricity    	/ˌilek'trisəti/     	n.电,电流;电学           
+	select         	/si'lekt/           	v.选择,挑选 a.精选的,选择的   
+	electric       	/i'lektrik/         	a.电的,导电的,电动的        
+	electron       	/i'lektrɔn/         	n.电子                
+----------
+potential      	/pəu'tenʃəl/        	a.潜在的,可能的 n.潜能,潜力   
+	essential      	/i'senʃəl/          	a.本质的,基本的;净化的 n.本质;要素
+	substantial    	/səb'stænʃəl/       	a.实质的;相当的;显著的;坚固的;富裕的
+	differentiate  	/ˌdifə'renʃieit/    	v.区分,区别;(使)不同       
+----------
+spectrum       	/'spektrəm/         	n.谱，光谱，频谱；范围，幅度，系列  
+	spectacular    	/spek'tækjulə/      	a.壮观的,引人注目的 n.壮观的演出 
+	inspect        	/in'spekt/          	vt.检查,调查,视察         
+	spectator      	/spek'teitə/        	n.观众,旁观者            
+----------
+serve          	/sə:v/              	v.服务,尽责;招待,侍候;符合,适用 
+	reserve        	/ri'zə:v/           	n.储备(物),储备金;缄默 v.保留,储备;预定
+----------
+instinct       	/'instiŋkt/         	n.本能,直觉,天性          
+	institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+sufficient     	/sə'fiʃənt/         	a.(for)足够的,充分的(比enough拘谨、正式)
+	proficiency    	/prəu'fiʃənsi/      	n.(in)熟练,精通         
+	official       	/ə'fɪʃl/            	n.官员,行政官员 a.官方的,官方的,正式的
+	scientist      	/'saiəntist/        	n.科学家               
+	scientific     	/ˌsaiən'tifik/      	a.科学上的              
+----------
+satisfactory   	/ˌsætis'fæktəri/    	a.令人满意的,圆满的,良好的,符合要求的
+	satisfy        	/'sætisfai/         	v.满意,使满意,使相信,说服     
+	victory        	/'viktəri/          	n.胜利                
+----------
+coherent       	/kəu'hɪərənt/       	a.一致的，协调的；(话语等)条理清楚的
+	differentiate  	/ˌdifə'renʃieit/    	v.区分,区别;(使)不同       
+----------
+articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+	participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+	calculate      	/'kælkjuleit/       	v.计算,推算;计划,打算       
+	participant    	/pɑ:'tisipənt/      	n.参加者,参与者 a.有份的,参与的 
+	circulate      	/'sə:kjuleit/       	v.(使)循环,(使)流通       
+	speculate      	/'spekjuleit/       	vi.思索；推测vt.投机；思索，推测 
+----------
+acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+eternal        	/i'tə:nəl/          	n.永久的,永恒的           
+	external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的
+	alternate      	/ɔ:l'tə:nət/        	a.交替的，轮流的 v.(使)交替，(使)轮流
+----------
+historical     	/his'tɔrikəl/       	a.历史的;有关历史的         
+	historian      	/his'tɔ:riən/       	n.历史学家              
+----------
+lumber         	/'lʌmbə/            	n.木材,木料             
+	cucumber       	/'kju:kʌmbə/        	n.黄瓜                
+----------
+organism       	/'ɔ:gənizəm/        	n.生物，有机体            
+	organ          	/'ɔ:gən/            	n.器官;机构,机关;风琴       
+----------
+accessory      	/ək'sesəri/         	n.附件,附属品;(为全套衣服增加美感的)服饰
+	access         	/'ækses/            	n.进入；接入；到达；享用权；入口 vi.存取
+----------
+parameter      	/pə'ræmitə/         	n.参数,参量             
+	cemetery       	/'semitəri/         	n.坟墓，墓地，坟场          
+----------
+strive         	/straiv/            	v.奋斗,努力             
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+----------
+accuse         	/ə'kju:z/           	vt.控告，指责 vi.指控，指责   
+	accustomed     	/ə'kʌstəmd/         	a.惯常的；习惯的，适应的(一般作表语)
+----------
+comply         	/kəm'plai/          	v.(with)遵照，照做，应允；顺从，服从
+	complain       	/kəm'plein/         	v.(about,of)抱怨;申诉   
+	accomplish     	/ə'kʌmpliʃ/         	v.实现(计划等)；达到(目的)；完成(任务)
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+----------
+deceit         	/di'si:t/           	n.欺骗,欺骗行为           
+	deceive        	/di'si:v/           	v.欺骗,蒙蔽             
+----------
+percentage     	/pə'sentidʒ/        	n.百分数,百分率,百分比       
+	perceive       	/pə'si:v/           	v.察觉,感知;理解,领悟       
+	advantage      	/əd'vɑ:ntidʒ/       	n.优点，长处，有利条件；利益，好处  
+----------
+uncover        	/ˌʌn'kʌvə/          	v.揭开,揭露             
+	recovery       	/ri'kʌvəri/         	n.痊愈,复元;重获,恢复       
+	discover       	/dis'kʌvə/          	v.发现,显示             
+----------
+duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+	fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+	dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+----------
+reserve        	/ri'zə:v/           	n.储备(物),储备金;缄默 v.保留,储备;预定
+	serve          	/sə:v/              	v.服务,尽责;招待,侍候;符合,适用 
+----------
+innumerable    	/i'nuj:mərəbl/      	a.无数的,数不清的          
+	miserable      	/'mizərəbl/         	a.痛苦的,悲惨的           
+	desirable      	/di'zaiərəbl/       	a.值得做的;合意的,称心的;期望得到的
+	favorable      	/'feivərəbl/        	a.(favourable)赞许的,有利的,讨人喜欢的
+	preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+	honorable      	/'ɒnərəbl/          	a.(honourable)可敬的;荣誉的,光荣的
+----------
+complain       	/kəm'plein/         	v.(about,of)抱怨;申诉   
+	explain        	/ik'splein/         	v.解释,说明             
+	plain          	/plein/             	a.明白的;朴素的;坦率;平凡 n.平原,旷野
+	comply         	/kəm'plai/          	v.(with)遵照，照做，应允；顺从，服从
+	accomplish     	/ə'kʌmpliʃ/         	v.实现(计划等)；达到(目的)；完成(任务)
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+----------
+playground     	/'pleɪgraund/       	n.运动场,游戏场           
+	background     	/'bækgraund/        	n.背景,经历；幕后          
+	ground         	/graund/            	n.地，地面，土地；场地，场所；理由，根据
+	roundabout     	/'raundəˌbaut/      	a.迂回的,转弯抹角的 n.环状交叉路口
+----------
+attract        	/ə'trækt/           	vt.引起的注意(或兴趣等),吸引；引起；激起
+	abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+	contract       	/'kɔntrækt/         	n.(承包)合同            
+	attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+----------
+responsibility 	/ri.spɔnsə'biliti/  	n.责任,责任心;职责,任务      
+	possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+	sponsor        	/'spɔnsə/           	n.发起人,主力者,保证人 v.发起,主办
+	correspondence 	/ˌkɔ:ris'pɔndəns/   	n.通信,信件;(with)符合;(to)相当于,对应
+----------
+sight          	/sait/              	n.视力;望见,瞥见;视域;眼界;情景,奇观
+	eyesight       	/'aisait/           	n.视力                
+----------
+attempt        	/ə'tempt/           	vt.企图，试图 n.努力，尝试，企图 
+	tempt          	/tempt/             	v.诱惑,引诱;吸引,使感兴趣     
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+----------
+further        	/'fə:ðə/            	ad.                 
+	northern       	/'nɔ:ðən/           	a.北方的,北部的           
+----------
+acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	enquire        	/in'kwaiə/          	v.(inquire)询问,打听;调查;查问
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	require        	/ri'kwaiə/          	v.需要;(of)要求,命令      
+----------
+greeting       	/'gri:tiŋ/          	n.问候,致敬             
+	meeting        	/'mi:tiŋ/           	n.会议,集合,汇合,会见,接见,汇合点
+----------
+accomplish     	/ə'kʌmpliʃ/         	v.实现(计划等)；达到(目的)；完成(任务)
+	comply         	/kəm'plai/          	v.(with)遵照，照做，应允；顺从，服从
+	complain       	/kəm'plein/         	v.(about,of)抱怨;申诉   
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+----------
+badminton      	/'bædmintən/        	n.羽毛球               
+	administer     	/əd'ministə/        	v.施行，实施；掌管，料理...的事务；给予
+----------
+specialist     	/'speʃəlist/        	n.专家                
+	realistic      	/ˌriə'listik/       	a.现实(主义)的           
+	species        	/'spi:ʃi:z/         	n.(物)种,种类           
+----------
+confusion      	/kən'fju:ʒən/       	n.困惑，糊涂；混淆；混乱，骚乱    
+	conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+	confuse        	/kən'fju:z/         	v.使混乱,混淆            
+	illusion       	/i'lju:ʒən/         	n.幻想，错误的观念；错觉，幻觉，假象 
+----------
+salesman       	/'seilzmən/         	n.售货员,推销员           
+	statesman      	/'steitsmən/        	n.政治家,国务活动家         
+	spokesman      	/'spəuksmən/        	n.发言人               
+----------
+experimental   	/ekˌsperi'mentəl/   	a.实验(性)的,试验(性)的     
+	fundamental    	/ˌfʌndə'mentəl/     	a.基础的,基本的 n.(pl.)基本原则,基本原理
+	experiment     	/ik'speriment/      	n.实验;试验 v.(on)进行实验;做试验
+	experience     	/ik'spiəriəns/      	n.                  
+----------
+trouble        	/'trʌbl/            	n.烦恼;动乱;疾病;故障;辛苦v.(使)烦恼
+	troublesome    	/'trʌblsəm/         	a.令人烦恼的,讨厌的         
+----------
+infrastructure 	/'infrəˌstrʌktʃə/   	n.基础结构，基础设施         
+	lecture        	/'lektʃə/           	n.                  
+	destructive    	/di'strʌktiv/       	a.破坏性               
+	instruct       	/in'strʌkt/         	v.教,教授;命令,指示        
+	obstruct       	/əb'strʌkt/         	v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物
+----------
+alongside      	/ə'lɔŋ'said/        	ad.在旁边 prep.和...在一起；在...旁边
+	along          	/ə'lɔŋ/             	ad.向前；和...一起，一同 prep.沿着，顺着
+----------
+obedience      	/ə'bi:diəns/        	n.服从,顺从             
+	experience     	/ik'spiəriəns/      	n.                  
+	audience       	/'ɔ:diəns/          	n.听众，观众，读者；见面，会见    
+	science        	/'saiəns/           	n.科学;学科             
+----------
+erosion        	/i'rəuʒən/          	n.腐蚀,磨损;削弱,减少       
+	explosion      	/ɪk'spləuʒn/        	n.爆炸,爆发             
+----------
+context        	/'kɔntekst/         	n.（文章等）前后关系；(事件等的)背景
+	contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+	content        	/'kɔntent/          	n.容量,内容,(pl.)目录 a.(with)满足的
+	contend        	/kən'tend/          	v.竞争,斗争;坚决主张        
+----------
+solid          	/'sɔlid/            	a.固体的;结实的,稳固的,可靠的 n.固体
+	consolidate    	/kən'sɔlideit/      	v.使加固，使加强；(把...)联为一体，合并
+	solidarity     	/ˌsɔli'dæriti/      	n.团结；休戚相关           
+----------
+orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	exterior       	/ik'stiəriə/        	a.外部的,外面的 n.外部      
+	interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+	superior       	/sju:'piriə/        	a.优良的,卓越的;上级的 n.上级;长者;高手
+	interfere      	/ˌintə'fiə/         	v.(in)干涉,干预;(with)妨碍,打扰
+	interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	intermittent   	/ˌɪntə'mɪtənt/      	a.间歇的,断断续续的         
+	mysterious     	/mi'stiəriəs/       	a.神秘的,可疑的,难理解的      
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+----------
+reliance       	/ri'laiəns/         	n.信任,信心,依靠,依靠的人或物   
+	alliance       	/ə'laiəns/          	n.同盟，同盟国；结盟，联姻      
+----------
+exciting       	/ik'saitiŋ/         	a.令人兴奋的,使人激动的       
+	writing        	/'raitiŋ/           	n.写,写作;著作,作品        
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	handwriting    	/'hændˌraitiŋ/      	n.笔迹,手迹,书法          
+----------
+sensitive      	/'sensətɪv/         	a.(to)敏感的,易受伤害的;灵敏的 
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	primitive      	/'primitiv/         	a.原始的,远古的,早期的;粗糙的,简单的
+----------
+housework      	/'hauswə:k/         	n.家务，家事(不可数)        
+	housewife      	/'hauswaif/         	n.家庭主妇              
+----------
+acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+	importance     	/im'pɔ:təns/        	n.重要,重要性            
+	substance      	/'sʌbstəns/         	n.物质；实质，本质；主旨；财产，资产 
+	accept         	/ək'sept/           	vt.接受，领受；认可，同意 vi.同意，认可
+	resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+	assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+----------
+exhibit        	/ig'zibit/          	v.展出,陈列 n.展览品,陈列品   
+	inhibit        	/in'hibit/          	vt.抑制，约束            
+	prohibit       	/prəu'hibit/        	v.禁止,不准;阻止          
+----------
+locate         	/ləu'keit/          	v.查出,探出,查找…地点,使…坐落于,位于
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+----------
+princess       	/prin'ses/          	n.公主,王妃             
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	principle      	/'prinsəpl/         	n.原理,原则;主义,信念       
+----------
+importance     	/im'pɔ:təns/        	n.重要,重要性            
+	important      	/im'pɔ:tənt/        	a.重要的,重大的;有地位的,有权力的 
+	acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+	import         	/im'pɔ:t/           	v.                  
+	substance      	/'sʌbstəns/         	n.物质；实质，本质；主旨；财产，资产 
+	portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+	resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+	assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+----------
+regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+confident      	/'kɔnfidənt/        	n.(of,in)确信的,自信的    
+	identify       	/aɪ'dentɪfaɪ/       	v.识别,鉴别;(with)把…和…看成一样
+	resident       	/'rezidənt/         	n.居民,常住者 a.居住的      
+	identity       	/ai'dentəti/        	n.身份;本体;特征;同一(性);一致;国籍;等式
+----------
+expand         	/ik'spænd/          	v.(使)膨胀,(使)扩张;张开,展开 
+	expansion      	/ik'spænʃən/        	n.扩张,膨胀;张开,伸展       
+----------
+excel          	/ik'sel/            	vi.胜过其他;擅长 vt.胜过，优于 
+	excellent      	/'eksələnt/         	a.卓越的,极好的           
+----------
+conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+	conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+----------
+aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+	keyboard       	/'ki:bɔ:d/          	n.键盘 vt.用键盘输入(信息)   
+	board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+	cupboard       	/'kʌbəd/            	n.碗柜,小橱             
+----------
+barber         	/'bɑ:bə/            	n.理发师               
+	barbecue       	/'bɑ:bikju:/        	n.烤肉；烤肉用的台架 vt.炙烤(肉等)
+----------
+switch         	/switʃ/             	n.开关；转换；鞭子 v.转变,转换；抽打
+	witch          	/witʃ/              	n.女巫, 巫婆，巫师         
+----------
+universe       	/'ju:nivə:s/        	n.宇宙,万物             
+	verse          	/və:s/              	n.韵文,诗;诗节,诗句        
+	universal      	/ˌju:ni'və:səl/     	a.普遍的,全体的,通用的;宇宙的,世界的
+	inverse        	/'invə:s/           	a.相反的,倒转的,反转的 n.相反之物 v.倒转
+	diversion      	/dai'və:ʃən/        	n.转向,转移;牵制;解闷;娱乐    
+----------
+writing        	/'raitiŋ/           	n.写,写作;著作,作品        
+	exciting       	/ik'saitiŋ/         	a.令人兴奋的,使人激动的       
+	handwriting    	/'hændˌraitiŋ/      	n.笔迹,手迹,书法          
+----------
+option         	/'ɔpʃən/            	n.选择(权),[商]选择买卖的特权  
+	exception      	/ik'sepʃən/         	n.例外,除外;反对;异议       
+	description    	/di'skripʃən/       	n.描写,形容;种类          
+----------
+generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	generous       	/'dʒenərəs/         	a.宽宏大量的,慷慨的         
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	generate       	/'dʒenəreɪt/        	vt.产生,发生;生殖         
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+remain         	/ri'mein/           	v.剩下,余留;留待,尚须;仍然是,依旧是
+	remainder      	/ri'meində/         	n.剩余物,剩下的;余数,余项     
+----------
+frequent       	/'fri:kwənt/        	a.时常发生的,频繁的         
+	eloquent       	/'eləkwənt/         	a.雄辩的,有说服力的;善辩的,口才流利的
+	sequence       	/'si:kwəns/         	n.先后,次序;连续,数列       
+	subsequent     	/'sʌbsikwənt/       	a.随后的,后来的           
+	frequency      	/'frikwənsi/        	n.频率,周率             
+----------
+product        	/'prɔdəkt/          	n.产品,产物;乘积          
+	introduce      	/ˌintrə'dju:s/      	vt.介绍；引进，传入；提出(议案等) 
+	production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+	reproduce      	/ˌri:prə'dju:s/     	v.生殖;翻版;繁殖;复制,仿造    
+----------
+transmit       	/trænz'mit/         	vt.传输               
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+----------
+concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	princess       	/prin'ses/          	n.公主,王妃             
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	procession     	/prəu'seʃən/        	n.队伍,行列             
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	necessity      	/ni'sesəti/         	n.必要性,需要;必然性;(pl.)必需品
+	excessive      	/ik'sesiv/          	a.过多的;过分的;额外        
+	commission     	/kə'miʃən/          	n.委员会;委任,委托(书),代办;佣金,手续费
+	passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	concert        	/kən'sə:t/          	n.音乐会,演奏会;一齐,一致     
+----------
+rectangle      	/'rekˌtæŋgl/        	n.[数]矩形, 长方形        
+	tangle         	/'tæŋgl/            	n.纠缠；缠结；混乱 v.(使)缠绕；变乱
+	triangle       	/'traiæŋgl/         	n.三角(形)             
+----------
+upright        	/'ʌprait/           	a.垂直的,直立的;正直的,诚实的 ad.竖立着
+	frighten       	/'fraitən/          	v.使惊恐               
+----------
+script         	/skript/            	n.剧本(原稿)；手稿，原稿；笔迹，手迹
+	manuscript     	/'mænjuskript/      	n.手稿,原稿             
+	description    	/di'skripʃən/       	n.描写,形容;种类          
+----------
+holiday        	/'hɔlədi/           	n.假日,节日,假期,休假       
+	consolidate    	/kən'sɔlideit/      	v.使加固，使加强；(把...)联为一体，合并
+	solidarity     	/ˌsɔli'dæriti/      	n.团结；休戚相关           
+----------
+cemetery       	/'semitəri/         	n.坟墓，墓地，坟场          
+	parameter      	/pə'ræmitə/         	n.参数,参量             
+----------
+suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	oppress        	/ə'pres/            	v.压迫,压制             
+	depress        	/di'pres/           	v.压抑,降低;使沮丧,压下      
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+	compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+----------
+reporter       	/ri'pɔ:tə/          	n.报告人,通讯员;记者,报导者    
+	porter         	/'pɔ:tə/            	n.守门人,门房,行李搬运工,服务员  
+----------
+fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+	duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+	dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+	lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+----------
+dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+	fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	medical        	/'medikəl/          	a.医学的，医疗的，医药的；内科的   
+	lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+----------
+persuasion     	/pə'sweiʒən/        	n.说服,说服力            
+	occasional     	/ə'keiʒənəl/        	a.偶然的,非经常的,特殊场合的;临时的
+	invasion       	/in'veiʒən/         	n.入侵,侵略,侵犯          
+----------
+participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+	articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+	participant    	/pɑ:'tisipənt/      	n.参加者,参与者 a.有份的,参与的 
+----------
+conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+	confusion      	/kən'fju:ʒən/       	n.困惑，糊涂；混淆；混乱，骚乱    
+	conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+	illusion       	/i'lju:ʒən/         	n.幻想，错误的观念；错觉，幻觉，假象 
+----------
+graceful       	/'greisful/         	a.优美的,文雅的,大方的       
+	disgrace       	/dis'greis/         	n.失宠,耻辱 v.使失宠;玷辱,使蒙羞
+----------
+repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+	procession     	/prəu'seʃən/        	n.队伍,行列             
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	oppress        	/ə'pres/            	v.压迫,压制             
+	depress        	/di'pres/           	v.压抑,降低;使沮丧,压下      
+	commission     	/kə'miʃən/          	n.委员会;委任,委托(书),代办;佣金,手续费
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+	passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+	compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+----------
+undergraduate  	/ˌʌndə'grædjuət/    	n.大学生,大学肆业生         
+	misunderstand  	/ˌmisʌndə'stænd/    	v.误解,误会             
+	underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+	gradual        	/'grædʒuəl/         	a.逐渐的,逐步的           
+	underestimate  	/ˌʌndə'estimeit/    	vt.低估，看轻            
+	underline      	/ˌʌndə'lain/        	vt.在…下划线;强调         
+	kindergarten   	/'kindəˌgɑ:tən/     	n.幼儿园               
+----------
+nurture        	/'nə:tʃə/           	n.                  
+	torture        	/'tɔ:tʃə/           	v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦
+	departure      	/di'pɑ:tʃə/         	n.离开,起程             
+----------
+installment    	/in'stɔ:lmənt/      	n.(instalment)分期付款；(连载的)一期
+	install        	/in'stɔ:l/          	vt.(instal)安装,设置,安置；使就职,任命
+	stall          	/stɔ:l/             	n.货摊;畜栏,厩 v.(使)停转,(使)停止
+----------
+essential      	/i'senʃəl/          	a.本质的,基本的;净化的 n.本质;要素
+	potential      	/pəu'tenʃəl/        	a.潜在的,可能的 n.潜能,潜力   
+	messenger      	/'mesindʒə/         	n.送信者,使者,传令兵        
+	substantial    	/səb'stænʃəl/       	a.实质的;相当的;显著的;坚固的;富裕的
+	differentiate  	/ˌdifə'renʃieit/    	v.区分,区别;(使)不同       
+----------
+circuit        	/'sə:kit/           	n.环行,周线,巡回;电路,线路    
+	circulate      	/'sə:kjuleit/       	v.(使)循环,(使)流通       
+----------
+conversion     	/kən'və:ʃən/        	n.转变，转换；信仰的改变；      
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	inverse        	/'invə:s/           	a.相反的,倒转的,反转的 n.相反之物 v.倒转
+	diversion      	/dai'və:ʃən/        	n.转向,转移;牵制;解闷;娱乐    
+----------
+fascinate      	/'fæsineit/         	v.迷住,强烈吸引           
+	originate      	/ə'ridʒəneit/       	v.(in,from)起源,发生;首创,创造
+----------
+misunderstand  	/ˌmisʌndə'stænd/    	v.误解,误会             
+	standard       	/'stændəd/          	n.标准,规则 a.标准的       
+	undergraduate  	/ˌʌndə'grædjuət/    	n.大学生,大学肆业生         
+	underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+	standpoint     	/'stændpɔint/       	n.立场,观点             
+	underestimate  	/ˌʌndə'estimeit/    	vt.低估，看轻            
+	underline      	/ˌʌndə'lain/        	vt.在…下划线;强调         
+----------
+possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+	responsibility 	/ri.spɔnsə'biliti/  	n.责任,责任心;职责,任务      
+	possibly       	/'pɔsəbli/          	ad.可能地，也许；无论如何      
+----------
+continual      	/kən'tinjuəl/       	a.不断的,连续的,频繁的       
+	continuous     	/kən'tinjuəs/       	a.连续的,持续的           
+----------
+eloquent       	/'eləkwənt/         	a.雄辩的,有说服力的;善辩的,口才流利的
+	frequent       	/'fri:kwənt/        	a.时常发生的,频繁的         
+	subsequent     	/'sʌbsikwənt/       	a.随后的,后来的           
+----------
+driver         	/draivə/            	n.驾驶员               
+	drive          	/draiv/             	v.开(车);驱;驱动,把(钉,桩)打入 n.驾驶
+----------
+deceive        	/di'si:v/           	v.欺骗,蒙蔽             
+	deceit         	/di'si:t/           	n.欺骗,欺骗行为           
+	perceive       	/pə'si:v/           	v.察觉,感知;理解,领悟       
+----------
+misery         	/'mizəri/           	n.痛苦,悲惨,不幸          
+	miserable      	/'mizərəbl/         	a.痛苦的,悲惨的           
+----------
+transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	sensitive      	/'sensətɪv/         	a.(to)敏感的,易受伤害的;灵敏的 
+	transmit       	/trænz'mit/         	vt.传输               
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+sponsor        	/'spɔnsə/           	n.发起人,主力者,保证人 v.发起,主办
+	responsibility 	/ri.spɔnsə'biliti/  	n.责任,责任心;职责,任务      
+----------
+table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+	profitable     	/'prɔfitəbl/        	a.有利可图的,有益的         
+	portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+	tablet         	/'tæblət/           	n.药片;碑,匾            
+	suitable       	/'sju:təbl/         	a.(for)合适的,适宜的      
+----------
+solidarity     	/ˌsɔli'dæriti/      	n.团结；休戚相关           
+	consolidate    	/kən'sɔlideit/      	v.使加固，使加强；(把...)联为一体，合并
+	solid          	/'sɔlid/            	a.固体的;结实的,稳固的,可靠的 n.固体
+	holiday        	/'hɔlədi/           	n.假日,节日,假期,休假       
+----------
+superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+	official       	/ə'fɪʃl/            	n.官员,行政官员 a.官方的,官方的,正式的
+	superior       	/sju:'piriə/        	a.优良的,卓越的;上级的 n.上级;长者;高手
+	superfluous    	/sju'pə:fluəs/      	a.多余的，过剩的，          
+	artificial     	/ˌɑ:ti'fiʃəl/       	a.人工的，人造的，人为的；假的，做作的
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	superb         	/sju'pə:b/          	a.极好的,杰出的；华丽的；      
+----------
+enquire        	/in'kwaiə/          	v.(inquire)询问,打听;调查;查问
+	acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	require        	/ri'kwaiə/          	v.需要;(of)要求,命令      
+----------
+offensive      	/ə'fensiv/          	a.冒犯的,攻击的 n.攻势,进攻   
+	comprehensive  	/ˌkɔmpri'hensiv/    	a.内容广泛的,总括性的，综合的    
+----------
+underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+	undergraduate  	/ˌʌndə'grædjuət/    	n.大学生,大学肆业生         
+	misunderstand  	/ˌmisʌndə'stænd/    	v.误解,误会             
+	underestimate  	/ˌʌndə'estimeit/    	vt.低估，看轻            
+	underline      	/ˌʌndə'lain/        	vt.在…下划线;强调         
+----------
+historian      	/his'tɔ:riən/       	n.历史学家              
+	historical     	/his'tɔrikəl/       	a.历史的;有关历史的         
+	editorial      	/ˌedi'tɔ:riəl/      	n.社论  a.社论的；编辑上的    
+----------
+disposal       	/dis'pəuzəl/        	n.处理,处置;布置,安排       
+	dispose        	/dɪ'spəuz/          	v.(of)处理,处置;(for)布置,安排
+----------
+keyboard       	/'ki:bɔ:d/          	n.键盘 vt.用键盘输入(信息)   
+	aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+	board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+	cupboard       	/'kʌbəd/            	n.碗柜,小橱             
+----------
+experiment     	/ik'speriment/      	n.实验;试验 v.(on)进行实验;做试验
+	experimental   	/ekˌsperi'mentəl/   	a.实验(性)的,试验(性)的     
+	experience     	/ik'spiəriəns/      	n.                  
+----------
+permit         	/pə'mit/            	v.许可,允许 n.许可证,执照    
+	intermittent   	/ˌɪntə'mɪtənt/      	a.间歇的,断断续续的         
+----------
+direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+	dictionary     	/'dikʃənəri/        	n.词典,字典             
+	sanction       	/'sæŋˌkʃən/         	n.                  
+	junction       	/'dʒʌŋkʃən/         	n.连接,接合,交叉点,枢纽站,接头,中继线
+	fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+	rectify        	/'rektifai/         	v.纠正,整顿, [化]精馏      
+	reduction      	/rɪ'dʌkʃn/          	n.减小,减少,缩小          
+----------
+delight        	/di'lait/           	n.快乐,高兴 v.(使)高兴,(使)欣喜
+	light          	/laɪt/              	n.光；灯 v.点燃；照亮 a.轻(快)；淡；明亮
+	flight         	/flait/             	n.飞翔,飞行;航班;航程;逃跑;楼梯的一段
+----------
+divert         	/dai'və:t/          	vt.使转向，使改道；转移(注意力)；使娱乐
+	diversion      	/dai'və:ʃən/        	n.转向,转移;牵制;解闷;娱乐    
+----------
+friendship     	/'frendʃip/         	n.友谊,友好             
+	friend         	/frend/             	n.朋友                
+	hardship       	/'hɑ:dʃip/          	n.艰难,困苦             
+----------
+miserable      	/'mizərəbl/         	a.痛苦的,悲惨的           
+	innumerable    	/i'nuj:mərəbl/      	a.无数的,数不清的          
+	misery         	/'mizəri/           	n.痛苦,悲惨,不幸          
+	desirable      	/di'zaiərəbl/       	a.值得做的;合意的,称心的;期望得到的
+	favorable      	/'feivərəbl/        	a.(favourable)赞许的,有利的,讨人喜欢的
+	preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+	honorable      	/'ɒnərəbl/          	a.(honourable)可敬的;荣誉的,光荣的
+----------
+sister         	/'sɪstə(r)/         	n.姐，妹；护士长；修女，女教士    
+	administer     	/əd'ministə/        	v.施行，实施；掌管，料理...的事务；给予
+	minister       	/'ministə/          	n.部长,大臣             
+	register       	/'redʒistə/         	n.                  
+	consistent     	/kən'sistənt/       	a.(in)前后一致的；（with）一致，符合
+----------
+present        	/'prezənt/          	a.出席的,现在的 n.现在,礼物 v.赠送,提出
+	presence       	/'prezəns/          	n.出席,到场,存在,在        
+----------
+operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	dictionary     	/'dikʃənəri/        	n.词典,字典             
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	temperature    	/'temprətʃə(r)/     	n.温度，体温；热度，发烧       
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	opera          	/'ɔpərə/            	n.歌剧                
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	occasional     	/ə'keiʒənəl/        	a.偶然的,非经常的,特殊场合的;临时的
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	revolutionary  	/ˌrevə'lju:ʃənəri/  	a.革命的,革新的 n.革命者     
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+	temporary      	/'tempərəri/        	a.暂时的,临时的           
+	context        	/'kɔntekst/         	n.（文章等）前后关系；(事件等的)背景
+	content        	/'kɔntent/          	n.容量,内容,(pl.)目录 a.(with)满足的
+	contend        	/kən'tend/          	v.竞争,斗争;坚决主张        
+	tempo          	/'tempəu/           	n.节奏,行进速度;(音乐的)速度   
+----------
+forthcoming    	/'fɔ:θ'kʌmiŋ/       	a.即将到来的;准备好的;乐意帮助的;n.来临
+	henceforth     	/'hens'fɔ:θ/        	ad.今后               
+----------
+extreme        	/ik'stri:m/         	a.末端的,尽头的;极度的 n.极端;最大程度
+	tremendous     	/trə'mendəs/        	a.巨大的,极大的           
+----------
+spacecraft     	/'speiskrɑ:ft/      	n.宇宙飞船              
+	spaceship      	/'speisʃip/         	n.宇宙飞船              
+	aircraft       	/'εəkrɑ:ft/         	n.飞机，飞船，飞行器         
+----------
+redundant      	/ri'dʌndənt/        	a.多余的,过剩的;(食物)丰富的;被解雇的
+	abundant       	/ə'bʌndənt/         	a.大量(充足)的；(in)丰富(富裕)的
+----------
+settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	statement      	/'steitmənt/        	n.声明,陈述             
+	basement       	/'beismənt/         	n.建筑物的底部,地下室,地窖     
+----------
+large          	/lɑ:dʒ/             	a.大的,广大的,大规模的       
+	enlarge        	/in'lɑ:dʒ/          	vt.扩大,放大,增大         
+	largely        	/'lɑ:dʒli/          	ad.主要地,基本上;大量地,大规模地 
+----------
+contract       	/'kɔntrækt/         	n.(承包)合同            
+	abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+	attract        	/ə'trækt/           	vt.引起的注意(或兴趣等),吸引；引起；激起
+	contradict     	/ˌkɔntrə'dikt/      	v.反驳;同…矛盾,同…抵触      
+	contrast       	/kən'trɑ:st/        	n.对比，对照 vi.形成对比 vt.把…与…对比
+	attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+	controversy    	/'kɔntrəˌvə:si/     	n.争论，辩论，争吵          
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+----------
+triangle       	/'traiæŋgl/         	n.三角(形)             
+	tangle         	/'tæŋgl/            	n.纠缠；缠结；混乱 v.(使)缠绕；变乱
+	rectangle      	/'rekˌtæŋgl/        	n.[数]矩形, 长方形        
+----------
+correspondence 	/ˌkɔ:ris'pɔndəns/   	n.通信,信件;(with)符合;(to)相当于,对应
+	responsibility 	/ri.spɔnsə'biliti/  	n.责任,责任心;职责,任务      
+	evidence       	/'evidəns/          	n.明显;显著;根据;证据;迹象    
+	correct        	/kə'rekt/           	a.正确的,恰当的,端正的 v.改正,纠正,矫正
+	correlate      	/'kɒrələt /         	n.相关联的事物 v.(with,to)(使)互相关联
+----------
+sometimes      	/'sʌmtaimz/         	ad.不时，有时，间或         
+	lifetime       	/'laiftaim/         	n.一生,终生             
+----------
+navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+grease         	/gri:s/             	n.动物脂,油脂,润滑脂 v.抹油,润滑
+	decrease       	/di'kri:s/          	n.减少,减小;减少量 v.减少,变少,降低
+----------
+technique      	/tek'ni:k/          	n.技巧，手艺，技能；技术，工艺    
+	technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+	technical      	/'teknikəl/         	a.技术(性)的，工艺的；专门性的，专业性的
+----------
+physical       	/'fɪzɪkl/           	a.物质的;肉体的,身体的;自然科学的,物理的
+	musical        	/'mju:zikəl/        	a.音乐的;有音乐才能的 n.音乐片  
+	physicist      	/'fizisist/         	n.物理学家              
+----------
+interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+	interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	interfere      	/ˌintə'fiə/         	v.(in)干涉,干预;(with)妨碍,打扰
+	interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	intermittent   	/ˌɪntə'mɪtənt/      	a.间歇的,断断续续的         
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+----------
+cautious       	/'kɔ:ʃəs/           	a.(of)小心的,谨慎的       
+	precaution     	/pri'kɔ:ʃən/        	n.预防,谨慎,警惕          
+----------
+moderate       	/'mɔdərət/          	a.有节制的,中等的,适度的,温和的,稳健的
+	modern         	/'mɔdən/            	a.现代的,近代的,新式的       
+	generate       	/'dʒenəreɪt/        	vt.产生,发生;生殖         
+----------
+agriculture    	/'ægrɪkʌltʃə(r)/    	n.农业，农艺，农耕          
+	difficult      	/'difikəlt/         	a.困难的,艰难的           
+----------
+experience     	/ik'spiəriəns/      	n.                  
+	experimental   	/ekˌsperi'mentəl/   	a.实验(性)的,试验(性)的     
+	obedience      	/ə'bi:diəns/        	n.服从,顺从             
+	experiment     	/ik'speriment/      	n.实验;试验 v.(on)进行实验;做试验
+	audience       	/'ɔ:diəns/          	n.听众，观众，读者；见面，会见    
+	science        	/'saiəns/           	n.科学;学科             
+----------
+threaten       	/'θretən/           	v.恐吓,威胁;有…危险,快要来临   
+	threat         	/θret/              	n.恐吓,威胁;坏兆头,危险迹象    
+----------
+dominant       	/'dɔminənt/         	a.支配的,统治的,占优势的      
+	predominant    	/ˌpri'dɔminənt/     	a.(over)占优势的;主要的,突出的
+----------
+manuscript     	/'mænjuskript/      	n.手稿,原稿             
+	script         	/skript/            	n.剧本(原稿)；手稿，原稿；笔迹，手迹
+	description    	/di'skripʃən/       	n.描写,形容;种类          
+----------
+glance         	/glɑ:ns/            	v.(at,over)扫视 n.匆匆看,一瞥,一眼
+	resemblance    	/ri'zembləns/       	n.相似,相似性[点,物]       
+	balance        	/'bæləns/           	v.称,(使)平衡 n.天平;平衡,均衡;差额,余款
+	ambulance      	/'æmbjuləns/        	n.救护车，救护船，救护飞机      
+----------
+disperse       	/dis'pə:s/          	v.(使)分散;(使)散开;疏散    
+	persevere      	/ˌpə:si'viə/        	v.坚持,坚忍,不屈不挠        
+----------
+content        	/'kɔntent/          	n.容量,内容,(pl.)目录 a.(with)满足的
+	context        	/'kɔntekst/         	n.（文章等）前后关系；(事件等的)背景
+	contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+	contend        	/kən'tend/          	v.竞争,斗争;坚决主张        
+----------
+forever        	/fə'revə/           	adv.(for ever)永远；总是 
+	wherever       	/hwεə'evə/          	conj.无论在哪里 ad.无论在哪里,究竟在哪里
+----------
+official       	/ə'fɪʃl/            	n.官员,行政官员 a.官方的,官方的,正式的
+	sufficient     	/sə'fiʃənt/         	a.(for)足够的,充分的(比enough拘谨、正式)
+	superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+	artificial     	/ˌɑ:ti'fiʃəl/       	a.人工的，人造的，人为的；假的，做作的
+----------
+communism      	/'kɔmjunizəm/       	n.共产主义              
+	communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+	community      	/kə'mju:niti/       	n.同一地区的全体居民,社会,社区;共同体
+----------
+fashionable    	/'fæʃənəbl/         	a.流行的,时髦的           
+	reasonable     	/'ri:zənəbl/        	a.合理的,有道理的;通情达理的;适度的
+----------
+confuse        	/kən'fju:z/         	v.使混乱,混淆            
+	confusion      	/kən'fju:ʒən/       	n.困惑，糊涂；混淆；混乱，骚乱    
+----------
+similar        	/'similə/           	a.(to)相似的,类似的       
+	assimilate     	/ə'simileit/        	vt.吸收，消化；使同化 vi.被吸收；被同化
+----------
+remainder      	/ri'meində/         	n.剩余物,剩下的;余数,余项     
+	remain         	/ri'mein/           	v.剩下,余留;留待,尚须;仍然是,依旧是
+	hinder         	/'hində/            	v.(from)阻止,妨碍 a.后面的 
+	kindergarten   	/'kindəˌgɑ:tən/     	n.幼儿园               
+----------
+countryside    	/'kʌntriˌsaid/      	n.乡下,农村             
+	account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	counter        	/'kauntə(r)/        	n.柜台;计数器 a.         
+	counterpart    	/'kauntəˌpɑ:t/      	n.对应的人(或物)          
+	country        	/'kʌntri/           	n.国家;农村,乡下          
+	discount       	/'diskaunt/         	n.折扣；贴现(率) vt.打折扣;不重视
+----------
+commemorate    	/kə'meməreit/       	vt.纪念，庆祝            
+	recommend      	/ˌrekə'mend/        	v.推荐,介绍;劝告,建议       
+----------
+multiple       	/'mʌltipl/          	a.多样的,多重的 n.倍数 v.成倍增加
+	multiply       	/'mʌltiplai/        	v.(by)乘,使相乘;倍增,增加,繁殖
+	multitude      	/'mʌltiˌtju:d/      	n.众多,大量             
+----------
+superior       	/sju:'piriə/        	a.优良的,卓越的;上级的 n.上级;长者;高手
+	exterior       	/ik'stiəriə/        	a.外部的,外面的 n.外部      
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+	superfluous    	/sju'pə:fluəs/      	a.多余的，过剩的，          
+	period         	/'pɪəriəd/          	n.时期,时代;学时;周期,一段时间;句点
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	superb         	/sju'pə:b/          	a.极好的,杰出的；华丽的；      
+----------
+whichever      	/hwitʃ'evə/         	pron.               
+	which          	/hwitʃ/             	a.                  
+----------
+commit         	/kə'mit/            	v.把…交托给,提交;犯(错误),干(坏事)
+	commission     	/kə'miʃən/          	n.委员会;委任,委托(书),代办;佣金,手续费
+----------
+progress       	/'prəugres/         	v.                  
+	programme      	/'prəugræm/         	n.(program)节目,计划,规划,程序 v.编程序
+----------
+messenger      	/'mesindʒə/         	n.送信者,使者,传令兵        
+	essential      	/i'senʃəl/          	a.本质的,基本的;净化的 n.本质;要素
+	passenger      	/'pæsindʒə/         	n.乘客,旅客             
+----------
+excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	exciting       	/ik'saitiŋ/         	a.令人兴奋的,使人激动的       
+	settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+	implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	statement      	/'steitmənt/        	n.声明,陈述             
+	basement       	/'beismənt/         	n.建筑物的底部,地下室,地窖     
+----------
+indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+	fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+	dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+----------
+torture        	/'tɔ:tʃə/           	v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦
+	nurture        	/'nə:tʃə/           	n.                  
+	departure      	/di'pɑ:tʃə/         	n.离开,起程             
+----------
+serial         	/'siəriəl/          	n.连载小说，连续剧；连载刊物 a.连续的
+	imperial       	/im'piəriəl/        	a.帝国的，帝王的；(度量衡)英制的  
+----------
+prophet        	/'prɔfit/           	n.预言家；先知；提倡者        
+	catastrophe    	/kə'tæstrəfi/       	n.大灾难；(悲剧)结局        
+----------
+suppose        	/sə'pəuz/           	v.料想,猜想;假定;conj.假使...结果会怎样
+	oppose         	/ə'pəuz/            	v.反对,使对立,使对抗,使相对    
+----------
+import         	/im'pɔ:t/           	v.                  
+	important      	/im'pɔ:tənt/        	a.重要的,重大的;有地位的,有权力的 
+	importance     	/im'pɔ:təns/        	n.重要,重要性            
+----------
+question       	/'kwestʃən/         	n.问题;询问 v.询问;怀疑,对…表示疑问
+	conquest       	/'kɔŋkwest/         	n.征服，征服地，掠取物        
+----------
+passenger      	/'pæsindʒə/         	n.乘客,旅客             
+	messenger      	/'mesindʒə/         	n.送信者,使者,传令兵        
+----------
+programme      	/'prəugræm/         	n.(program)节目,计划,规划,程序 v.编程序
+	progress       	/'prəugres/         	v.                  
+	gramme         	/græm/              	n.(gram)克           
+----------
+assistant      	/ə'sistənt/         	a.帮助的，辅助的 n.助手，助教；辅助物
+	resistant      	/ri'zistənt/        	a.(to)抵抗的,有抵抗力的     
+	resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+	substantial    	/səb'stænʃəl/       	a.实质的;相当的;显著的;坚固的;富裕的
+	assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+----------
+sanction       	/'sæŋˌkʃən/         	n.                  
+	dictionary     	/'dikʃənəri/        	n.词典,字典             
+	direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+	junction       	/'dʒʌŋkʃən/         	n.连接,接合,交叉点,枢纽站,接头,中继线
+	fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+	reduction      	/rɪ'dʌkʃn/          	n.减小,减少,缩小          
+----------
+occasional     	/ə'keiʒənəl/        	a.偶然的,非经常的,特殊场合的;临时的
+	persuasion     	/pə'sweiʒən/        	n.说服,说服力            
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	invasion       	/in'veiʒən/         	n.入侵,侵略,侵犯          
+----------
+violence       	/'vaiələns/         	n.猛烈,强烈;暴力,暴行;强暴    
+	violet         	/'vaiələt/          	n.紫罗兰,紫色 a.紫色的      
+	ultraviolet    	/ˌʌltrə'vaiələt/    	a.                  
+----------
+clothes        	/kləuðz/            	n.衣服(虽为复数，亦不可数)     
+	hypothesis     	/hai'pɔθisis/       	n.假说,假设,前提          
+	cloth          	/klɔθ/              	n.(一块)布,织物,衣料       
+----------
+condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+instrument     	/'ɪnstrəmənt/       	n.工具,仪器,器械;乐器       
+	instruct       	/in'strʌkt/         	v.教,教授;命令,指示        
+----------
+addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+resident       	/'rezidənt/         	n.居民,常住者 a.居住的      
+	identify       	/aɪ'dentɪfaɪ/       	v.识别,鉴别;(with)把…和…看成一样
+	confident      	/'kɔnfidənt/        	n.(of,in)确信的,自信的    
+	besides        	/bi'saidz/          	ad.此外；并且 prep.于…之外；除…以外
+	identity       	/ai'dentəti/        	n.身份;本体;特征;同一(性);一致;国籍;等式
+----------
+ultimate       	/'ʌltimət/          	a.最后的,最终的;根本的       
+	underestimate  	/ˌʌndə'estimeit/    	vt.低估，看轻            
+	legitimate     	/li'dʒitimət/       	a.合法的；合理的，合乎逻辑的 vt.使合法
+----------
+friend         	/frend/             	n.朋友                
+	friendship     	/'frendʃip/         	n.友谊,友好             
+----------
+superfluous    	/sju'pə:fluəs/      	a.多余的，过剩的，          
+	superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+	superior       	/sju:'piriə/        	a.优良的,卓越的;上级的 n.上级;长者;高手
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	superb         	/sju'pə:b/          	a.极好的,杰出的；华丽的；      
+----------
+quantity       	/'kwɔntəti/         	n.量,数量;大量           
+	quantitative   	/'kwɔntitətiv/      	a.数量的,定量的           
+	identity       	/ai'dentəti/        	n.身份;本体;特征;同一(性);一致;国籍;等式
+----------
+sweater        	/'swetə/            	n.毛衣,绒衣,厚运动衫        
+	theater        	/'θiətə/            	n.(theatre)戏院;戏剧;阶梯教室
+----------
+telegraph      	/'teligrɑ:f/        	n.电报机,电报 v.打电报,发电报  
+	biography      	/bai'ɔgrəfi/        	n.传记；传记文学           
+----------
+visit          	/'vizit/            	n.访问,参观 v.访问,参观;视察;降临;闲谈
+	visitor        	/'vizitə/           	n.访问者,客人,来宾,参观者     
+----------
+desirable      	/di'zaiərəbl/       	a.值得做的;合意的,称心的;期望得到的
+	innumerable    	/i'nuj:mərəbl/      	a.无数的,数不清的          
+	miserable      	/'mizərəbl/         	a.痛苦的,悲惨的           
+	favorable      	/'feivərəbl/        	a.(favourable)赞许的,有利的,讨人喜欢的
+	preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+	desire         	/di'zaiə/           	v.                  
+	honorable      	/'ɒnərəbl/          	a.(honourable)可敬的;荣誉的,光荣的
+----------
+surgery        	/'sə:dʒəri/         	n.外科,外科学;手术室,诊疗室    
+	hamburger      	/'hæmbɜ:gə(r)/      	n.汉堡包,牛肉饼           
+----------
+staircase      	/'stεəkeis/         	n.(stairway)楼梯      
+	stair          	/stεə/              	n.(pl.)楼梯           
+	upstairs       	/'ʌp'stεəz/         	ad.向楼上;在楼上;上楼 ad.楼上的
+	downstairs     	/'daun'stεəz/       	ad.在楼下,往楼下          
+----------
+select         	/si'lekt/           	v.选择,挑选 a.精选的,选择的   
+	electricity    	/ˌilek'trisəti/     	n.电,电流;电学           
+	electric       	/i'lektrik/         	a.电的,导电的,电动的        
+	electron       	/i'lektrɔn/         	n.电子                
+----------
+hypothesis     	/hai'pɔθisis/       	n.假说,假设,前提          
+	clothes        	/kləuðz/            	n.衣服(虽为复数，亦不可数)     
+	thesis         	/'θi:sis/           	n.(pl.theses) 论文;论题;论点
+----------
+inference      	/'infərəns/         	n.推论,推理,推断;结论       
+	infer          	/in'fə:/            	v.推论,推断             
+	reference      	/'refərəns/         	n.提及,涉及;参考,参考书目;证明书（人）
+	differentiate  	/ˌdifə'renʃieit/    	v.区分,区别;(使)不同       
+----------
+organ          	/'ɔ:gən/            	n.器官;机构,机关;风琴       
+	organism       	/'ɔ:gənizəm/        	n.生物，有机体            
+----------
+thing          	/θiŋ/               	n.物，东西；事，事情；所有物；局面，情况
+	anything       	/'eniθiŋ/           	pron.任何东西(事物)；无论什么东西(事物)
+----------
+visitor        	/'vizitə/           	n.访问者,客人,来宾,参观者     
+	visit          	/'vizit/            	n.访问,参观 v.访问,参观;视察;降临;闲谈
+----------
+meeting        	/'mi:tiŋ/           	n.会议,集合,汇合,会见,接见,汇合点
+	greeting       	/'gri:tiŋ/          	n.问候,致敬             
+----------
+elder          	/'eldə/             	a.年长的,资格老的 n.长辈     
+	elderly        	/'eldəli/           	a.较老的，年长的n.[the～]到了晚年的人
+----------
+inhibit        	/in'hibit/          	vt.抑制，约束            
+	exhibit        	/ig'zibit/          	v.展出,陈列 n.展览品,陈列品   
+	prohibit       	/prəu'hibit/        	v.禁止,不准;阻止          
+----------
+clockwise      	/'klɔkwaiz/         	a.顺时针方向             
+	clock          	/klɔk/              	n.钟 vt.记录(时间、速度等)，为…计时
+----------
+poisonous      	/'pɔizənəs/         	a.有毒的,恶意的,恶毒的,道德败坏的 
+	monotonous     	/mə'nɔtənəs/        	a.单调的,无变化的          
+----------
+contact        	/'kɒntækt/          	v.                  
+	container      	/kən'teinə/         	n.容器;集装箱            
+	intact         	/in'tækt/           	a.完整无缺的,未经触动的,未受损伤的 
+----------
+please         	/pli:z/             	v.请;使愉快,使满意;喜欢,愿意   
+	pleasure       	/'pleʒə/            	n.愉快,快乐;乐事,乐趣       
+	release        	/ri'li:s/           	v.释放,解放;发表,发行 n.释放,豁免,放松
+----------
+complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+	comply         	/kəm'plai/          	v.(with)遵照，照做，应允；顺从，服从
+	duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+	complain       	/kəm'plein/         	v.(about,of)抱怨;申诉   
+	accomplish     	/ə'kʌmpliʃ/         	v.实现(计划等)；达到(目的)；完成(任务)
+	fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+	dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+----------
+personnel      	/ˌpə:sə'nel/        	n.全体人员,全体职员;人事(部门)  
+	personal       	/'pə:sənl/          	a.个人的,私人的;亲自的;身体的,人身的
+----------
+accordingly    	/ə'kɔ:dɪŋli/        	ad.相应地，照着办，按照；于是，因此 
+	ordinary       	/'ɔ:dinəri/         	a.普通的,平凡的,平常的;平庸的   
+	exceedingly    	/ik'si:diŋli/       	ad.极端地,非常           
+----------
+aircraft       	/'εəkrɑ:ft/         	n.飞机，飞船，飞行器         
+	spacecraft     	/'speiskrɑ:ft/      	n.宇宙飞船              
+----------
+predominant    	/ˌpri'dɔminənt/     	a.(over)占优势的;主要的,突出的
+	dominant       	/'dɔminənt/         	a.支配的,统治的,占优势的      
+----------
+prefer         	/pri'fə:/           	v.(to)更喜欢,宁愿        
+	preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+	reference      	/'refərəns/         	n.提及,涉及;参考,参考书目;证明书（人）
+----------
+introduce      	/ˌintrə'dju:s/      	vt.介绍；引进，传入；提出(议案等) 
+	product        	/'prɔdəkt/          	n.产品,产物;乘积          
+	production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+	reproduce      	/ˌri:prə'dju:s/     	v.生殖;翻版;繁殖;复制,仿造    
+----------
+principle      	/'prinsəpl/         	n.原理,原则;主义,信念       
+	princess       	/prin'ses/          	n.公主,王妃             
+----------
+recovery       	/ri'kʌvəri/         	n.痊愈,复元;重获,恢复       
+	uncover        	/ˌʌn'kʌvə/          	v.揭开,揭露             
+	discover       	/dis'kʌvə/          	v.发现,显示             
+----------
+procession     	/prəu'seʃən/        	n.队伍,行列             
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	necessity      	/ni'sesəti/         	n.必要性,需要;必然性;(pl.)必需品
+	excessive      	/ik'sesiv/          	a.过多的;过分的;额外        
+	commission     	/kə'miʃən/          	n.委员会;委任,委托(书),代办;佣金,手续费
+	passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+----------
+pronoun        	/'prəunaun/         	n.代词                
+	pronounce      	/prəu'nauns/        	v.发…的音;宣布,宣判        
+----------
+belief         	/bi'li:f/           	n.信任，相信，信念；信仰，信条    
+	believe        	/bi'li:v/           	vt.相信，认为 vi.相信，信任，信奉
+----------
+unity          	/'ju:niti/          	n.团结;统一,一致,整体       
+	community      	/kə'mju:niti/       	n.同一地区的全体居民,社会,社区;共同体
+----------
+invasion       	/in'veiʒən/         	n.入侵,侵略,侵犯          
+	persuasion     	/pə'sweiʒən/        	n.说服,说服力            
+	occasional     	/ə'keiʒənəl/        	a.偶然的,非经常的,特殊场合的;临时的
+----------
+board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+	aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+	keyboard       	/'ki:bɔ:d/          	n.键盘 vt.用键盘输入(信息)   
+	cupboard       	/'kʌbəd/            	n.碗柜,小橱             
+----------
+resemblance    	/ri'zembləns/       	n.相似,相似性[点,物]       
+	glance         	/glɑ:ns/            	v.(at,over)扫视 n.匆匆看,一瞥,一眼
+	resemble       	/ri'zembl/          	v.像,类似              
+	balance        	/'bæləns/           	v.称,(使)平衡 n.天平;平衡,均衡;差额,余款
+	ambulance      	/'æmbjuləns/        	n.救护车，救护船，救护飞机      
+----------
+audience       	/'ɔ:diəns/          	n.听众，观众，读者；见面，会见    
+	obedience      	/ə'bi:diəns/        	n.服从,顺从             
+	experience     	/ik'spiəriəns/      	n.                  
+	science        	/'saiəns/           	n.科学;学科             
+----------
+speaker        	/'spi:kə/           	n.说话者，发言者；说某种语言者；扬声器
+	loudspeaker    	/'laud'spi:kə/      	n.扬声器,扩音器           
+----------
+proportion     	/prə'pɔ:ʃn/         	n.比例;部分;均衡,相称       
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	portion        	/'pɔ:ʃən/           	n.一部分,一份            
+----------
+neighbor       	/'neibə/            	n.(neighbour)邻居     
+	neighborhood   	/'neɪbə(r)ˌhud/     	n.(neighbourhood)邻居;四邻,街道
+----------
+certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	significance   	/sig'nifikəns/      	n.意义,含义;重要性,重要的     
+	duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+	fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+	dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+	communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+	artificial     	/ˌɑ:ti'fiʃəl/       	a.人工的，人造的，人为的；假的，做作的
+	scientific     	/ˌsaiən'tifik/      	a.科学上的              
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+----------
+susceptible    	/sə'septəbl/        	a.易受影响的;易受感动的;易受感染的 
+	exception      	/ik'sepʃən/         	n.例外,除外;反对;异议       
+----------
+implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+	settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	statement      	/'steitmənt/        	n.声明,陈述             
+	basement       	/'beismənt/         	n.建筑物的底部,地下室,地窖     
+----------
+favorable      	/'feivərəbl/        	a.(favourable)赞许的,有利的,讨人喜欢的
+	favorite       	/'feivərit/         	n.(favourite)最喜欢的人或物 a.喜爱的
+	innumerable    	/i'nuj:mərəbl/      	a.无数的,数不清的          
+	miserable      	/'mizərəbl/         	a.痛苦的,悲惨的           
+	desirable      	/di'zaiərəbl/       	a.值得做的;合意的,称心的;期望得到的
+	preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+	honorable      	/'ɒnərəbl/          	a.(honourable)可敬的;荣誉的,光荣的
+----------
+agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	statement      	/'steitmənt/        	n.声明,陈述             
+	basement       	/'beismənt/         	n.建筑物的底部,地下室,地窖     
+----------
+emigrate       	/'emigreit/         	v.(反)immigrate;(to,from)自本国移居他
+	immigrant      	/'imigrənt/         	a.(从国外)移来的,移民的 n.移民,侨民
+	migrate        	/mai'greit/         	v.迁移,移居(国外)         
+----------
+shutter        	/'ʃʌtə/             	n.百叶窗；(照相机)快门；关闭装置  
+	butterfly      	/'bʌtəflai/         	n.蝴蝶                
+	utter          	/'ʌtə/              	v.说,发出(声音) a.彻底的,完全的
+	shuttle        	/'ʃʌtl/             	n.往返汽车              
+----------
+interfere      	/ˌintə'fiə/         	v.(in)干涉,干预;(with)妨碍,打扰
+	interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+	interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	intermittent   	/ˌɪntə'mɪtənt/      	a.间歇的,断断续续的         
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+----------
+breach         	/bri:tʃ/            	n.违反，不履行；破裂 vt.冲破，攻破
+	preach         	/pri:tʃ/            	v.宣讲(教义),布道;竭力鼓吹,宣传;说教
+----------
+external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的
+	exterior       	/ik'stiəriə/        	a.外部的,外面的 n.外部      
+	eternal        	/i'tə:nəl/          	n.永久的,永恒的           
+	alternate      	/ɔ:l'tə:nət/        	a.交替的，轮流的 v.(使)交替，(使)轮流
+----------
+universal      	/ˌju:ni'və:səl/     	a.普遍的,全体的,通用的;宇宙的,世界的
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	universe       	/'ju:nivə:s/        	n.宇宙,万物             
+	diversion      	/dai'və:ʃən/        	n.转向,转移;牵制;解闷;娱乐    
+----------
+straightforward	/ˌstreit'fɔ:wəd/    	a.正直的;简单的,易懂的 ad.坦率地
+	constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+	afterward      	/'ɑ:ftəwəd/         	ad.(afterwards)以后，后来
+	forward        	/'fɔ:wəd/           	ad.(also forwards)向前 a.向前的 v.转交
+----------
+access         	/'ækses/            	n.进入；接入；到达；享用权；入口 vi.存取
+	accessory      	/ək'sesəri/         	n.附件,附属品;(为全套衣服增加美感的)服饰
+----------
+expenditure    	/iks'penditʃə/      	n.花费;(时间,金钱等的)支出,消耗 
+	expend         	/ik'spend/          	v.消费,花费             
+----------
+gradual        	/'grædʒuəl/         	a.逐渐的,逐步的           
+	undergraduate  	/ˌʌndə'grædjuət/    	n.大学生,大学肆业生         
+----------
+requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+	enquire        	/in'kwaiə/          	v.(inquire)询问,打听;调查;查问
+	settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	tremendous     	/trə'mendəs/        	a.巨大的,极大的           
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	statement      	/'steitmənt/        	n.声明,陈述             
+	basement       	/'beismənt/         	n.建筑物的底部,地下室,地窖     
+	require        	/ri'kwaiə/          	v.需要;(of)要求,命令      
+----------
+container      	/kən'teinə/         	n.容器;集装箱            
+	mountain       	/'mauntin/          	n.山                 
+	contact        	/'kɒntækt/          	v.                  
+----------
+presumably     	/pri'zju:-məbli/    	ad.推测起来,大概          
+	presume        	/pri'zju:m/         	v.假定,假设,认为,揣测,滥用,擅自行动
+----------
+contradict     	/ˌkɔntrə'dikt/      	v.反驳;同…矛盾,同…抵触      
+	contract       	/'kɔntrækt/         	n.(承包)合同            
+	contrast       	/kən'trɑ:st/        	n.对比，对照 vi.形成对比 vt.把…与…对比
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	controversy    	/'kɔntrəˌvə:si/     	n.争论，辩论，争吵          
+	radical        	/'rædikəl/          	a.基本的,重要的;激进的,极端的;根本的
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+----------
+witch          	/witʃ/              	n.女巫, 巫婆，巫师         
+	switch         	/switʃ/             	n.开关；转换；鞭子 v.转变,转换；抽打
+----------
+barbecue       	/'bɑ:bikju:/        	n.烤肉；烤肉用的台架 vt.炙烤(肉等)
+	barber         	/'bɑ:bə/            	n.理发师               
+----------
+counter        	/'kauntə(r)/        	n.柜台;计数器 a.         
+	account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	countryside    	/'kʌntriˌsaid/      	n.乡下,农村             
+	counterpart    	/'kauntəˌpɑ:t/      	n.对应的人(或物)          
+	country        	/'kʌntri/           	n.国家;农村,乡下          
+	discount       	/'diskaunt/         	n.折扣；贴现(率) vt.打折扣;不重视
+----------
+comprehensive  	/ˌkɔmpri'hensiv/    	a.内容广泛的,总括性的，综合的    
+	offensive      	/ə'fensiv/          	a.冒犯的,攻击的 n.攻势,进攻   
+	comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+	compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+----------
+neighborhood   	/'neɪbə(r)ˌhud/     	n.(neighbourhood)邻居;四邻,街道
+	neighbor       	/'neibə/            	n.(neighbour)邻居     
+----------
+northeast      	/ˌnɔ:θ'i:st/        	n.东北 a.东北方的 ad.向东北,在东北
+	southeast      	/ˌsauθ'i:st/        	n.                  
+	northern       	/'nɔ:ðən/           	a.北方的,北部的           
+----------
+theater        	/'θiətə/            	n.(theatre)戏院;戏剧;阶梯教室
+	sweater        	/'swetə/            	n.毛衣,绒衣,厚运动衫        
+----------
+substance      	/'sʌbstəns/         	n.物质；实质，本质；主旨；财产，资产 
+	acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+	importance     	/im'pɔ:təns/        	n.重要,重要性            
+	resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+	substantial    	/səb'stænʃəl/       	a.实质的;相当的;显著的;坚固的;富裕的
+	assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+----------
+originate      	/ə'ridʒəneit/       	v.(in,from)起源,发生;首创,创造
+	fascinate      	/'fæsineit/         	v.迷住,强烈吸引           
+	origin         	/'ɔridʒin/          	n.起源,由来;出身,来历       
+----------
+inspect        	/in'spekt/          	vt.检查,调查,视察         
+	spectacular    	/spek'tækjulə/      	a.壮观的,引人注目的 n.壮观的演出 
+	spectrum       	/'spektrəm/         	n.谱，光谱，频谱；范围，幅度，系列  
+	spectator      	/spek'teitə/        	n.观众,旁观者            
+----------
+measure        	/'meʒə/             	v.测量,分派,权衡 n.尺寸,量度器,措施,办法
+	pleasure       	/'pleʒə/            	n.愉快,快乐;乐事,乐趣       
+	treasure       	/'treʒə(r)/         	n.财宝,财富;珍品 v.珍爱,珍惜  
+----------
+native         	/'neitiv/           	a.本地的,本国的;天生的 n.本地人,本国人
+	quantitative   	/'kwɔntitətiv/      	a.数量的,定量的           
+----------
+engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	statement      	/'steitmənt/        	n.声明,陈述             
+	engage         	/ɪn'geɪdʒ/          	v.(in)从事,着手;约定;使订婚;保证;雇用
+	basement       	/'beismənt/         	n.建筑物的底部,地下室,地窖     
+----------
+passive        	/'pæsiv/            	a.被动的,消极的           
+	excessive      	/ik'sesiv/          	a.过多的;过分的;额外        
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+	passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+----------
+infer          	/in'fə:/            	v.推论,推断             
+	inference      	/'infərəns/         	n.推论,推理,推断;结论       
+----------
+pronounce      	/prəu'nauns/        	v.发…的音;宣布,宣判        
+	pronoun        	/'prəunaun/         	n.代词                
+	ounce          	/auns/              	n.盎司,英两             
+----------
+class          	/klɑ:s/             	n.班，年级；种类，等级，阶级；(一节)课
+	classic        	/'klæsik/           	n.(pl.)杰作,名著 a.第一流的,不朽的
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	classroom      	/'klɑ:srum/         	n.教室，课堂             
+----------
+communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+	duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+	fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+	dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	communism      	/'kɔmjunizəm/       	n.共产主义              
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	community      	/kə'mju:niti/       	n.同一地区的全体居民,社会,社区;共同体
+	lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+----------
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	pollution      	/pə:'lju:ʃən/       	n.污染                
+	constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+	precaution     	/pri'kɔ:ʃən/        	n.预防,谨慎,警惕          
+	institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+	solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     
+	revolutionary  	/ˌrevə'lju:ʃənəri/  	a.革命的,革新的 n.革命者     
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+	interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+	interfere      	/ˌintə'fiə/         	v.(in)干涉,干预;(with)妨碍,打扰
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	intermittent   	/ˌɪntə'mɪtənt/      	a.间歇的,断断续续的         
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+----------
+revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+console        	/kən'səul /         	n.控制台，仪表板；落地柜 vt.安慰，慰问
+	consolidate    	/kən'sɔlideit/      	v.使加固，使加强；(把...)联为一体，合并
+----------
+which          	/hwitʃ/             	a.                  
+	whichever      	/hwitʃ'evə/         	pron.               
+----------
+afterward      	/'ɑ:ftəwəd/         	ad.(afterwards)以后，后来
+	afternoon      	/ˌɑ:ftə:'nu:n/      	n.下午，午后             
+	straightforward	/ˌstreit'fɔ:wəd/    	a.正直的;简单的,易懂的 ad.坦率地
+	forward        	/'fɔ:wəd/           	ad.(also forwards)向前 a.向前的 v.转交
+----------
+biography      	/bai'ɔgrəfi/        	n.传记；传记文学           
+	telegraph      	/'teligrɑ:f/        	n.电报机,电报 v.打电报,发电报  
+----------
+artificial     	/ˌɑ:ti'fiʃəl/       	a.人工的，人造的，人为的；假的，做作的
+	superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+	official       	/ə'fɪʃl/            	n.官员,行政官员 a.官方的,官方的,正式的
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	scientific     	/ˌsaiən'tifik/      	a.科学上的              
+----------
+militant       	/'mɪlɪtənt/         	a.好战的，富于战斗性的 n.斗士   
+	inhabitant     	/in'hæbitənt/       	n.居民,住户             
+----------
+precaution     	/pri'kɔ:ʃən/        	n.预防,谨慎,警惕          
+	pollution      	/pə:'lju:ʃən/       	n.污染                
+	cautious       	/'kɔ:ʃəs/           	a.(of)小心的,谨慎的       
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     
+	revolutionary  	/ˌrevə'lju:ʃənəri/  	a.革命的,革新的 n.革命者     
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+reading        	/'ri:diŋ/           	n.读书,读物,(仪表等的)读数,阅读 
+	heading        	/'hediŋ/            	n.标题                
+----------
+pocket         	/'pɔkit/            	n.衣袋 a.袖珍的,小型的 v.把…装入袋内
+	rocket         	/'rɔkit/            	n.火箭                
+----------
+Christ         	/kraist/            	n.基督，救世主，耶稣         
+	Christian      	/'kristjən/         	n.基督教徒 a.基督教徒的      
+----------
+background     	/'bækgraund/        	n.背景,经历；幕后          
+	playground     	/'pleɪgraund/       	n.运动场,游戏场           
+	ground         	/graund/            	n.地，地面，土地；场地，场所；理由，根据
+	roundabout     	/'raundəˌbaut/      	a.迂回的,转弯抹角的 n.环状交叉路口
+----------
+intact         	/in'tækt/           	a.完整无缺的,未经触动的,未受损伤的 
+	contact        	/'kɒntækt/          	v.                  
+----------
+classic        	/'klæsik/           	n.(pl.)杰作,名著 a.第一流的,不朽的
+	class          	/klɑ:s/             	n.班，年级；种类，等级，阶级；(一节)课
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	classroom      	/'klɑ:srum/         	n.教室，课堂             
+----------
+science        	/'saiəns/           	n.科学;学科             
+	proficiency    	/prəu'fiʃənsi/      	n.(in)熟练,精通         
+	obedience      	/ə'bi:diəns/        	n.服从,顺从             
+	experience     	/ik'spiəriəns/      	n.                  
+	audience       	/'ɔ:diəns/          	n.听众，观众，读者；见面，会见    
+	scientist      	/'saiəntist/        	n.科学家               
+	scientific     	/ˌsaiən'tifik/      	a.科学上的              
+----------
+resemble       	/ri'zembl/          	v.像,类似              
+	resemblance    	/ri'zembləns/       	n.相似,相似性[点,物]       
+----------
+disregard      	/disri'gɑ:d/        	vt.不理会;忽视;漠视 n.忽视;漠视
+	regardless     	/ri'gɑ:dlis/        	a.                  
+----------
+resistant      	/ri'zistənt/        	a.(to)抵抗的,有抵抗力的     
+	assistant      	/ə'sistənt/         	a.帮助的，辅助的 n.助手，助教；辅助物
+	resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+	substantial    	/səb'stænʃəl/       	a.实质的;相当的;显著的;坚固的;富裕的
+	assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+----------
+customary      	/'kʌstəˌməri/       	a.习惯的,惯例的           
+	accustomed     	/ə'kʌstəmd/         	a.惯常的；习惯的，适应的(一般作表语)
+	custom         	/'kʌstəm/           	n.习惯,风俗,惯例;(pl.)海关,关税
+	stomach        	/'stʌmək/           	n.胃，胃口；肚子，腹部vt.承受，忍受
+	customer       	/'kʌstəmə/          	n.顾客,主顾             
+----------
+notorious      	/nəu'tɔ:riəs/       	a.臭名昭著的,声名狼藉的       
+	curious        	/'kjuəriəs/         	a.好奇的, 求知的, 古怪的, 爱挑剔的
+	mysterious     	/mi'stiəriəs/       	a.神秘的,可疑的,难理解的      
+----------
+personal       	/'pə:sənl/          	a.个人的,私人的;亲自的;身体的,人身的
+	personnel      	/ˌpə:sə'nel/        	n.全体人员,全体职员;人事(部门)  
+----------
+restrict       	/ri'strikt/         	v.限制,约束             
+	district       	/'distrikt/         	n.地区,行政区;美国各州的众议院选区 
+----------
+southern       	/'sʌðən/            	a.南方的,南部的           
+	southeast      	/ˌsauθ'i:st/        	n.                  
+	northern       	/'nɔ:ðən/           	a.北方的,北部的           
+	southwest      	/ˌsauθ'west/        	n.                  
+----------
+henceforth     	/'hens'fɔ:θ/        	ad.今后               
+	forthcoming    	/'fɔ:θ'kʌmiŋ/       	a.即将到来的;准备好的;乐意帮助的;n.来临
+----------
+pleasure       	/'pleʒə/            	n.愉快,快乐;乐事,乐趣       
+	please         	/pli:z/             	v.请;使愉快,使满意;喜欢,愿意   
+	measure        	/'meʒə/             	v.测量,分派,权衡 n.尺寸,量度器,措施,办法
+	treasure       	/'treʒə(r)/         	n.财宝,财富;珍品 v.珍爱,珍惜  
+----------
+accustomed     	/ə'kʌstəmd/         	a.惯常的；习惯的，适应的(一般作表语)
+	accuse         	/ə'kju:z/           	vt.控告，指责 vi.指控，指责   
+	customary      	/'kʌstəˌməri/       	a.习惯的,惯例的           
+	custom         	/'kʌstəm/           	n.习惯,风俗,惯例;(pl.)海关,关税
+	customer       	/'kʌstəmə/          	n.顾客,主顾             
+----------
+application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+contrast       	/kən'trɑ:st/        	n.对比，对照 vi.形成对比 vt.把…与…对比
+	contract       	/'kɔntrækt/         	n.(承包)合同            
+	contradict     	/ˌkɔntrə'dikt/      	v.反驳;同…矛盾,同…抵触      
+	controversy    	/'kɔntrəˌvə:si/     	n.争论，辩论，争吵          
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+----------
+tempt          	/tempt/             	v.诱惑,引诱;吸引,使感兴趣     
+	attempt        	/ə'tempt/           	vt.企图，试图 n.努力，尝试，企图 
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+----------
+counterpart    	/'kauntəˌpɑ:t/      	n.对应的人(或物)          
+	account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	countryside    	/'kʌntriˌsaid/      	n.乡下,农村             
+	counter        	/'kauntə(r)/        	n.柜台;计数器 a.         
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	country        	/'kʌntri/           	n.国家;农村,乡下          
+	discount       	/'diskaunt/         	n.折扣；贴现(率) vt.打折扣;不重视
+----------
+comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+	comprehensive  	/ˌkɔmpri'hensiv/    	a.内容广泛的,总括性的，综合的    
+	compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+----------
+living-room    	/'lɪvɪŋ ru:m/       	n.起居室               
+	Thanksgiving   	/'θæŋksˌgiviŋ/      	n.感恩节               
+----------
+destructive    	/di'strʌktiv/       	a.破坏性               
+	infrastructure 	/'infrəˌstrʌktʃə/   	n.基础结构，基础设施         
+	attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+	instruct       	/in'strʌkt/         	v.教,教授;命令,指示        
+	obstruct       	/əb'strʌkt/         	v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物
+----------
+preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+	innumerable    	/i'nuj:mərəbl/      	a.无数的,数不清的          
+	miserable      	/'mizərəbl/         	a.痛苦的,悲惨的           
+	desirable      	/di'zaiərəbl/       	a.值得做的;合意的,称心的;期望得到的
+	prefer         	/pri'fə:/           	v.(to)更喜欢,宁愿        
+	favorable      	/'feivərəbl/        	a.(favourable)赞许的,有利的,讨人喜欢的
+	reference      	/'refərəns/         	n.提及,涉及;参考,参考书目;证明书（人）
+	honorable      	/'ɒnərəbl/          	a.(honourable)可敬的;荣誉的,光荣的
+----------
+influence      	/'influəns/         	n.(on)影响,感化;势力,权势 v.影响,感化
+	sequence       	/'si:kwəns/         	n.先后,次序;连续,数列       
+----------
+origin         	/'ɔridʒin/          	n.起源,由来;出身,来历       
+	originate      	/ə'ridʒəneit/       	v.(in,from)起源,发生;首创,创造
+----------
+average        	/'ævəridʒ/          	n.平均,平均数 a.平均的；普通的 v.平均
+	beverage       	/'bevəridʒ/         	n.(水，酒等之外的)饮料       
+----------
+worship        	/'wə:ʃip/           	n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜
+	membership     	/'membəʃɪp/         	n.会员资格,成员资格         
+----------
+profitable     	/'prɔfitəbl/        	a.有利可图的,有益的         
+	proficiency    	/prəu'fiʃənsi/      	n.(in)熟练,精通         
+	table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+	portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+	tablet         	/'tæblət/           	n.药片;碑,匾            
+	suitable       	/'sju:təbl/         	a.(for)合适的,适宜的      
+----------
+declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+common         	/'kɔmən/            	a.普通的；共同的；一般的；n.公有地
+	commonplace    	/'kɔmənpleis/       	a.普通的，平庸的n.寻常事物，平庸的东西
+----------
+courage        	/'kʌridʒ/           	n.勇气,胆量             
+	discourage     	/dis'kʌridʒ/        	v.使泄气,使失去信心         
+----------
+scientist      	/'saiəntist/        	n.科学家               
+	sufficient     	/sə'fiʃənt/         	a.(for)足够的,充分的(比enough拘谨、正式)
+	science        	/'saiəns/           	n.科学;学科             
+	scientific     	/ˌsaiən'tifik/      	a.科学上的              
+----------
+western        	/'westən/           	a.西方的,西部的           
+	stern          	/stə:n/             	a.严厉的;坚决的,坚定的 n.船尾,舟尾
+----------
+refugee        	/ˌrefju'dʒi:/       	n.(政治上的)避难者，难民      
+	refuge         	/'refju:dʒ/         	n.避难处,藏身处           
+----------
+southeast      	/ˌsauθ'i:st/        	n.                  
+	northeast      	/ˌnɔ:θ'i:st/        	n.东北 a.东北方的 ad.向东北,在东北
+	southern       	/'sʌðən/            	a.南方的,南部的           
+	southwest      	/ˌsauθ'west/        	n.                  
+----------
+preposition    	/ˌprepə'ziʃən/      	n.介词                
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	contradict     	/ˌkɔntrə'dikt/      	v.反驳;同…矛盾,同…抵触      
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+	instinct       	/'instiŋkt/         	n.本能,直觉,天性          
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+hamburger      	/'hæmbɜ:gə(r)/      	n.汉堡包,牛肉饼           
+	surgery        	/'sə:dʒəri/         	n.外科,外科学;手术室,诊疗室    
+----------
+solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     
+	pollution      	/pə:'lju:ʃən/       	n.污染                
+	absolute       	/'æbsəlju:t/        	a.绝对的，完全的；确实的，肯定的   
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	precaution     	/pri'kɔ:ʃən/        	n.预防,谨慎,警惕          
+	revolutionary  	/ˌrevə'lju:ʃənəri/  	a.革命的,革新的 n.革命者     
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+	important      	/im'pɔ:tənt/        	a.重要的,重大的;有地位的,有权力的 
+	importance     	/im'pɔ:təns/        	n.重要,重要性            
+	table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+	profitable     	/'prɔfitəbl/        	a.有利可图的,有益的         
+	tablet         	/'tæblət/           	n.药片;碑,匾            
+	suitable       	/'sju:təbl/         	a.(for)合适的,适宜的      
+----------
+centigrade     	/'sentigreid/       	n.                  
+	centimetre     	/'sentiˌmi:tə/      	n.(centimeter)厘米    
+	grade          	/greid/             	n.等级,级别;年级;分数 v.分等,分级
+----------
+impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	procession     	/prəu'seʃən/        	n.队伍,行列             
+	oppress        	/ə'pres/            	v.压迫,压制             
+	depress        	/di'pres/           	v.压抑,降低;使沮丧,压下      
+	commission     	/kə'miʃən/          	n.委员会;委任,委托(书),代办;佣金,手续费
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+	passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+	compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+----------
+stair          	/stεə/              	n.(pl.)楼梯           
+	staircase      	/'stεəkeis/         	n.(stairway)楼梯      
+	upstairs       	/'ʌp'stεəz/         	ad.向楼上;在楼上;上楼 ad.楼上的
+	downstairs     	/'daun'stεəz/       	ad.在楼下,往楼下          
+----------
+departure      	/di'pɑ:tʃə/         	n.离开,起程             
+	nurture        	/'nə:tʃə/           	n.                  
+	torture        	/'tɔ:tʃə/           	v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦
+----------
+catastrophe    	/kə'tæstrəfi/       	n.大灾难；(悲剧)结局        
+	prophet        	/'prɔfit/           	n.预言家；先知；提倡者        
+----------
+proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	proportion     	/prə'pɔ:ʃn/         	n.比例;部分;均衡,相称       
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+scientific     	/ˌsaiən'tifik/      	a.科学上的              
+	identify       	/aɪ'dentɪfaɪ/       	v.识别,鉴别;(with)把…和…看成一样
+	sufficient     	/sə'fiʃənt/         	a.(for)足够的,充分的(比enough拘谨、正式)
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	artificial     	/ˌɑ:ti'fiʃəl/       	a.人工的，人造的，人为的；假的，做作的
+	science        	/'saiəns/           	n.科学;学科             
+	scientist      	/'saiəntist/        	n.科学家               
+----------
+meantime       	/'mi:n'taim/        	n.(meanwhile)其间,其时 ad.同时,当时
+	centimetre     	/'sentiˌmi:tə/      	n.(centimeter)厘米    
+----------
+accept         	/ək'sept/           	vt.接受，领受；认可，同意 vi.同意，认可
+	acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+----------
+characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+	realistic      	/ˌriə'listik/       	a.现实(主义)的           
+	character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+	pessimistic    	/ˌpesi'mistik/      	a.悲观(主义)的           
+	bacterium      	/bæk'tiəriəm/       	n.(pl.)bacteria 细菌  
+	Christian      	/'kristjən/         	n.基督教徒 a.基督教徒的      
+	artistic       	/ɑ:'tistik/         	a.艺术(家)的，美术(家)的；善于艺术创作的
+----------
+finite         	/'fainait/          	a.有限的；[数]有穷的,限定的    
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	infinite       	/'infinət/          	a.无限的,无穷的 n.无限      
+----------
+loyalty        	/'lɔɪəlti/          	n.忠诚,忠心             
+	loyal          	/'lɔiəl/            	a.(to)忠诚的,忠贞的       
+----------
+oppress        	/ə'pres/            	v.压迫,压制             
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	depress        	/di'pres/           	v.压抑,降低;使沮丧,压下      
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+	compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+----------
+imply          	/im'plai/           	v.意指,含…意思,暗示        
+	simply         	/'simpli/           	ad.简单地;完全,简直;仅仅,只不过;朴素地
+----------
+deduct         	/di'dʌkt/           	vt.扣除;演绎(推理)        
+	reduction      	/rɪ'dʌkʃn/          	n.减小,减少,缩小          
+----------
+cardinal       	/'kɑ:dɪnl/          	n.(天主教的)红衣主教 a.首要的，基本的
+	ordinary       	/'ɔ:dinəri/         	a.普通的,平凡的,平常的;平庸的   
+----------
+necessity      	/ni'sesəti/         	n.必要性,需要;必然性;(pl.)必需品
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	procession     	/prəu'seʃən/        	n.队伍,行列             
+	excessive      	/ik'sesiv/          	a.过多的;过分的;额外        
+----------
+statesman      	/'steitsmən/        	n.政治家,国务活动家         
+	salesman       	/'seilzmən/         	n.售货员,推销员           
+	spokesman      	/'spəuksmən/        	n.发言人               
+	statement      	/'steitmənt/        	n.声明,陈述             
+----------
+persevere      	/ˌpə:si'viə/        	v.坚持,坚忍,不屈不挠        
+	disperse       	/dis'pə:s/          	v.(使)分散;(使)散开;疏散    
+----------
+hardship       	/'hɑ:dʃip/          	n.艰难,困苦             
+	friendship     	/'frendʃip/         	n.友谊,友好             
+----------
+possibly       	/'pɔsəbli/          	ad.可能地，也许；无论如何      
+	possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+----------
+revolutionary  	/ˌrevə'lju:ʃənəri/  	a.革命的,革新的 n.革命者     
+	dictionary     	/'dikʃənəri/        	n.词典,字典             
+	pollution      	/pə:'lju:ʃən/       	n.污染                
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	precaution     	/pri'kɔ:ʃən/        	n.预防,谨慎,警惕          
+	solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+----------
+multiply       	/'mʌltiplai/        	v.(by)乘,使相乘;倍增,增加,繁殖
+	multiple       	/'mʌltipl/          	a.多样的,多重的 n.倍数 v.成倍增加
+	multitude      	/'mʌltiˌtju:d/      	n.众多,大量             
+----------
+alliance       	/ə'laiəns/          	n.同盟，同盟国；结盟，联姻      
+	reliance       	/ri'laiəns/         	n.信任,信心,依靠,依靠的人或物   
+----------
+preach         	/pri:tʃ/            	v.宣讲(教义),布道;竭力鼓吹,宣传;说教
+	breach         	/bri:tʃ/            	n.违反，不履行；破裂 vt.冲破，攻破
+----------
+bridge         	/bridʒ/             	n.桥；桥牌；鼻梁 vt.架桥；渡过  
+	fridge         	/fridʒ/             	n.(refrigerator的略语)冰箱
+----------
+junction       	/'dʒʌŋkʃən/         	n.连接,接合,交叉点,枢纽站,接头,中继线
+	dictionary     	/'dikʃənəri/        	n.词典,字典             
+	direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+	sanction       	/'sæŋˌkʃən/         	n.                  
+	fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+	reduction      	/rɪ'dʌkʃn/          	n.减小,减少,缩小          
+----------
+rocket         	/'rɔkit/            	n.火箭                
+	pocket         	/'pɔkit/            	n.衣袋 a.袖珍的,小型的 v.把…装入袋内
+----------
+threat         	/θret/              	n.恐吓,威胁;坏兆头,危险迹象    
+	threaten       	/'θretən/           	v.恐吓,威胁;有…危险,快要来临   
+----------
+modern         	/'mɔdən/            	a.现代的,近代的,新式的       
+	moderate       	/'mɔdərət/          	a.有节制的,中等的,适度的,温和的,稳健的
+----------
+seminar        	/'seminɑ:/          	n.(大学的)研究班,研讨会      
+	preliminary    	/pri'liminəri/      	a.预备的,初步的           
+----------
+standpoint     	/'stændpɔint/       	n.立场,观点             
+	standard       	/'stændəd/          	n.标准,规则 a.标准的       
+	misunderstand  	/ˌmisʌndə'stænd/    	v.误解,误会             
+----------
+calculate      	/'kælkjuleit/       	v.计算,推算;计划,打算       
+	articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+	circulate      	/'sə:kjuleit/       	v.(使)循环,(使)流通       
+	speculate      	/'spekjuleit/       	vi.思索；推测vt.投机；思索，推测 
+----------
+enlarge        	/in'lɑ:dʒ/          	vt.扩大,放大,增大         
+	large          	/lɑ:dʒ/             	a.大的,广大的,大规模的       
+	largely        	/'lɑ:dʒli/          	ad.主要地,基本上;大量地,大规模地 
+----------
+district       	/'distrikt/         	n.地区,行政区;美国各州的众议院选区 
+	restrict       	/ri'strikt/         	v.限制,约束             
+----------
+loudspeaker    	/'laud'spi:kə/      	n.扬声器,扩音器           
+	speaker        	/'spi:kə/           	n.说话者，发言者；说某种语言者；扬声器
+----------
+satisfy        	/'sætisfai/         	v.满意,使满意,使相信,说服     
+	satisfactory   	/ˌsætis'fæktəri/    	a.令人满意的,圆满的,良好的,符合要求的
+----------
+ounce          	/auns/              	n.盎司,英两             
+	pronounce      	/prəu'nauns/        	v.发…的音;宣布,宣判        
+----------
+missile        	/'misail/           	n.导弹,发射物            
+	commission     	/kə'miʃən/          	n.委员会;委任,委托(书),代办;佣金,手续费
+----------
+regardless     	/ri'gɑ:dlis/        	a.                  
+	disregard      	/disri'gɑ:d/        	vt.不理会;忽视;漠视 n.忽视;漠视
+----------
+upstairs       	/'ʌp'stεəz/         	ad.向楼上;在楼上;上楼 ad.楼上的
+	staircase      	/'stεəkeis/         	n.(stairway)楼梯      
+	stair          	/stεə/              	n.(pl.)楼梯           
+	downstairs     	/'daun'stεəz/       	ad.在楼下,往楼下          
+----------
+profound       	/prə'faund/         	a.深刻的,意义深远的;渊博的,造诣深的
+	found          	/faund/             	vt.建立;创立;创办;使有根据;铸造;熔制
+----------
+abundant       	/ə'bʌndənt/         	a.大量(充足)的；(in)丰富(富裕)的
+	redundant      	/ri'dʌndənt/        	a.多余的,过剩的;(食物)丰富的;被解雇的
+----------
+centimetre     	/'sentiˌmi:tə/      	n.(centimeter)厘米    
+	centigrade     	/'sentigreid/       	n.                  
+	meantime       	/'mi:n'taim/        	n.(meanwhile)其间,其时 ad.同时,当时
+	kilometre      	/'kiləmi:tə(r)/     	n.(kilometer) 公里，千米(略作km)
+----------
+absence        	/'æbsəns/           	n.缺乏，不存在；缺席，不在；缺席的时间
+	presence       	/'prezəns/          	n.出席,到场,存在,在        
+----------
+eyesight       	/'aisait/           	n.视力                
+	sight          	/sait/              	n.视力;望见,瞥见;视域;眼界;情景,奇观
+----------
+nonsense       	/'nɔnsəns/          	n.胡说,废话             
+	sense          	/sens/              	n.感官;感觉;判断力;意义 v.觉得,意识到
+----------
+disgrace       	/dis'greis/         	n.失宠,耻辱 v.使失宠;玷辱,使蒙羞
+	graceful       	/'greisful/         	a.优美的,文雅的,大方的       
+----------
+indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+	abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+	attract        	/ə'trækt/           	vt.引起的注意(或兴趣等),吸引；引起；激起
+	contract       	/'kɔntrækt/         	n.(承包)合同            
+	destructive    	/di'strʌktiv/       	a.破坏性               
+	fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	activate       	/'æktiveit/         	vt.启动，激活；驱动，驱使；使开始起作用
+----------
+expend         	/ik'spend/          	v.消费,花费             
+	expenditure    	/iks'penditʃə/      	n.花费;(时间,金钱等的)支出,消耗 
+----------
+institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+	pollution      	/pə:'lju:ʃən/       	n.污染                
+	instinct       	/'instiŋkt/         	n.本能,直觉,天性          
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	precaution     	/pri'kɔ:ʃən/        	n.预防,谨慎,警惕          
+	institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+	solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     
+	revolutionary  	/ˌrevə'lju:ʃənəri/  	a.革命的,革新的 n.革命者     
+----------
+electric       	/i'lektrik/         	a.电的,导电的,电动的        
+	electricity    	/ˌilek'trisəti/     	n.电,电流;电学           
+	select         	/si'lekt/           	v.选择,挑选 a.精选的,选择的   
+	electron       	/i'lektrɔn/         	n.电子                
+----------
+alternate      	/ɔ:l'tə:nət/        	a.交替的，轮流的 v.(使)交替，(使)轮流
+	eternal        	/i'tə:nəl/          	n.永久的,永恒的           
+	external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的
+----------
+consistent     	/kən'sistənt/       	a.(in)前后一致的；（with）一致，符合
+	sister         	/'sɪstə(r)/         	n.姐，妹；护士长；修女，女教士    
+	insist         	/in'sist/           	vi.(on)坚持要求,坚决主张,坚持 
+----------
+refuge         	/'refju:dʒ/         	n.避难处,藏身处           
+	refugee        	/ˌrefju'dʒi:/       	n.(政治上的)避难者，难民      
+----------
+orderly        	/'ɔ:dəli/           	a.整齐的,有秩序的,有条理的 n.勤务兵
+	elderly        	/'eldəli/           	a.较老的，年长的n.[the～]到了晚年的人
+----------
+cause          	/kɔ:z/              	n.原因;事业,事件,奋斗目标 v.使产生,引起
+	because        	/bi'kɔz/            	conj.因为，由于          
+----------
+fragrant       	/'freigrənt/        	a.香的;芬芳的            
+	immigrant      	/'imigrənt/         	a.(从国外)移来的,移民的 n.移民,侨民
+	grant          	/grɑ:nt/            	v.同意,准予;授予 n.授予物;津贴;转让证书
+----------
+ground         	/graund/            	n.地，地面，土地；场地，场所；理由，根据
+	playground     	/'pleɪgraund/       	n.运动场,游戏场           
+	background     	/'bækgraund/        	n.背景,经历；幕后          
+	roundabout     	/'raundəˌbaut/      	a.迂回的,转弯抹角的 n.环状交叉路口
+----------
+downstairs     	/'daun'stεəz/       	ad.在楼下,往楼下          
+	staircase      	/'stεəkeis/         	n.(stairway)楼梯      
+	stair          	/stεə/              	n.(pl.)楼梯           
+	upstairs       	/'ʌp'stεəz/         	ad.向楼上;在楼上;上楼 ad.楼上的
+----------
+multitude      	/'mʌltiˌtju:d/      	n.众多,大量             
+	gratitude      	/'grætɪtju:d/       	n.感激,感谢             
+	multiple       	/'mʌltipl/          	a.多样的,多重的 n.倍数 v.成倍增加
+	multiply       	/'mʌltiplai/        	v.(by)乘,使相乘;倍增,增加,繁殖
+----------
+sequence       	/'si:kwəns/         	n.先后,次序;连续,数列       
+	frequent       	/'fri:kwənt/        	a.时常发生的,频繁的         
+	influence      	/'influəns/         	n.(on)影响,感化;势力,权势 v.影响,感化
+	subsequent     	/'sʌbsikwənt/       	a.随后的,后来的           
+	frequency      	/'frikwənsi/        	n.频率,周率             
+----------
+paradigm       	/'pærədim/          	n.典范; 范例; 示例        
+	parade         	/pə'reid/           	n.                  
+----------
+excessive      	/ik'sesiv/          	a.过多的;过分的;额外        
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	procession     	/prəu'seʃən/        	n.队伍,行列             
+	passive        	/'pæsiv/            	a.被动的,消极的           
+	necessity      	/ni'sesəti/         	n.必要性,需要;必然性;(pl.)必需品
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+----------
+stereo         	/'steriˌəu/         	n.立体声音响；立体声装置 n.    
+	stereotype     	/'steriəutaip/      	n.陈规，模式化 vt.使定型，使模式化
+----------
+realise        	/'riəlaiz/          	v.(realize)认识到,体会到;实现
+	realistic      	/ˌriə'listik/       	a.现实(主义)的           
+----------
+immigrant      	/'imigrənt/         	a.(从国外)移来的,移民的 n.移民,侨民
+	emigrate       	/'emigreit/         	v.(反)immigrate;(to,from)自本国移居他
+	fragrant       	/'freigrənt/        	a.香的;芬芳的            
+	grant          	/grɑ:nt/            	v.同意,准予;授予 n.授予物;津贴;转让证书
+	migrate        	/mai'greit/         	v.迁移,移居(国外)         
+----------
+porter         	/'pɔ:tə/            	n.守门人,门房,行李搬运工,服务员  
+	reporter       	/ri'pɔ:tə/          	n.报告人,通讯员;记者,报导者    
+----------
+primitive      	/'primitiv/         	a.原始的,远古的,早期的;粗糙的,简单的
+	sensitive      	/'sensətɪv/         	a.(to)敏感的,易受伤害的;灵敏的 
+----------
+fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	dictionary     	/'dikʃənəri/        	n.词典,字典             
+	direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+	sanction       	/'sæŋˌkʃən/         	n.                  
+	junction       	/'dʒʌŋkʃən/         	n.连接,接合,交叉点,枢纽站,接头,中继线
+	attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+	production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+	reduction      	/rɪ'dʌkʃn/          	n.减小,减少,缩小          
+----------
+tremendous     	/trə'mendəs/        	a.巨大的,极大的           
+	extreme        	/ik'stri:m/         	a.末端的,尽头的;极度的 n.极端;最大程度
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+----------
+because        	/bi'kɔz/            	conj.因为，由于          
+	cause          	/kɔ:z/              	n.原因;事业,事件,奋斗目标 v.使产生,引起
+----------
+light          	/laɪt/              	n.光；灯 v.点燃；照亮 a.轻(快)；淡；明亮
+	delight        	/di'lait/           	n.快乐,高兴 v.(使)高兴,(使)欣喜
+	flight         	/flait/             	n.飞翔,飞行;航班;航程;逃跑;楼梯的一段
+----------
+instruct       	/in'strʌkt/         	v.教,教授;命令,指示        
+	infrastructure 	/'infrəˌstrʌktʃə/   	n.基础结构，基础设施         
+	instrument     	/'ɪnstrəmənt/       	n.工具,仪器,器械;乐器       
+	destructive    	/di'strʌktiv/       	a.破坏性               
+	obstruct       	/əb'strʌkt/         	v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物
+----------
+controversy    	/'kɔntrəˌvə:si/     	n.争论，辩论，争吵          
+	contract       	/'kɔntrækt/         	n.(承包)合同            
+	contradict     	/ˌkɔntrə'dikt/      	v.反驳;同…矛盾,同…抵触      
+	contrast       	/kən'trɑ:st/        	n.对比，对照 vi.形成对比 vt.把…与…对比
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+----------
+evidence       	/'evidəns/          	n.明显;显著;根据;证据;迹象    
+	correspondence 	/ˌkɔ:ris'pɔndəns/   	n.通信,信件;(with)符合;(to)相当于,对应
+	dividend       	/'dɪvɪdend/         	n.红利，股息；回报，效益；被除数   
+----------
+interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+	interfere      	/ˌintə'fiə/         	v.(in)干涉,干预;(with)妨碍,打扰
+	interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+	counterpart    	/'kauntəˌpɑ:t/      	n.对应的人(或物)          
+	intermittent   	/ˌɪntə'mɪtənt/      	a.间歇的,断断续续的         
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+----------
+judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	judge          	/dʒʌdʒ/             	n.法官;裁判员;鉴定人 vt.审判;评论,裁判
+	statement      	/'steitmənt/        	n.声明,陈述             
+	basement       	/'beismənt/         	n.建筑物的底部,地下室,地窖     
+----------
+gallop         	/'gæləp/            	v.                  
+	gallon         	/'gælən/            	n.加仑                
+----------
+insult         	/in'sʌlt/           	vt.                 
+	consult        	/kɔn'sʌlt/          	v.请教，向...咨询，找...商量；查阅，查看
+----------
+compensate     	/'kɔmpenseit/       	v.(for)补偿,赔偿        
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+entitle        	/in'taitl/          	v.给以权利(或资格);给…称号(题名);授权
+	identity       	/ai'dentəti/        	n.身份;本体;特征;同一(性);一致;国籍;等式
+----------
+bacterium      	/bæk'tiəriəm/       	n.(pl.)bacteria 细菌  
+	character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+	characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+----------
+generate       	/'dʒenəreɪt/        	vt.产生,发生;生殖         
+	generous       	/'dʒenərəs/         	a.宽宏大量的,慷慨的         
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	moderate       	/'mɔdərət/          	a.有节制的,中等的,适度的,温和的,稳健的
+----------
+underestimate  	/ˌʌndə'estimeit/    	vt.低估，看轻            
+	interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	undergraduate  	/ˌʌndə'grædjuət/    	n.大学生,大学肆业生         
+	misunderstand  	/ˌmisʌndə'stænd/    	v.误解,误会             
+	underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+	ultimate       	/'ʌltimət/          	a.最后的,最终的;根本的       
+	underline      	/ˌʌndə'lain/        	vt.在…下划线;强调         
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+	legitimate     	/li'dʒitimət/       	a.合法的；合理的，合乎逻辑的 vt.使合法
+----------
+continuous     	/kən'tinjuəs/       	a.连续的,持续的           
+	continual      	/kən'tinjuəl/       	a.不断的,连续的,频繁的       
+----------
+grade          	/greid/             	n.等级,级别;年级;分数 v.分等,分级
+	centigrade     	/'sentigreid/       	n.                  
+----------
+commonplace    	/'kɔmənpleis/       	a.普通的，平庸的n.寻常事物，平庸的东西
+	common         	/'kɔmən/            	a.普通的；共同的；一般的；n.公有地
+	displace       	/dis'pleis/         	v.移置,转移;取代,置换       
+----------
+obstruct       	/əb'strʌkt/         	v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物
+	infrastructure 	/'infrəˌstrʌktʃə/   	n.基础结构，基础设施         
+	destructive    	/di'strʌktiv/       	a.破坏性               
+	instruct       	/in'strʌkt/         	v.教,教授;命令,指示        
+----------
+activate       	/'æktiveit/         	vt.启动，激活；驱动，驱使；使开始起作用
+	attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+	motivate       	/'məutiveit/        	vt.促动；激励，鼓励，作为…的动机  
+----------
+pension        	/'penʃən/           	n.养老金,年金            
+	tension        	/'tenʃən/           	n.(紧张)状态；拉(绷)紧；张力，拉力
+	expansion      	/ik'spænʃən/        	n.扩张,膨胀;张开,伸展       
+----------
+train          	/trein/             	n.列车;行列,系列,一串 v.训练,培养
+	constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+----------
+treason        	/'tri:zən/          	n.谋反,通敌,叛国          
+	reasonable     	/'ri:zənəbl/        	a.合理的,有道理的;通情达理的;适度的
+	treasure       	/'treʒə(r)/         	n.财宝,财富;珍品 v.珍爱,珍惜  
+	season         	/'si:zən/           	n.季,季节,时节           
+----------
+temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	attempt        	/ə'tempt/           	vt.企图，试图 n.努力，尝试，企图 
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	tempt          	/tempt/             	v.诱惑,引诱;吸引,使感兴趣     
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+tablet         	/'tæblət/           	n.药片;碑,匾            
+	table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+	profitable     	/'prɔfitəbl/        	a.有利可图的,有益的         
+	portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+	suitable       	/'sju:təbl/         	a.(for)合适的,适宜的      
+----------
+resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+	acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+	importance     	/im'pɔ:təns/        	n.重要,重要性            
+	assistant      	/ə'sistənt/         	a.帮助的，辅助的 n.助手，助教；辅助物
+	substance      	/'sʌbstəns/         	n.物质；实质，本质；主旨；财产，资产 
+	resistant      	/ri'zistənt/        	a.(to)抵抗的,有抵抗力的     
+	assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+----------
+violet         	/'vaiələt/          	n.紫罗兰,紫色 a.紫色的      
+	violence       	/'vaiələns/         	n.猛烈,强烈;暴力,暴行;强暴    
+	ultraviolet    	/ˌʌltrə'vaiələt/    	a.                  
+----------
+waitress       	/'weitris/          	n.女侍者,女服务员          
+	mistress       	/'mistris/          	n.女主人;主妇;情妇,情人      
+----------
+curious        	/'kjuəriəs/         	a.好奇的, 求知的, 古怪的, 爱挑剔的
+	notorious      	/nəu'tɔ:riəs/       	a.臭名昭著的,声名狼藉的       
+	mysterious     	/mi'stiəriəs/       	a.神秘的,可疑的,难理解的      
+----------
+depress        	/di'pres/           	v.压抑,降低;使沮丧,压下      
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	oppress        	/ə'pres/            	v.压迫,压制             
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+	compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+----------
+displace       	/dis'pleis/         	v.移置,转移;取代,置换       
+	commonplace    	/'kɔmənpleis/       	a.普通的，平庸的n.寻常事物，平庸的东西
+----------
+custom         	/'kʌstəm/           	n.习惯,风俗,惯例;(pl.)海关,关税
+	customary      	/'kʌstəˌməri/       	a.习惯的,惯例的           
+	accustomed     	/ə'kʌstəmd/         	a.惯常的；习惯的，适应的(一般作表语)
+	customer       	/'kʌstəmə/          	n.顾客,主顾             
+----------
+grant          	/grɑ:nt/            	v.同意,准予;授予 n.授予物;津贴;转让证书
+	fragrant       	/'freigrənt/        	a.香的;芬芳的            
+	immigrant      	/'imigrənt/         	a.(从国外)移来的,移民的 n.移民,侨民
+----------
+commission     	/kə'miʃən/          	n.委员会;委任,委托(书),代办;佣金,手续费
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	commit         	/kə'mit/            	v.把…交托给,提交;犯(错误),干(坏事)
+	procession     	/prəu'seʃən/        	n.队伍,行列             
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	missile        	/'misail/           	n.导弹,发射物            
+	passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+----------
+housewife      	/'hauswaif/         	n.家庭主妇              
+	housework      	/'hauswə:k/         	n.家务，家事(不可数)        
+----------
+country        	/'kʌntri/           	n.国家;农村,乡下          
+	account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	countryside    	/'kʌntriˌsaid/      	n.乡下,农村             
+	counter        	/'kauntə(r)/        	n.柜台;计数器 a.         
+	counterpart    	/'kauntəˌpɑ:t/      	n.对应的人(或物)          
+	discount       	/'diskaunt/         	n.折扣；贴现(率) vt.打折扣;不重视
+----------
+perceive       	/pə'si:v/           	v.察觉,感知;理解,领悟       
+	percentage     	/pə'sentidʒ/        	n.百分数,百分率,百分比       
+	deceive        	/di'si:v/           	v.欺骗,蒙蔽             
+----------
+contend        	/kən'tend/          	v.竞争,斗争;坚决主张        
+	context        	/'kɔntekst/         	n.（文章等）前后关系；(事件等的)背景
+	contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+	content        	/'kɔntent/          	n.容量,内容,(pl.)目录 a.(with)满足的
+----------
+difficult      	/'difikəlt/         	a.困难的,艰难的           
+	agriculture    	/'ægrɪkʌltʃə(r)/    	n.农业，农艺，农耕          
+----------
+illusion       	/i'lju:ʒən/         	n.幻想，错误的观念；错觉，幻觉，假象 
+	confusion      	/kən'fju:ʒən/       	n.困惑，糊涂；混淆；混乱，骚乱    
+	conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+	illustrate     	/'iləstreit/        	v.举例说明,阐明;图解,加插图    
+----------
+substantial    	/səb'stænʃəl/       	a.实质的;相当的;显著的;坚固的;富裕的
+	potential      	/pəu'tenʃəl/        	a.潜在的,可能的 n.潜能,潜力   
+	essential      	/i'senʃəl/          	a.本质的,基本的;净化的 n.本质;要素
+	assistant      	/ə'sistənt/         	a.帮助的，辅助的 n.助手，助教；辅助物
+	substance      	/'sʌbstəns/         	n.物质；实质，本质；主旨；财产，资产 
+	resistant      	/ri'zistənt/        	a.(to)抵抗的,有抵抗力的     
+----------
+presume        	/pri'zju:m/         	v.假定,假设,认为,揣测,滥用,擅自行动
+	presumably     	/pri'zju:-məbli/    	ad.推测起来,大概          
+----------
+desire         	/di'zaiə/           	v.                  
+	desirable      	/di'zaiərəbl/       	a.值得做的;合意的,称心的;期望得到的
+----------
+loyal          	/'lɔiəl/            	a.(to)忠诚的,忠贞的       
+	loyalty        	/'lɔɪəlti/          	n.忠诚,忠心             
+----------
+explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	explain        	/ik'splein/         	v.解释,说明             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+cupboard       	/'kʌbəd/            	n.碗柜,小橱             
+	aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+	keyboard       	/'ki:bɔ:d/          	n.键盘 vt.用键盘输入(信息)   
+	board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+----------
+discover       	/dis'kʌvə/          	v.发现,显示             
+	uncover        	/ˌʌn'kʌvə/          	v.揭开,揭露             
+	recovery       	/ri'kʌvəri/         	n.痊愈,复元;重获,恢复       
+	discount       	/'diskaunt/         	n.折扣；贴现(率) vt.打折扣;不重视
+	discourage     	/dis'kʌridʒ/        	v.使泄气,使失去信心         
+----------
+revise         	/ri'vaiz/           	v.修订,校订;修正,修改       
+	devise         	/dɪ'vaɪz/           	vt.设计;发明;图谋;作出(计划);想出(办法)
+----------
+intermittent   	/ˌɪntə'mɪtənt/      	a.间歇的,断断续续的         
+	interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	permit         	/pə'mit/            	v.许可,允许 n.许可证,执照    
+	interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+	interfere      	/ˌintə'fiə/         	v.(in)干涉,干预;(with)妨碍,打扰
+	interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+----------
+precision      	/pri'siʒən/         	n.精确,精确度            
+	precise        	/pri'sais/          	a.精确的,准确的           
+----------
+compound       	/'kɒmpaund /        	n.混合物,化合物 a.混合的,化合的；vt.混合
+	component      	/kəm'pəunənt/       	n.组成部分,成分,元件 a.组成的,合成的
+	compose        	/kəm'pəuz/          	v.组成,构成;(of)由…组成;创作(诗歌等)
+----------
+judge          	/dʒʌdʒ/             	n.法官;裁判员;鉴定人 vt.审判;评论,裁判
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+----------
+release        	/ri'li:s/           	v.释放,解放;发表,发行 n.释放,豁免,放松
+	please         	/pli:z/             	v.请;使愉快,使满意;喜欢,愿意   
+----------
+insist         	/in'sist/           	vi.(on)坚持要求,坚决主张,坚持 
+	consistent     	/kən'sistənt/       	a.(in)前后一致的；（with）一致，符合
+----------
+dispose        	/dɪ'spəuz/          	v.(of)处理,处置;(for)布置,安排
+	disposal       	/dis'pəuzəl/        	n.处理,处置;布置,安排       
+----------
+spectator      	/spek'teitə/        	n.观众,旁观者            
+	spectacular    	/spek'tækjulə/      	a.壮观的,引人注目的 n.壮观的演出 
+	spectrum       	/'spektrəm/         	n.谱，光谱，频谱；范围，幅度，系列  
+	inspect        	/in'spekt/          	vt.检查,调查,视察         
+----------
+period         	/'pɪəriəd/          	n.时期,时代;学时;周期,一段时间;句点
+	superior       	/sju:'piriə/        	a.优良的,卓越的;上级的 n.上级;长者;高手
+----------
+superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+	superior       	/sju:'piriə/        	a.优良的,卓越的;上级的 n.上级;长者;高手
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	superfluous    	/sju'pə:fluəs/      	a.多余的，过剩的，          
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+	superb         	/sju'pə:b/          	a.极好的,杰出的；华丽的；      
+----------
+November       	/nəu'vembə/         	n.十一月               
+	membership     	/'membəʃɪp/         	n.会员资格,成员资格         
+----------
+quantitative   	/'kwɔntitətiv/      	a.数量的,定量的           
+	quantity       	/'kwɔntəti/         	n.量,数量;大量           
+	native         	/'neitiv/           	a.本地的,本国的;天生的 n.本地人,本国人
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+----------
+elderly        	/'eldəli/           	a.较老的，年长的n.[the～]到了晚年的人
+	elder          	/'eldə/             	a.年长的,资格老的 n.长辈     
+	orderly        	/'ɔ:dəli/           	a.整齐的,有秩序的,有条理的 n.勤务兵
+----------
+heroin         	/'herəuin/          	n.海洛因               
+	heroic         	/hi'rəuik/          	a.英雄的，英勇的，崇高的       
+----------
+frighten       	/'fraitən/          	v.使惊恐               
+	upright        	/'ʌprait/           	a.垂直的,直立的;正直的,诚实的 ad.竖立着
+----------
+stall          	/stɔ:l/             	n.货摊;畜栏,厩 v.(使)停转,(使)停止
+	install        	/in'stɔ:l/          	vt.(instal)安装,设置,安置；使就职,任命
+	installment    	/in'stɔ:lmənt/      	n.(instalment)分期付款；(连载的)一期
+----------
+portion        	/'pɔ:ʃən/           	n.一部分,一份            
+	proportion     	/prə'pɔ:ʃn/         	n.比例;部分;均衡,相称       
+----------
+migrate        	/mai'greit/         	v.迁移,移居(国外)         
+	emigrate       	/'emigreit/         	v.(反)immigrate;(to,from)自本国移居他
+	immigrant      	/'imigrənt/         	a.(从国外)移来的,移民的 n.移民,侨民
+----------
+conquest       	/'kɔŋkwest/         	n.征服，征服地，掠取物        
+	question       	/'kwestʃən/         	n.问题;询问 v.询问;怀疑,对…表示疑问
+----------
+balance        	/'bæləns/           	v.称,(使)平衡 n.天平;平衡,均衡;差额,余款
+	glance         	/glɑ:ns/            	v.(at,over)扫视 n.匆匆看,一瞥,一眼
+	resemblance    	/ri'zembləns/       	n.相似,相似性[点,物]       
+	ambulance      	/'æmbjuləns/        	n.救护车，救护船，救护飞机      
+----------
+prohibit       	/prəu'hibit/        	v.禁止,不准;阻止          
+	exhibit        	/ig'zibit/          	v.展出,陈列 n.展览品,陈列品   
+	inhibit        	/in'hibit/          	vt.抑制，约束            
+----------
+cucumber       	/'kju:kʌmbə/        	n.黄瓜                
+	lumber         	/'lʌmbə/            	n.木材,木料             
+----------
+ambulance      	/'æmbjuləns/        	n.救护车，救护船，救护飞机      
+	glance         	/glɑ:ns/            	v.(at,over)扫视 n.匆匆看,一瞥,一眼
+	resemblance    	/ri'zembləns/       	n.相似,相似性[点,物]       
+	balance        	/'bæləns/           	v.称,(使)平衡 n.天平;平衡,均衡;差额,余款
+----------
+stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	dictionary     	/'dikʃənəri/        	n.词典,字典             
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	revolutionary  	/ˌrevə'lju:ʃənəri/  	a.革命的,革新的 n.革命者     
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+compose        	/kəm'pəuz/          	v.组成,构成;(of)由…组成;创作(诗歌等)
+	component      	/kəm'pəunənt/       	n.组成部分,成分,元件 a.组成的,合成的
+	compound       	/'kɒmpaund /        	n.混合物,化合物 a.混合的,化合的；vt.混合
+----------
+reasonable     	/'ri:zənəbl/        	a.合理的,有道理的;通情达理的;适度的
+	fashionable    	/'fæʃənəbl/         	a.流行的,时髦的           
+	treason        	/'tri:zən/          	n.谋反,通敌,叛国          
+	season         	/'si:zən/           	n.季,季节,时节           
+----------
+impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	passive        	/'pæsiv/            	a.被动的,消极的           
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	oppress        	/ə'pres/            	v.压迫,压制             
+	excessive      	/ik'sesiv/          	a.过多的;过分的;额外        
+	depress        	/di'pres/           	v.压抑,降低;使沮丧,压下      
+	compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+----------
+gramme         	/græm/              	n.(gram)克           
+	programme      	/'prəugræm/         	n.(program)节目,计划,规划,程序 v.编程序
+----------
+tempo          	/'tempəu/           	n.节奏,行进速度;(音乐的)速度   
+	temporary      	/'tempərəri/        	a.暂时的,临时的           
+	contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+----------
+editorial      	/ˌedi'tɔ:riəl/      	n.社论  a.社论的；编辑上的    
+	historian      	/his'tɔ:riən/       	n.历史学家              
+----------
+temper         	/'tempə/            	n.脾气；韧度vt.调和，使缓和；使回火
+	temperament    	/'tempərəmənt/      	n.气质，性格，性情；资质       
+	temperature    	/'temprətʃə(r)/     	n.温度，体温；热度，发烧       
+	emperor        	/'empərə/           	n.皇帝                
+----------
+imperial       	/im'piəriəl/        	a.帝国的，帝王的；(度量衡)英制的  
+	serial         	/'siəriəl/          	n.连载小说，连续剧；连载刊物 a.连续的
+----------
+underline      	/ˌʌndə'lain/        	vt.在…下划线;强调         
+	undergraduate  	/ˌʌndə'grædjuət/    	n.大学生,大学肆业生         
+	misunderstand  	/ˌmisʌndə'stænd/    	v.误解,误会             
+	underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+	underestimate  	/ˌʌndə'estimeit/    	vt.低估，看轻            
+----------
+population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	popular        	/'pɔpjulə/          	a.流行的,通俗的,大众的;广受欢迎的 
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+applause       	/ə'plɔ:z/           	n.鼓掌；喝彩；夸奖，赞扬       
+	clause         	/klɔ:z/             	n.(正式文件或法律文件的)条款;从句,分句
+----------
+mysterious     	/mi'stiəriəs/       	a.神秘的,可疑的,难理解的      
+	exterior       	/ik'stiəriə/        	a.外部的,外面的 n.外部      
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	notorious      	/nəu'tɔ:riəs/       	a.臭名昭著的,声名狼藉的       
+	curious        	/'kjuəriəs/         	a.好奇的, 求知的, 古怪的, 爱挑剔的
+----------
+violate        	/'vaiəleit/         	vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)
+	isolate        	/'aisəleit/         	vt.隔离,孤立            
+----------
+preliminary    	/pri'liminəri/      	a.预备的,初步的           
+	seminar        	/'seminɑ:/          	n.(大学的)研究班,研讨会      
+	ordinary       	/'ɔ:dinəri/         	a.普通的,平凡的,平常的;平庸的   
+----------
+location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	locate         	/ləu'keit/          	v.查出,探出,查找…地点,使…坐落于,位于
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+	dictionary     	/'dikʃənəri/        	n.词典,字典             
+	product        	/'prɔdəkt/          	n.产品,产物;乘积          
+	direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+	sanction       	/'sæŋˌkʃən/         	n.                  
+	introduce      	/ˌintrə'dju:s/      	vt.介绍；引进，传入；提出(议案等) 
+	junction       	/'dʒʌŋkʃən/         	n.连接,接合,交叉点,枢纽站,接头,中继线
+	fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	reproduce      	/ˌri:prə'dju:s/     	v.生殖;翻版;繁殖;复制,仿造    
+	reduction      	/rɪ'dʌkʃn/          	n.减小,减少,缩小          
+----------
+dividend       	/'dɪvɪdend/         	n.红利，股息；回报，效益；被除数   
+	evidence       	/'evidəns/          	n.明显;显著;根据;证据;迹象    
+----------
+reference      	/'refərəns/         	n.提及,涉及;参考,参考书目;证明书（人）
+	inference      	/'infərəns/         	n.推论,推理,推断;结论       
+	prefer         	/pri'fə:/           	v.(to)更喜欢,宁愿        
+	preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+	differentiate  	/ˌdifə'renʃieit/    	v.区分,区别;(使)不同       
+----------
+spokesman      	/'spəuksmən/        	n.发言人               
+	salesman       	/'seilzmən/         	n.售货员,推销员           
+	statesman      	/'steitsmən/        	n.政治家,国务活动家         
+----------
+radical        	/'rædikəl/          	a.基本的,重要的;激进的,极端的;根本的
+	contradict     	/ˌkɔntrə'dikt/      	v.反驳;同…矛盾,同…抵触      
+	medical        	/'medikəl/          	a.医学的，医疗的，医药的；内科的   
+----------
+classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	significance   	/sig'nifikəns/      	n.意义,含义;重要性,重要的     
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	class          	/klɑ:s/             	n.班，年级；种类，等级，阶级；(一节)课
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	classic        	/'klæsik/           	n.(pl.)杰作,名著 a.第一流的,不朽的
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	classroom      	/'klɑ:srum/         	n.教室，课堂             
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+Thanksgiving   	/'θæŋksˌgiviŋ/      	n.感恩节               
+	living-room    	/'lɪvɪŋ ru:m/       	n.起居室               
+----------
+clock          	/klɔk/              	n.钟 vt.记录(时间、速度等)，为…计时
+	clockwise      	/'klɔkwaiz/         	a.顺时针方向             
+----------
+correct        	/kə'rekt/           	a.正确的,恰当的,端正的 v.改正,纠正,矫正
+	correspondence 	/ˌkɔ:ris'pɔndəns/   	n.通信,信件;(with)符合;(to)相当于,对应
+	correlate      	/'kɒrələt /         	n.相关联的事物 v.(with,to)(使)互相关联
+----------
+water          	/'wɔ:tə(r)/         	n.水 vt.浇灌；给…饮水 vi.流泪，加水
+	waterfall      	/'wɔ:təfɔ:l/        	n.瀑布                
+----------
+sense          	/sens/              	n.感官;感觉;判断力;意义 v.觉得,意识到
+	nonsense       	/'nɔnsəns/          	n.胡说,废话             
+----------
+aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+flight         	/flait/             	n.飞翔,飞行;航班;航程;逃跑;楼梯的一段
+	delight        	/di'lait/           	n.快乐,高兴 v.(使)高兴,(使)欣喜
+	light          	/laɪt/              	n.光；灯 v.点燃；照亮 a.轻(快)；淡；明亮
+----------
+contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+	strive         	/straiv/            	v.奋斗,努力             
+	contract       	/'kɔntrækt/         	n.(承包)合同            
+	contradict     	/ˌkɔntrə'dikt/      	v.反驳;同…矛盾,同…抵触      
+	contrast       	/kən'trɑ:st/        	n.对比，对照 vi.形成对比 vt.把…与…对比
+	controversy    	/'kɔntrəˌvə:si/     	n.争论，辩论，争吵          
+----------
+subsequent     	/'sʌbsikwənt/       	a.随后的,后来的           
+	frequent       	/'fri:kwənt/        	a.时常发生的,频繁的         
+	eloquent       	/'eləkwənt/         	a.雄辩的,有说服力的;善辩的,口才流利的
+	sequence       	/'si:kwəns/         	n.先后,次序;连续,数列       
+	frequency      	/'frikwənsi/        	n.频率,周率             
+----------
+stern          	/stə:n/             	a.严厉的;坚决的,坚定的 n.船尾,舟尾
+	western        	/'westən/           	a.西方的,西部的           
+----------
+invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	quantitative   	/'kwɔntitətiv/      	a.数量的,定量的           
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+Christian      	/'kristjən/         	n.基督教徒 a.基督教徒的      
+	Christ         	/kraist/            	n.基督，救世主，耶稣         
+	characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+----------
+psychology     	/psai'kɔlədʒi/      	n.心理,心理学,心理状态       
+	technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+	sociology      	/ˌsəusi'ɔlədʒi/     	n.社会学               
+----------
+statement      	/'steitmənt/        	n.声明,陈述             
+	settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	statesman      	/'steitsmən/        	n.政治家,国务活动家         
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	basement       	/'beismənt/         	n.建筑物的底部,地下室,地窖     
+----------
+roundabout     	/'raundəˌbaut/      	a.迂回的,转弯抹角的 n.环状交叉路口
+	playground     	/'pleɪgraund/       	n.运动场,游戏场           
+	background     	/'bækgraund/        	n.背景,经历；幕后          
+	ground         	/graund/            	n.地，地面，土地；场地，场所；理由，根据
+----------
+treasure       	/'treʒə(r)/         	n.财宝,财富;珍品 v.珍爱,珍惜  
+	measure        	/'meʒə/             	v.测量,分派,权衡 n.尺寸,量度器,措施,办法
+	pleasure       	/'pleʒə/            	n.愉快,快乐;乐事,乐趣       
+	treason        	/'tri:zən/          	n.谋反,通敌,叛国          
+----------
+aspire         	/ə'spaiə/           	vi.(to，after)渴望，追求，有志于
+	inspire        	/in'spaiə/          	vt.鼓舞,激起;使产生灵感      
+----------
+definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	finite         	/'fainait/          	a.有限的；[数]有穷的,限定的    
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	infinite       	/'infinət/          	a.无限的,无穷的 n.无限      
+	competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+----------
+decrease       	/di'kri:s/          	n.减少,减小;减少量 v.减少,变少,降低
+	grease         	/gri:s/             	n.动物脂,油脂,润滑脂 v.抹油,润滑
+----------
+suitable       	/'sju:təbl/         	a.(for)合适的,适宜的      
+	table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+	profitable     	/'prɔfitəbl/        	a.有利可图的,有益的         
+	portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+	tablet         	/'tæblət/           	n.药片;碑,匾            
+----------
+besides        	/bi'saidz/          	ad.此外；并且 prep.于…之外；除…以外
+	resident       	/'rezidənt/         	n.居民,常住者 a.居住的      
+----------
+heading        	/'hediŋ/            	n.标题                
+	reading        	/'ri:diŋ/           	n.读书,读物,(仪表等的)读数,阅读 
+----------
+butterfly      	/'bʌtəflai/         	n.蝴蝶                
+	shutter        	/'ʃʌtə/             	n.百叶窗；(照相机)快门；关闭装置  
+	utter          	/'ʌtə/              	v.说,发出(声音) a.彻底的,完全的
+----------
+participant    	/pɑ:'tisipənt/      	n.参加者,参与者 a.有份的,参与的 
+	articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+	participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+----------
+advantage      	/əd'vɑ:ntidʒ/       	n.优点，长处，有利条件；利益，好处  
+	advance        	/əd'vɑ:ns/          	n.前进，预付 vi.前进，进展 vt.促进，推进
+	percentage     	/pə'sentidʒ/        	n.百分数,百分率,百分比       
+----------
+reproduce      	/ˌri:prə'dju:s/     	v.生殖;翻版;繁殖;复制,仿造    
+	product        	/'prɔdəkt/          	n.产品,产物;乘积          
+	introduce      	/ˌintrə'dju:s/      	vt.介绍；引进，传入；提出(议案等) 
+	production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+----------
+stereotype     	/'steriəutaip/      	n.陈规，模式化 vt.使定型，使模式化
+	stereo         	/'steriˌəu/         	n.立体声音响；立体声装置 n.    
+----------
+interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+	interest       	/'ɪntrəst/          	n.(in)兴趣,重要性;利益v.(in)使发生兴趣
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+	interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+	interfere      	/ˌintə'fiə/         	v.(in)干涉,干预;(with)妨碍,打扰
+	interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	underestimate  	/ˌʌndə'estimeit/    	vt.低估，看轻            
+	intermittent   	/ˌɪntə'mɪtənt/      	a.间歇的,断断续续的         
+	destiny        	/'destini/          	n.命运;天数,天命          
+----------
+hinder         	/'hində/            	v.(from)阻止,妨碍 a.后面的 
+	remainder      	/ri'meində/         	n.剩余物,剩下的;余数,余项     
+	kindergarten   	/'kindəˌgɑ:tən/     	n.幼儿园               
+----------
+popular        	/'pɔpjulə/          	a.流行的,通俗的,大众的;广受欢迎的 
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+----------
+utter          	/'ʌtə/              	v.说,发出(声音) a.彻底的,完全的
+	shutter        	/'ʃʌtə/             	n.百叶窗；(照相机)快门；关闭装置  
+	butterfly      	/'bʌtəflai/         	n.蝴蝶                
+----------
+precise        	/pri'sais/          	a.精确的,准确的           
+	precision      	/pri'siʒən/         	n.精确,精确度            
+----------
+identity       	/ai'dentəti/        	n.身份;本体;特征;同一(性);一致;国籍;等式
+	identify       	/aɪ'dentɪfaɪ/       	v.识别,鉴别;(with)把…和…看成一样
+	confident      	/'kɔnfidənt/        	n.(of,in)确信的,自信的    
+	resident       	/'rezidənt/         	n.居民,常住者 a.居住的      
+	quantity       	/'kwɔntəti/         	n.量,数量;大量           
+	entitle        	/in'taitl/          	v.给以权利(或资格);给…称号(题名);授权
+----------
+electron       	/i'lektrɔn/         	n.电子                
+	electricity    	/ˌilek'trisəti/     	n.电,电流;电学           
+	select         	/si'lekt/           	v.选择,挑选 a.精选的,选择的   
+	electric       	/i'lektrik/         	a.电的,导电的,电动的        
+----------
+stomach        	/'stʌmək/           	n.胃，胃口；肚子，腹部vt.承受，忍受
+	customary      	/'kʌstəˌməri/       	a.习惯的,惯例的           
+----------
+tension        	/'tenʃən/           	n.(紧张)状态；拉(绷)紧；张力，拉力
+	pension        	/'penʃən/           	n.养老金,年金            
+	expansion      	/ik'spænʃən/        	n.扩张,膨胀;张开,伸展       
+----------
+passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	procession     	/prəu'seʃən/        	n.队伍,行列             
+	passive        	/'pæsiv/            	a.被动的,消极的           
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	commission     	/kə'miʃən/          	n.委员会;委任,委托(书),代办;佣金,手续费
+----------
+harden         	/'hɑ:dən/           	v.(使)变硬             
+	garden         	/'gɑ:dn/            	n.(菜,花)园;公园         
+----------
+motivate       	/'məutiveit/        	vt.促动；激励，鼓励，作为…的动机  
+	activate       	/'æktiveit/         	vt.启动，激活；驱动，驱使；使开始起作用
+----------
+correlate      	/'kɒrələt /         	n.相关联的事物 v.(with,to)(使)互相关联
+	correspondence 	/ˌkɔ:ris'pɔndəns/   	n.通信,信件;(with)符合;(to)相当于,对应
+	correct        	/kə'rekt/           	a.正确的,恰当的,端正的 v.改正,纠正,矫正
+----------
+inflation      	/in'fleiʃən/        	n.通货膨胀              
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+medical        	/'medikəl/          	a.医学的，医疗的，医药的；内科的   
+	dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	radical        	/'rædikəl/          	a.基本的,重要的;激进的,极端的;根本的
+----------
+ultraviolet    	/ˌʌltrə'vaiələt/    	a.                  
+	violence       	/'vaiələns/         	n.猛烈,强烈;暴力,暴行;强暴    
+	violet         	/'vaiələt/          	n.紫罗兰,紫色 a.紫色的      
+----------
+assimilate     	/ə'simileit/        	vt.吸收，消化；使同化 vi.被吸收；被同化
+	pessimistic    	/ˌpesi'mistik/      	a.悲观(主义)的           
+	similar        	/'similə/           	a.(to)相似的,类似的       
+----------
+believe        	/bi'li:v/           	vt.相信，认为 vi.相信，信任，信奉
+	belief         	/bi'li:f/           	n.信任，相信，信念；信仰，信条    
+----------
+troublesome    	/'trʌblsəm/         	a.令人烦恼的,讨厌的         
+	trouble        	/'trʌbl/            	n.烦恼;动乱;疾病;故障;辛苦v.(使)烦恼
+----------
+destiny        	/'destini/          	n.命运;天数,天命          
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	interesting    	/'ɪntrɪstɪŋ/        	a.有趣的,引人入胜的         
+----------
+northern       	/'nɔ:ðən/           	a.北方的,北部的           
+	further        	/'fə:ðə/            	ad.                 
+	northeast      	/ˌnɔ:θ'i:st/        	n.东北 a.东北方的 ad.向东北,在东北
+	southern       	/'sʌðən/            	a.南方的,南部的           
+----------
+explosion      	/ɪk'spləuʒn/        	n.爆炸,爆发             
+	erosion        	/i'rəuʒən/          	n.腐蚀,磨损;削弱,减少       
+----------
+parade         	/pə'reid/           	n.                  
+	paradigm       	/'pærədim/          	n.典范; 范例; 示例        
+----------
+illustrate     	/'iləstreit/        	v.举例说明,阐明;图解,加插图    
+	illusion       	/i'lju:ʒən/         	n.幻想，错误的观念；错觉，幻觉，假象 
+----------
+garden         	/'gɑ:dn/            	n.(菜,花)园;公园         
+	harden         	/'hɑ:dən/           	v.(使)变硬             
+----------
+inhabitant     	/in'hæbitənt/       	n.居民,住户             
+	militant       	/'mɪlɪtənt/         	a.好战的，富于战斗性的 n.斗士   
+----------
+gallon         	/'gælən/            	n.加仑                
+	gallop         	/'gæləp/            	v.                  
+----------
+employee       	/ˌemplɔi'i:/        	n.雇工,雇员             
+	employ         	/im'plɔi/           	n.                  
+----------
+southwest      	/ˌsauθ'west/        	n.                  
+	southern       	/'sʌðən/            	a.南方的,南部的           
+	southeast      	/ˌsauθ'i:st/        	n.                  
+----------
+classroom      	/'klɑ:srum/         	n.教室，课堂             
+	class          	/klɑ:s/             	n.班，年级；种类，等级，阶级；(一节)课
+	classic        	/'klæsik/           	n.(pl.)杰作,名著 a.第一流的,不朽的
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+----------
+discount       	/'diskaunt/         	n.折扣；贴现(率) vt.打折扣;不重视
+	account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	countryside    	/'kʌntriˌsaid/      	n.乡下,农村             
+	counter        	/'kauntə(r)/        	n.柜台;计数器 a.         
+	counterpart    	/'kauntəˌpɑ:t/      	n.对应的人(或物)          
+	country        	/'kʌntri/           	n.国家;农村,乡下          
+	discover       	/dis'kʌvə/          	v.发现,显示             
+	discourage     	/dis'kʌridʒ/        	v.使泄气,使失去信心         
+----------
+differentiate  	/ˌdifə'renʃieit/    	v.区分,区别;(使)不同       
+	potential      	/pəu'tenʃəl/        	a.潜在的,可能的 n.潜能,潜力   
+	coherent       	/kəu'hɪərənt/       	a.一致的，协调的；(话语等)条理清楚的
+	essential      	/i'senʃəl/          	a.本质的,基本的;净化的 n.本质;要素
+	inference      	/'infərəns/         	n.推论,推理,推断;结论       
+	reference      	/'refərəns/         	n.提及,涉及;参考,参考书目;证明书（人）
+----------
+shuttle        	/'ʃʌtl/             	n.往返汽车              
+	shutter        	/'ʃʌtə/             	n.百叶窗；(照相机)快门；关闭装置  
+----------
+infinite       	/'infinət/          	a.无限的,无穷的 n.无限      
+	finite         	/'fainait/          	a.有限的；[数]有穷的,限定的    
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+----------
+daughter       	/'dɔ:tə/            	n.女儿                
+	naughty        	/'nɔ:ti/            	a.顽皮的,淘气的           
+----------
+customer       	/'kʌstəmə/          	n.顾客,主顾             
+	customary      	/'kʌstəˌməri/       	a.习惯的,惯例的           
+	accustomed     	/ə'kʌstəmd/         	a.惯常的；习惯的，适应的(一般作表语)
+	custom         	/'kʌstəm/           	n.习惯,风俗,惯例;(pl.)海关,关税
+----------
+lifetime       	/'laiftaim/         	n.一生,终生             
+	sometimes      	/'sʌmtaimz/         	ad.不时，有时，间或         
+----------
+technical      	/'teknikəl/         	a.技术(性)的，工艺的；专门性的，专业性的
+	technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+	technique      	/tek'ni:k/          	n.技巧，手艺，技能；技术，工艺    
+----------
+sociology      	/ˌsəusi'ɔlədʒi/     	n.社会学               
+	technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+	psychology     	/psai'kɔlədʒi/      	n.心理,心理学,心理状态       
+----------
+thesis         	/'θi:sis/           	n.(pl.theses) 论文;论题;论点
+	hypothesis     	/hai'pɔθisis/       	n.假说,假设,前提          
+----------
+concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	eccentric      	/ik'sentrik/        	a.古怪的，怪癖的，异乎寻常的n.古怪的人
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concert        	/kən'sə:t/          	n.音乐会,演奏会;一齐,一致     
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+circulate      	/'sə:kjuleit/       	v.(使)循环,(使)流通       
+	articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+	circuit        	/'sə:kit/           	n.环行,周线,巡回;电路,线路    
+	calculate      	/'kælkjuleit/       	v.计算,推算;计划,打算       
+	speculate      	/'spekjuleit/       	vi.思索；推测vt.投机；思索，推测 
+----------
+forward        	/'fɔ:wəd/           	ad.(also forwards)向前 a.向前的 v.转交
+	straightforward	/ˌstreit'fɔ:wəd/    	a.正直的;简单的,易懂的 ad.坦率地
+	afterward      	/'ɑ:ftəwəd/         	ad.(afterwards)以后，后来
+----------
+honorable      	/'ɒnərəbl/          	a.(honourable)可敬的;荣誉的,光荣的
+	innumerable    	/i'nuj:mərəbl/      	a.无数的,数不清的          
+	miserable      	/'mizərəbl/         	a.痛苦的,悲惨的           
+	desirable      	/di'zaiərəbl/       	a.值得做的;合意的,称心的;期望得到的
+	favorable      	/'feivərəbl/        	a.(favourable)赞许的,有利的,讨人喜欢的
+	preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+----------
+monotonous     	/mə'nɔtənəs/        	a.单调的,无变化的          
+	poisonous      	/'pɔizənəs/         	a.有毒的,恶意的,恶毒的,道德败坏的 
+----------
+artistic       	/ɑ:'tistik/         	a.艺术(家)的，美术(家)的；善于艺术创作的
+	realistic      	/ˌriə'listik/       	a.现实(主义)的           
+	pessimistic    	/ˌpesi'mistik/      	a.悲观(主义)的           
+	characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+----------
+concert        	/kən'sə:t/          	n.音乐会,演奏会;一齐,一致     
+	concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+----------
+oppose         	/ə'pəuz/            	v.反对,使对立,使对抗,使相对    
+	suppose        	/sə'pəuz/           	v.料想,猜想;假定;conj.假使...结果会怎样
+----------
+rectify        	/'rektifai/         	v.纠正,整顿, [化]精馏      
+	direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+----------
+reduction      	/rɪ'dʌkʃn/          	n.减小,减少,缩小          
+	dictionary     	/'dikʃənəri/        	n.词典,字典             
+	direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+	sanction       	/'sæŋˌkʃən/         	n.                  
+	deduct         	/di'dʌkt/           	vt.扣除;演绎(推理)        
+	junction       	/'dʒʌŋkʃən/         	n.连接,接合,交叉点,枢纽站,接头,中继线
+	fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	production     	/prəu'dʌkʃən/       	n.生产,产品,作品,(研究)成果,总产量
+----------
+excellent      	/'eksələnt/         	a.卓越的,极好的           
+	excel          	/ik'sel/            	vi.胜过其他;擅长 vt.胜过，优于 
+----------
+likely         	/'laikli/           	a.很可能的,有希望的 ad.大概,多半
+	unlikely       	/ˌʌn'laikli/        	a.未必的,靠不住的          
+----------
+engage         	/ɪn'geɪdʒ/          	v.(in)从事,着手;约定;使订婚;保证;雇用
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+----------
+beverage       	/'bevəridʒ/         	n.(水，酒等之外的)饮料       
+	average        	/'ævəridʒ/          	n.平均,平均数 a.平均的；普通的 v.平均
+----------
+gigantic       	/ˌdʒai'gæntik/      	a.巨大的,庞大的           
+	romantic       	/rəu'mæntik/        	a.浪漫的,传奇式的;不切实际的,好幻想的
+----------
+inverse        	/'invə:s/           	a.相反的,倒转的,反转的 n.相反之物 v.倒转
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	verse          	/və:s/              	n.韵文,诗;诗节,诗句        
+	universe       	/'ju:nivə:s/        	n.宇宙,万物             
+	conversion     	/kən'və:ʃən/        	n.转变，转换；信仰的改变；      
+----------
+recommend      	/ˌrekə'mend/        	v.推荐,介绍;劝告,建议       
+	commemorate    	/kə'meməreit/       	vt.纪念，庆祝            
+----------
+basement       	/'beismənt/         	n.建筑物的底部,地下室,地窖     
+	settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	statement      	/'steitmənt/        	n.声明,陈述             
+----------
+community      	/kə'mju:niti/       	n.同一地区的全体居民,社会,社区;共同体
+	communism      	/'kɔmjunizəm/       	n.共产主义              
+	unity          	/'ju:niti/          	n.团结;统一,一致,整体       
+	communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+----------
+frequency      	/'frikwənsi/        	n.频率,周率             
+	frequent       	/'fri:kwənt/        	a.时常发生的,频繁的         
+	sequence       	/'si:kwəns/         	n.先后,次序;连续,数列       
+	subsequent     	/'sʌbsikwənt/       	a.随后的,后来的           
+----------
+victory        	/'viktəri/          	n.胜利                
+	satisfactory   	/ˌsætis'fæktəri/    	a.令人满意的,圆满的,良好的,符合要求的
+----------
+newspaper      	/'nju:sˌpeipə/      	n.报纸                
+	paperback      	/'peipəbæk/         	n.平装本，简装本           
+----------
+formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+	conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+	destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+	normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+	orientation    	/ˌɔ:riən'teɪʃn/     	n.方向,方位,定位,倾向性,向东方  
+	regulation     	/ˌregju'leiʃən/     	n.规则,规章;调节,校准;调整    
+	generation     	/ˌdʒenə'reiʃən/     	n.产生,发生;一代(人)       
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  
+	declaration    	/ˌdeklə'reiʃən/     	n.宣言,宣布,声明          
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	stationary     	/'steiʃənəri/       	a.静止的,固定的           
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	classification 	/ˌklæsifi'keiʃən/   	n.分类,分级             
+	aviation       	/ˌeivi'eiʃən/       	n.航空，航空学；飞机制造业      
+	invitation     	/ˌɪnvɪ'teɪʃn/       	n.邀请,招待;请柬          
+	inflation      	/in'fleiʃən/        	n.通货膨胀              
+	concentration  	/ˌkɔnsən'treiʃən/   	n.专心，专注；集中，集结；浓度    
+----------
+kindergarten   	/'kindəˌgɑ:tən/     	n.幼儿园               
+	undergraduate  	/ˌʌndə'grædjuət/    	n.大学生,大学肆业生         
+	remainder      	/ri'meində/         	n.剩余物,剩下的;余数,余项     
+	hinder         	/'hində/            	v.(from)阻止,妨碍 a.后面的 
+----------
+heroic         	/hi'rəuik/          	a.英雄的，英勇的，崇高的       
+	heroin         	/'herəuin/          	n.海洛因               
+----------
+simply         	/'simpli/           	ad.简单地;完全,简直;仅仅,只不过;朴素地
+	imply          	/im'plai/           	v.意指,含…意思,暗示        
+----------
+consult        	/kɔn'sʌlt/          	v.请教，向...咨询，找...商量；查阅，查看
+	insult         	/in'sʌlt/           	vt.                 
+----------
+species        	/'spi:ʃi:z/         	n.(物)种,种类           
+	specialist     	/'speʃəlist/        	n.专家                
+----------
+competition    	/ˌkɔmpi'tiʃən/      	n.竞争，比赛；角逐，较量；[总称]竞争者
+	nutrition      	/nju:'triʃən/       	n.营养,营养学            
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+	addition       	/ə'diʃən/           	n.加，加法；附加部分，增加(物)   
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+	tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	compensate     	/'kɔmpenseit/       	v.(for)补偿,赔偿        
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+	definition     	/ˌdefi'niʃən/       	n.定义,解释;(轮廓影像等的)清晰度;阐明;
+----------
+presence       	/'prezəns/          	n.出席,到场,存在,在        
+	present        	/'prezənt/          	a.出席的,现在的 n.现在,礼物 v.赠送,提出
+	absence        	/'æbsəns/           	n.缺乏，不存在；缺席，不在；缺席的时间
+----------
+superb         	/sju'pə:b/          	a.极好的,杰出的；华丽的；      
+	superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+	superior       	/sju:'piriə/        	a.优良的,卓越的;上级的 n.上级;长者;高手
+	superfluous    	/sju'pə:fluəs/      	a.多余的，过剩的，          
+	superstition   	/ˌsju:pə'stiʃən/    	n.迷信，迷信的观念习俗        
+----------
+diversion      	/dai'və:ʃən/        	n.转向,转移;牵制;解闷;娱乐    
+	universe       	/'ju:nivə:s/        	n.宇宙,万物             
+	conversion     	/kən'və:ʃən/        	n.转变，转换；信仰的改变；      
+	divert         	/dai'və:t/          	vt.使转向，使改道；转移(注意力)；使娱乐
+	universal      	/ˌju:ni'və:səl/     	a.普遍的,全体的,通用的;宇宙的,世界的
+----------
+description    	/di'skripʃən/       	n.描写,形容;种类          
+	exception      	/ik'sepʃən/         	n.例外,除外;反对;异议       
+	option         	/'ɔpʃən/            	n.选择(权),[商]选择买卖的特权  
+	script         	/skript/            	n.剧本(原稿)；手稿，原稿；笔迹，手迹
+	manuscript     	/'mænjuskript/      	n.手稿,原稿             
+----------
+clause         	/klɔ:z/             	n.(正式文件或法律文件的)条款;从句,分句
+	applause       	/ə'plɔ:z/           	n.鼓掌；喝彩；夸奖，赞扬       
+----------
+legitimate     	/li'dʒitimət/       	a.合法的；合理的，合乎逻辑的 vt.使合法
+	ultimate       	/'ʌltimət/          	a.最后的,最终的;根本的       
+	underestimate  	/ˌʌndə'estimeit/    	vt.低估，看轻            
+----------
+speculate      	/'spekjuleit/       	vi.思索；推测vt.投机；思索，推测 
+	articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+	calculate      	/'kælkjuleit/       	v.计算,推算;计划,打算       
+	circulate      	/'sə:kjuleit/       	v.(使)循环,(使)流通       
+----------
+assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+	acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+	importance     	/im'pɔ:təns/        	n.重要,重要性            
+	assistant      	/ə'sistənt/         	a.帮助的，辅助的 n.助手，助教；辅助物
+	substance      	/'sʌbstəns/         	n.物质；实质，本质；主旨；财产，资产 
+	resistant      	/ri'zistənt/        	a.(to)抵抗的,有抵抗力的     
+	resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+----------
+cloth          	/klɔθ/              	n.(一块)布,织物,衣料       
+	clothes        	/kləuðz/            	n.衣服(虽为复数，亦不可数)     
+----------
+expansion      	/ik'spænʃən/        	n.扩张,膨胀;张开,伸展       
+	expand         	/ik'spænd/          	v.(使)膨胀,(使)扩张;张开,展开 
+	pension        	/'penʃən/           	n.养老金,年金            
+	tension        	/'tenʃən/           	n.(紧张)状态；拉(绷)紧；张力，拉力
+----------
+ordinary       	/'ɔ:dinəri/         	a.普通的,平凡的,平常的;平庸的   
+	accordingly    	/ə'kɔ:dɪŋli/        	ad.相应地，照着办，按照；于是，因此 
+	cardinal       	/'kɑ:dɪnl/          	n.(天主教的)红衣主教 a.首要的，基本的
+	preliminary    	/pri'liminəri/      	a.预备的,初步的           
+----------
+physicist      	/'fizisist/         	n.物理学家              
+	physical       	/'fɪzɪkl/           	a.物质的;肉体的,身体的;自然科学的,物理的
+----------
+exceedingly    	/ik'si:diŋli/       	ad.极端地,非常           
+	accordingly    	/ə'kɔ:dɪŋli/        	ad.相应地，照着办，按照；于是，因此 
+----------
+handwriting    	/'hændˌraitiŋ/      	n.笔迹,手迹,书法          
+	exciting       	/ik'saitiŋ/         	a.令人兴奋的,使人激动的       
+	writing        	/'raitiŋ/           	n.写,写作;著作,作品        
+----------
+wherever       	/hwεə'evə/          	conj.无论在哪里 ad.无论在哪里,究竟在哪里
+	forever        	/fə'revə/           	adv.(for ever)永远；总是 
+----------
+lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+	duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+	fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+	dedicate       	/'dedikeit/         	vt.奉献;献身于           
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	complicate     	/'kɔmplikeit/       	v.使..复杂；使..难懂；使（疾病等）恶化；
+	certificate    	/sə'tifikeit/       	n.证(明)书,执照          
+	communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    
+----------
+discourage     	/dis'kʌridʒ/        	v.使泄气,使失去信心         
+	courage        	/'kʌridʒ/           	n.勇气,胆量             
+	discover       	/dis'kʌvə/          	v.发现,显示             
+	discount       	/'diskaunt/         	n.折扣；贴现(率) vt.打折扣;不重视
+----------
+devise         	/dɪ'vaɪz/           	vt.设计;发明;图谋;作出(计划);想出(办法)
+	revise         	/ri'vaiz/           	v.修订,校订;修正,修改       
+----------
+kilometre      	/'kiləmi:tə(r)/     	n.(kilometer) 公里，千米(略作km)
+	centimetre     	/'sentiˌmi:tə/      	n.(centimeter)厘米    
+----------
+largely        	/'lɑ:dʒli/          	ad.主要地,基本上;大量地,大规模地 
+	large          	/lɑ:dʒ/             	a.大的,广大的,大规模的       
+	enlarge        	/in'lɑ:dʒ/          	vt.扩大,放大,增大         
+----------
+require        	/ri'kwaiə/          	v.需要;(of)要求,命令      
+	acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+	enquire        	/in'kwaiə/          	v.(inquire)询问,打听;调查;查问
+	requirement    	/ri'kwaiəmənt/      	n.(for)需要,需要的东西,要求  
+----------
+compress       	/kəm'pres/          	vt.压紧，压缩；(把思想、文字等)浓缩
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	comprehensive  	/ˌkɔmpri'hensiv/    	a.内容广泛的,总括性的，综合的    
+	comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	oppress        	/ə'pres/            	v.压迫,压制             
+	depress        	/di'pres/           	v.压抑,降低;使沮丧,压下      
+	impressive     	/im'presiv/         	a.给人深刻印象的,感人的       
+----------
+season         	/'si:zən/           	n.季,季节,时节           
+	treason        	/'tri:zən/          	n.谋反,通敌,叛国          
+	reasonable     	/'ri:zənəbl/        	a.合理的,有道理的;通情达理的;适度的
+----------

@@ -1,0 +1,6 @@
+clue           	/klu:/              	n.线索,暗示             
+indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+question       	/'kwestʃən/         	n.问题;询问 v.询问;怀疑,对…表示疑问
+denote         	/di'nəut/           	vt.表示,意味着           
+revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+imply          	/im'plai/           	v.意指,含…意思,暗示        

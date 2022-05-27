@@ -1,0 +1,10 @@
+specialist     	/'speʃəlist/        	n.专家                
+housework      	/'hauswə:k/         	n.家务，家事(不可数)        
+critic         	/'kritik/           	n.批评家,评论家           
+historian      	/his'tɔ:riən/       	n.历史学家              
+prophet        	/'prɔfit/           	n.预言家；先知；提倡者        
+domestic       	/dəu'mestik/        	a.家里的;本国的;驯养的       
+chemist        	/'kemist/           	n.化学家;药剂师           
+suite          	/swi:t/             	n.套间；一套家具；套，组，系列    
+scientist      	/'saiəntist/        	n.科学家               
+statesman      	/'steitsmən/        	n.政治家,国务活动家         

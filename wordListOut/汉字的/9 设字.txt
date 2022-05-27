@@ -1,0 +1,9 @@
+install        	/in'stɔ:l/          	vt.(instal)安装,设置,安置；使就职,任命
+manage         	/'mænɪdʒ/           	v.经营,管理,处理;设法,对付;操纵,运用
+auxiliary      	/ɔ:g'ziljəri/       	a.辅助的，支援的 n.辅助者，辅助设备
+envisage       	/in'vizidʒ/         	v.想象，设想，展望，正视       
+infrastructure 	/'infrəˌstrʌktʃə/   	n.基础结构，基础设施         
+establishment  	/i'stæbliʃmənt/     	n.建立,设立,建立的机构(或组织)  
+build          	/bild/              	vt.建造，建筑；建设，建立 vi.增大，增强
+hypothesis     	/hai'pɔθisis/       	n.假说,假设,前提          
+institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定

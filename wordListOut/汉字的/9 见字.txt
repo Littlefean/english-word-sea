@@ -1,0 +1,9 @@
+remark         	/ri'mɑ:k/           	n.(about,on)评语,意见 v.(on)评论;注意到
+sight          	/sait/              	n.视力;望见,瞥见;视域;眼界;情景,奇观
+opinion        	/ə'pinjən/          	n.意见,看法,主张          
+idea           	/ai'diə/            	n.想法，念头；概念，观念；意见，主意 
+advice         	/əd'vais/           	n.劝告，忠告，(医生等的)意见    
+meeting        	/'mi:tiŋ/           	n.会议,集合,汇合,会见,接见,汇合点
+audience       	/'ɔ:diəns/          	n.听众，观众，读者；见面，会见    
+available      	/ə'veɪləbl/         	a.(用于物)可用的；可见到的，接受采访的
+foresee        	/fɔ:'si:/           	v.预见,预知             

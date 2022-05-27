@@ -1,0 +1,16 @@
+potential      	/pəu'tenʃəl/        	a.潜在的,可能的 n.潜能,潜力   
+solid          	/'sɔlid/            	a.固体的;结实的,稳固的,可靠的 n.固体
+housework      	/'hauswə:k/         	n.家务，家事(不可数)        
+acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+permit         	/pə'mit/            	v.许可,允许 n.许可证,执照    
+formidable     	/'fɔ:midəbl/        	a.强大的;令人敬畏的;可怕的;艰难的 
+clothes        	/kləuðz/            	n.衣服(虽为复数，亦不可数)     
+available      	/ə'veɪləbl/         	a.(用于物)可用的；可见到的，接受采访的
+might          	/mait/              	aux.v.可能,也许 n.力量,威力,权力
+capable        	/'keipəbl/          	a.有本领的,有能力的;(of)可以…的,能…的
+preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+utmost         	/'ʌtməust/          	a.最远的;极度的 n.极限,极度,最大可能
+profitable     	/'prɔfitəbl/        	a.有利可图的,有益的         
+portable       	/'pɔ:təbl/          	a.轻便的,手提(式)的,可移动的   
+accept         	/ək'sept/           	vt.接受，领受；认可，同意 vi.同意，认可

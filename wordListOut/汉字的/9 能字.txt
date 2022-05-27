@@ -1,0 +1,9 @@
+musical        	/'mju:zikəl/        	a.音乐的;有音乐才能的 n.音乐片  
+potential      	/pəu'tenʃəl/        	a.潜在的,可能的 n.潜能,潜力   
+instinct       	/'instiŋkt/         	n.本能,直觉,天性          
+possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+technique      	/tek'ni:k/          	n.技巧，手艺，技能；技术，工艺    
+energy         	/'enədʒi/           	n.活力,精力;能,能量        
+might          	/mait/              	aux.v.可能,也许 n.力量,威力,权力
+capable        	/'keipəbl/          	a.有本领的,有能力的;(of)可以…的,能…的
+utmost         	/'ʌtməust/          	a.最远的;极度的 n.极限,极度,最大可能

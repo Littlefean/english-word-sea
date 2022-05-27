@@ -1,0 +1,5 @@
+fundamental    	/ˌfʌndə'mentəl/     	a.基础的,基本的 n.(pl.)基本原则,基本原理
+infrastructure 	/'infrəˌstrʌktʃə/   	n.基础结构，基础设施         
+underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+basic          	/'beisik/           	a.基本的,基础的           
+bottom         	/'bɔtəm/            	n.底(部);基础,根基;海底,湖底,河床

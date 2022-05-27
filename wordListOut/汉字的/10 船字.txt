@@ -1,0 +1,10 @@
+due            	/dju:/              	a.(to)应支付的;(车,船等)预定应到达的
+spaceship      	/'speisʃip/         	n.宇宙飞船              
+shipment       	/'ʃɪpmənt/          	n.装船,装运;装载的货物,装货量   
+wreck          	/rek/               	n.失事船(或飞机)v.(船等)失事,遇难;破坏
+aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+liner          	/'lainə/            	n.班机,定期轮船,邮船        
+spacecraft     	/'speiskrɑ:ft/      	n.宇宙飞船              
+hold           	/həuld/             	v.拿着;保有;托住;举行;继续 n.握住;船舱
+aircraft       	/'εəkrɑ:ft/         	n.飞机，飞船，飞行器         
+board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)

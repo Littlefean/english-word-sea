@@ -1,0 +1,24 @@
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+	characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+----------
+experimental   	/ekˌsperi'mentəl/   	a.实验(性)的,试验(性)的     
+	experiment     	/ik'speriment/      	n.实验;试验 v.(on)进行实验;做试验
+----------
+participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+	participant    	/pɑ:'tisipənt/      	n.参加者,参与者 a.有份的,参与的 
+----------
+experiment     	/ik'speriment/      	n.实验;试验 v.(on)进行实验;做试验
+	experimental   	/ekˌsperi'mentəl/   	a.实验(性)的,试验(性)的     
+----------
+comprehensive  	/ˌkɔmpri'hensiv/    	a.内容广泛的,总括性的，综合的    
+	comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+----------
+comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+	comprehensive  	/ˌkɔmpri'hensiv/    	a.内容广泛的,总括性的，综合的    
+----------
+characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性
+	character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+----------
+participant    	/pɑ:'tisipənt/      	n.参加者,参与者 a.有份的,参与的 
+	participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+----------

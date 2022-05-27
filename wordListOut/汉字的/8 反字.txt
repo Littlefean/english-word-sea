@@ -1,0 +1,8 @@
+exception      	/ik'sepʃən/         	n.例外,除外;反对;异议       
+irony          	/'aiərəni/          	n.反话, 讽刺, 讽刺之事      
+enemy          	/'enimi/            	n.敌人，仇敌，反对者；敌人，敌军，敌国
+himself        	/him'self/          	pron.[反身代词]他自己；他本人  
+emigrate       	/'emigreit/         	v.(反)immigrate;(to,from)自本国移居他
+breach         	/bri:tʃ/            	n.违反，不履行；破裂 vt.冲破，攻破
+contradict     	/ˌkɔntrə'dikt/      	v.反驳;同…矛盾,同…抵触      
+dispute        	/dis'pju:t/         	n.争论,争执 v.争论,辩论;反驳;怀疑;阻止

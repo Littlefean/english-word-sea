@@ -1,0 +1,6 @@
+rain           	/rein/              	n.雨；雨天；下雨 vi.下雨 vt.使大量落下
+instinct       	/'instiŋkt/         	n.本能,直觉,天性          
+daytime        	/'deitaim/          	n.白天,日间             
+native         	/'neitiv/           	a.本地的,本国的;天生的 n.本地人,本国人
+module         	/'mɔdju:l/          	n.组件，模块，模件；(航天器的)舱  
+cardinal       	/'kɑ:dɪnl/          	n.(天主教的)红衣主教 a.首要的，基本的

@@ -1,0 +1,12 @@
+membership     	/'membəʃɪp/         	n.会员资格,成员资格         
+salesman       	/'seilzmən/         	n.售货员,推销员           
+waiter         	/weitə/             	n.侍者,服务员            
+reporter       	/ri'pɔ:tə/          	n.报告人,通讯员;记者,报导者    
+driver         	/draivə/            	n.驾驶员               
+official       	/ə'fɪʃl/            	n.官员,行政官员 a.官方的,官方的,正式的
+personnel      	/ˌpə:sə'nel/        	n.全体人员,全体职员;人事(部门)  
+board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+steward        	/'stju:əd/          	n.乘务员，服务员；看管人；膳食管理员 
+jury           	/'dʒuəri/           	n.陪审团;全体评审员         
+recruit        	/ri'kru:t/          	v.征募(新兵)，吸收；补充 n.新成员，新兵
+turnover       	/'tə:nˌəuvə/        	n.翻倒(物);人员调整;(资金等)周转;营业额

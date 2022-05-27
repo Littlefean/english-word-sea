@@ -1,0 +1,10 @@
+patriotic      	/ˌpætri'ɔtik/       	a.爱国的               
+enemy          	/'enimi/            	n.敌人，仇敌，反对者；敌人，敌军，敌国
+king           	/kɪŋ/               	n.君主，国王             
+emigrate       	/'emigreit/         	v.(反)immigrate;(to,from)自本国移居他
+external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的
+native         	/'neitiv/           	a.本地的,本国的;天生的 n.本地人,本国人
+domestic       	/dəu'mestik/        	a.家里的;本国的;驯养的       
+pilgrim        	/'pilgrim/          	n.(在国外)旅游者;朝圣者,最初的移民
+republic       	/ri'pʌblik/         	n.共和国,共和政体          
+statesman      	/'steitsmən/        	n.政治家,国务活动家         

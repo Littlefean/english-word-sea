@@ -1,0 +1,11 @@
+due            	/dju:/              	a.(to)应支付的;(车,船等)预定应到达的
+trolley        	/'trɔli/            	n.手推车;(英)无轨电车,(美)有轨电车
+drive          	/draiv/             	v.开(车);驱;驱动,把(钉,桩)打入 n.驾驶
+tire           	/'taiə/             	v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎
+carriage       	/'kæridʒ/           	n.(四轮)马车;(火车)客车厢    
+aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+motel          	/məu'tel/           	n.(附有停车场的)汽车旅馆      
+board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+auto           	/'ɔ:təu/            	n.(automobile)(口语)汽车
+lift           	/lift/              	v.升起,举起,消散  n.电梯,上升,免费搭车
+van            	/væn/               	n.有篷汽车;有篷货运车厢       

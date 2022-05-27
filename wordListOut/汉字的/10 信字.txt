@@ -1,0 +1,10 @@
+fold           	/fəuld/             	v.折叠;合拢;抱住 n.褶,褶痕;羊栏;信徒
+e-mail         	/i: meɪl/           	n.(electronic mail)电子信函，电子邮件
+reliance       	/ri'laiəns/         	n.信任,信心,依靠,依靠的人或物   
+confident      	/'kɔnfidənt/        	n.(of,in)确信的,自信的    
+conversion     	/kən'və:ʃən/        	n.转变，转换；信仰的改变；      
+keyboard       	/'ki:bɔ:d/          	n.键盘 vt.用键盘输入(信息)   
+correspondence 	/ˌkɔ:ris'pɔndəns/   	n.通信,信件;(with)符合;(to)相当于,对应
+messenger      	/'mesindʒə/         	n.送信者,使者,传令兵        
+principle      	/'prinsəpl/         	n.原理,原则;主义,信念       
+belief         	/bi'li:f/           	n.信任，相信，信念；信仰，信条    

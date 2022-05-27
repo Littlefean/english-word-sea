@@ -1,0 +1,2 @@
+abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+skeleton       	/'skelitən/         	n.骨骼;骨架,框架;梗概,提要    

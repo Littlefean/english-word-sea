@@ -1,0 +1,8 @@
+accuse         	/ə'kju:z/           	vt.控告，指责 vi.指控，指责   
+tell           	/tel/               	vt.告诉，讲述；告诫；吩咐，命令；辨 
+inform         	/in'fɔ:m/           	v.(of,about)通知,告诉,报告;告发,告密
+reporter       	/ri'pɔ:tə/          	n.报告人,通讯员;记者,报导者    
+post           	/pəust/             	v.贴出;公告;投寄 n.(支)柱;邮政,邮寄;职位
+advice         	/əd'vais/           	n.劝告，忠告，(医生等的)意见    
+advise         	/əd'vaiz/           	vt.忠告，劝告，建议；通知，告知   
+condemn        	/kən'dem/           	v.谴责,指责;判刑,宣告有罪     

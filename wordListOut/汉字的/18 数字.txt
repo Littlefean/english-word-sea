@@ -1,0 +1,18 @@
+these          	/ði:z/              	pron.&a.[this的复数]这些；这些人(东西)
+parameter      	/pə'ræmitə/         	n.参数,参量             
+percentage     	/pə'sentidʒ/        	n.百分数,百分率,百分比       
+innumerable    	/i'nuj:mərəbl/      	a.无数的,数不清的          
+housework      	/'hauswə:k/         	n.家务，家事(不可数)        
+odd            	/ɔd/                	a.奇数的;奇怪的;单只的;临时的;带零头的
+rectangle      	/'rekˌtæŋgl/        	n.[数]矩形, 长方形        
+total          	/'təutəl/           	n.总数,合计 a.总的,全部的 v.合计,总数达
+handful        	/'hændful/          	n.一把;少数;一小撮         
+remainder      	/ri'meində/         	n.剩余物,剩下的;余数,余项     
+multiple       	/'mʌltipl/          	a.多样的,多重的 n.倍数 v.成倍增加
+clothes        	/kləuðz/            	n.衣服(虽为复数，亦不可数)     
+quantity       	/'kwɔntəti/         	n.量,数量;大量           
+plural         	/'pluərəl/          	a.复数的 n.复数          
+counter        	/'kauntə(r)/        	n.柜台;计数器 a.         
+reading        	/'ri:diŋ/           	n.读书,读物,(仪表等的)读数,阅读 
+average        	/'ævəridʒ/          	n.平均,平均数 a.平均的；普通的 v.平均
+finite         	/'fainait/          	a.有限的；[数]有穷的,限定的    

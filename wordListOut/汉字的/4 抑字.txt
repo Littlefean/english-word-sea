@@ -1,0 +1,4 @@
+constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+inhibit        	/in'hibit/          	vt.抑制，约束            

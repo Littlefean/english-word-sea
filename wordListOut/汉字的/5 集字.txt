@@ -1,0 +1,5 @@
+levy           	/'levi/             	n.征收,征税,征兵 v.征收,征集,征用
+swarm          	/swɔ:m/             	n.蜂群;一大群 vi.涌往;挤满;云集;成群移动
+meeting        	/'mi:tiŋ/           	n.会议,集合,汇合,会见,接见,汇合点
+container      	/kən'teinə/         	n.容器;集装箱            
+compile        	/kəm'pail/          	vt.编辑，编制，搜集         

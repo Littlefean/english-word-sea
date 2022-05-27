@@ -1,0 +1,9 @@
+cook           	/kuk/               	n.厨师 v.烹调，烧煮；纂改(账目)，捏造
+found          	/faund/             	vt.建立;创立;创办;使有根据;铸造;熔制
+fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+build          	/bild/              	vt.建造，建筑；建设，建立 vi.增大，增强
+fiber          	/faɪbə/             	n.(fibre)纤维;构造;纤维制品 
+coin           	/kɔin/              	n.硬币,货币 v.铸造(硬币),创造(新词)
+originate      	/ə'ridʒəneit/       	v.(in,from)起源,发生;首创,创造
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+artificial     	/ˌɑ:ti'fiʃəl/       	a.人工的，人造的，人为的；假的，做作的

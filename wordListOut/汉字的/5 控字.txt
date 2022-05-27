@@ -1,0 +1,5 @@
+accuse         	/ə'kju:z/           	vt.控告，指责 vi.指控，指责   
+rein           	/rein/              	n.缰绳,统治,支配 v.驾驭,控制,统治
+boss           	/bɔs/               	n.老板，上司 vt.指挥，控制，发号施令
+monitor        	/'mɒnɪtə(r)/        	n.班长;监听器,监视器 v.监控,监测
+console        	/kən'səul /         	n.控制台，仪表板；落地柜 vt.安慰，慰问

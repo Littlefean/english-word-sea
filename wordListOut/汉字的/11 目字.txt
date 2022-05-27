@@ -1,0 +1,11 @@
+spectacular    	/spek'tækjulə/      	a.壮观的,引人注目的 n.壮观的演出 
+list           	/lɪst/              	n.表,目录,名单 v.把…编列成表,列入表内
+cook           	/kuk/               	n.厨师 v.烹调，烧煮；纂改(账目)，捏造
+account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+theme          	/θi:m/              	n.题目，主题；主旋律，基调      
+accomplish     	/ə'kʌmpliʃ/         	v.实现(计划等)；达到(目的)；完成(任务)
+witness        	/'witnis/           	n.目击者,证人;证据,证明 v.目击,目睹;作证
+content        	/'kɔntent/          	n.容量,内容,(pl.)目录 a.(with)满足的
+hitherto       	/ˌhiðə'tu:/         	ad.到目前为止,迄今         
+programme      	/'prəugræm/         	n.(program)节目,计划,规划,程序 v.编程序

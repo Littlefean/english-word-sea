@@ -1,0 +1,5 @@
+expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+dial           	/'daiəlˌ dail/      	n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话
+symbol         	/'simbəl/           	n.符号,标志;象征          
+boss           	/bɔs/               	n.老板，上司 vt.指挥，控制，发号施令
+horn           	/hɔ:n/              	n.(牛羊等的)角;号,喇叭;角状物;角制品

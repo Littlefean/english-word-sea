@@ -1,0 +1,4 @@
+maneuver       	/mə'nu:və/          	n.(manoeuvre)机动;运用,操作; v.机动
+manage         	/'mænɪdʒ/           	v.经营,管理,处理;设法,对付;操纵,运用
+steer          	/stiə/              	vt.驾驶，为…操舵；引导vi.驾驶  
+operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  

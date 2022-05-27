@@ -1,0 +1,11 @@
+component      	/kəm'pəunənt/       	n.组成部分,成分,元件 a.组成的,合成的
+piece          	/pi:s/              	n.(一)件              
+software       	/'sɔftwεə/          	n.软件                
+e-mail         	/i: meɪl/           	n.(electronic mail)电子信函，电子邮件
+accessory      	/ək'sesəri/         	n.附件,附属品;(为全套衣服增加美感的)服饰
+context        	/'kɔntekst/         	n.（文章等）前后关系；(事件等的)背景
+comedy         	/'kɒmɪdɪ/           	n.喜剧;喜剧性事件          
+correspondence 	/ˌkɔ:ris'pɔndəns/   	n.通信,信件;(with)符合;(to)相当于,对应
+condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+module         	/'mɔdju:l/          	n.组件，模块，模件；(航天器的)舱  
+arrive         	/ə'raɪv/            	vi.到达；(时间、事件)到来，发生；达到

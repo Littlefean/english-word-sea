@@ -1,0 +1,18 @@
+maneuver       	/mə'nu:və/          	n.(manoeuvre)机动;运用,操作; v.机动
+crisis         	/'kraisis/          	n.(pl.crises)危机,紧要关头
+wreck          	/rek/               	n.失事船(或飞机)v.(船等)失事,遇难;破坏
+organism       	/'ɔ:gənizəm/        	n.生物，有机体            
+opening        	/'əupəniŋ/          	n.开,开放,开始,空缺,机会 a.开始的,开幕的
+aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+establishment  	/i'stæbliʃmənt/     	n.建立,设立,建立的机构(或组织)  
+airport        	/'εəpɔ:t/           	n.机场，航空站，航空港        
+machinery      	/mə'ʃi:nəri/        	n.(总称)机器,机械         
+liner          	/'lainə/            	n.班机,定期轮船,邮船        
+choice         	/tʃɔis/             	n.选择(机会),抉择,选择项;入选者 a.精选的
+turbine        	/'tə:bain/          	n.汽轮机,涡轮机           
+random         	/'rændəm/           	a.随机的,随意的 n.随机,随意   
+telegraph      	/'teligrɑ:f/        	n.电报机,电报 v.打电报,发电报  
+organ          	/'ɔ:gən/            	n.器官;机构,机关;风琴       
+aircraft       	/'εəkrɑ:ft/         	n.飞机，飞船，飞行器         
+board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+shutter        	/'ʃʌtə/             	n.百叶窗；(照相机)快门；关闭装置  

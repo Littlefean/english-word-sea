@@ -1,0 +1,10 @@
+snow           	/snəu/              	n.雪，下雪 vi.下雪；如雪一般地落下
+rain           	/rein/              	n.雨；雨天；下雨 vi.下雨 vt.使大量落下
+afternoon      	/ˌɑ:ftə:'nu:n/      	n.下午，午后             
+lower          	/'ləuə/             	a.较低的,下级的,下游的 v.降下,放低
+conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+remain         	/ri'mein/           	v.剩下,余留;留待,尚须;仍然是,依旧是
+underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+remainder      	/ri'meində/         	n.剩余物,剩下的;余数,余项     
+countryside    	/'kʌntriˌsaid/      	n.乡下,农村             
+decide         	/di'said/           	v.决定,下决心;解决,裁决      

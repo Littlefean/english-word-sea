@@ -1,0 +1,5 @@
+chamber        	/'tʃeimbə/          	n.房间，室；会议室；议院；(动物体内)腔室
+room           	/ru:m/              	n.房间，室，空间，地方；余地     
+kitchen        	/'kitʃin/           	n.厨房                
+landlady       	/'lænd/             	n.女房东,女地主           
+premise        	/pri'maiz/          	n.前提,房屋连地基v.提论,预述,假定

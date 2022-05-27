@@ -1,0 +1,10 @@
+speech         	/spi:tʃ/            	n.演说,讲话;言语,语言       
+conversation   	/ˌkɒnvə'seɪʃn/      	n.会话,谈话             
+coherent       	/kəu'hɪərənt/       	a.一致的，协调的；(话语等)条理清楚的
+articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+dial           	/'daiəlˌ dail/      	n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话
+microphone     	/'maikrəfəun/       	n.话筒,扩音器            
+irony          	/'aiərəni/          	n.反话, 讽刺, 讽刺之事      
+interrupt      	/ˌintə'rʌpt/        	v.中断,遮断,阻碍;打断(话),打扰 
+speaker        	/'spi:kə/           	n.说话者，发言者；说某种语言者；扬声器
+communicate    	/kə'mju:nɪkeɪt/     	v.传达,传送;交流;通讯,通话    

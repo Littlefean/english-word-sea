@@ -1,0 +1,7 @@
+found          	/faund/             	vt.建立;创立;创办;使有根据;铸造;熔制
+resource       	/ri'sɔ:s/           	n.(pl.)资源,财力;办法,智谋;应变之才
+sponsor        	/'spɔnsə/           	n.发起人,主力者,保证人 v.发起,主办
+accordingly    	/ə'kɔ:dɪŋli/        	ad.相应地，照着办，按照；于是，因此 
+method         	/'meθəd/            	n.方法,办法             
+measure        	/'meʒə/             	v.测量,分派,权衡 n.尺寸,量度器,措施,办法
+solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     

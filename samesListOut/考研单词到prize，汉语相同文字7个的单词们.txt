@@ -1,0 +1,18 @@
+acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+----------
+acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+----------
+somehow        	/'sʌmhau/           	ad.以某种方式，用某种方法；不知怎么地
+	anyhow         	/'enihau/           	ad.不管怎么说，无论如何；不论用何种方法
+----------
+contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+	devise         	/dɪ'vaɪz/           	vt.设计;发明;图谋;作出(计划);想出(办法)
+----------
+anyhow         	/'enihau/           	ad.不管怎么说，无论如何；不论用何种方法
+	somehow        	/'sʌmhau/           	ad.以某种方式，用某种方法；不知怎么地
+----------
+devise         	/dɪ'vaɪz/           	vt.设计;发明;图谋;作出(计划);想出(办法)
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+----------

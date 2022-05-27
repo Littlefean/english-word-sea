@@ -1,0 +1,7 @@
+spaceship      	/'speisʃip/         	n.宇宙飞船              
+wreck          	/rek/               	n.失事船(或飞机)v.(船等)失事,遇难;破坏
+aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+spacecraft     	/'speiskrɑ:ft/      	n.宇宙飞船              
+spray          	/spreɪ/             	n.喷雾,飞沫,浪花,水花 v.喷,喷射
+aircraft       	/'εəkrɑ:ft/         	n.飞机，飞船，飞行器         
+board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)

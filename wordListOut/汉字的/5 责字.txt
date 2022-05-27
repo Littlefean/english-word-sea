@@ -1,0 +1,5 @@
+scold          	/skəuld/            	v.责骂,训斥             
+serve          	/sə:v/              	v.服务,尽责;招待,侍候;符合,适用 
+accuse         	/ə'kju:z/           	vt.控告，指责 vi.指控，指责   
+responsibility 	/ri.spɔnsə'biliti/  	n.责任,责任心;职责,任务      
+condemn        	/kən'dem/           	v.谴责,指责;判刑,宣告有罪     

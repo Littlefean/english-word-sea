@@ -1,0 +1,8 @@
+spectacular    	/spek'tækjulə/      	a.壮观的,引人注目的 n.壮观的演出 
+pessimistic    	/ˌpesi'mistik/      	a.悲观(主义)的           
+sight          	/sait/              	n.视力;望见,瞥见;视域;眼界;情景,奇观
+idea           	/ai'diə/            	n.想法，念头；概念，观念；意见，主意 
+visit          	/'vizit/            	n.访问,参观 v.访问,参观;视察;降临;闲谈
+visitor        	/'vizitə/           	n.访问者,客人,来宾,参观者     
+audience       	/'ɔ:diəns/          	n.听众，观众，读者；见面，会见    
+external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的

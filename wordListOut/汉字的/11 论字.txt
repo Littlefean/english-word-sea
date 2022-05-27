@@ -1,0 +1,11 @@
+remark         	/ri'mɑ:k/           	n.(about,on)评语,意见 v.(on)评论;注意到
+anything       	/'eniθiŋ/           	pron.任何东西(事物)；无论什么东西(事物)
+conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+critic         	/'kritik/           	n.批评家,评论家           
+table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+inference      	/'infərəns/         	n.推论,推理,推断;结论       
+theoretical    	/ˌθiə'retikəl/      	a.理论(上)的            
+infer          	/in'fə:/            	v.推论,推断             
+dispute        	/dis'pju:t/         	n.争论,争执 v.争论,辩论;反驳;怀疑;阻止
+premise        	/pri'maiz/          	n.前提,房屋连地基v.提论,预述,假定

@@ -1,0 +1,9 @@
+tangle         	/'tæŋgl/            	n.纠缠；缠结；混乱 v.(使)缠绕；变乱
+switch         	/switʃ/             	n.开关；转换；鞭子 v.转变,转换；抽打
+resource       	/ri'sɔ:s/           	n.(pl.)资源,财力;办法,智谋;应变之才
+conversion     	/kən'və:ʃən/        	n.转变，转换；信仰的改变；      
+transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+shift          	/ʃift/              	v.替换,转移n.转换,转变;(轮)班,(换)班
+get            	/get/               	v.获得，得到；使，使得；变得，成为；到达
+thin           	/θin/               	a.薄的,细的;稀薄的,淡的;瘦的 v.变薄;变稀
+warm           	/wɔ:m/              	a.温暖的，热心的，热情的  v.(使)变暖

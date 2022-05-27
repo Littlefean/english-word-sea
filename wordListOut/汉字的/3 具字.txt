@@ -1,0 +1,3 @@
+instrument     	/'ɪnstrəmənt/       	n.工具,仪器,器械;乐器       
+implement      	/'implimənt/        	n.(pl.)工具,器具 v.贯彻,实现
+suite          	/swi:t/             	n.套间；一套家具；套，组，系列    

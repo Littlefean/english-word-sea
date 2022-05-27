@@ -1,0 +1,8 @@
+greeting       	/'gri:tiŋ/          	n.问候,致敬             
+enquire        	/in'kwaiə/          	v.(inquire)询问,打听;调查;查问
+dubious        	/'dju:bjəs/         	a.怀疑的，无把握的；有问题的，靠不住的
+torture        	/'tɔ:tʃə/           	v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦
+question       	/'kwestʃən/         	n.问题;询问 v.询问;怀疑,对…表示疑问
+visit          	/'vizit/            	n.访问,参观 v.访问,参观;视察;降临;闲谈
+visitor        	/'vizitə/           	n.访问者,客人,来宾,参观者     
+console        	/kən'səul /         	n.控制台，仪表板；落地柜 vt.安慰，慰问

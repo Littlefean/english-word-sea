@@ -1,0 +1,4 @@
+dictionary     	/'dikʃənəri/        	n.词典,字典             
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+alphabet       	/'ælfəbet/          	n.字母表；初步，入门         
+type           	/taip/              	n.型式，类型；印刷字体；活      

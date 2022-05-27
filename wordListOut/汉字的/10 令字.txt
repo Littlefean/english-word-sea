@@ -1,0 +1,10 @@
+gloomy         	/'glu:mi/           	a.阴暗的,阴沉的,令人沮丧的,阴郁的 
+satisfactory   	/ˌsætis'fæktəri/    	a.令人满意的,圆满的,良好的,符合要求的
+tell           	/tel/               	vt.告诉，讲述；告诫；吩咐，命令；辨 
+exciting       	/ik'saitiŋ/         	a.令人兴奋的,使人激动的       
+boss           	/bɔs/               	n.老板，上司 vt.指挥，控制，发号施令
+direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+formidable     	/'fɔ:midəbl/        	a.强大的;令人敬畏的;可怕的;艰难的 
+messenger      	/'mesindʒə/         	n.送信者,使者,传令兵        
+ban            	/bæn/               	v.取缔,查禁;(from)禁止 n.禁止,禁令
+well           	/wel/               	ad.好，令人满意地；很 int.哎呀，好啦，嗯

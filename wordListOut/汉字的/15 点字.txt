@@ -1,0 +1,15 @@
+tea            	/ti:/               	n.茶(叶)；午后茶点         
+locality       	/ləu'kæləti/        	n.位置,地点             
+abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+fault          	/fɔ:lt/             	n.过失,过错;缺点,毛病       
+destination    	/ˌdesti'neiʃən/     	n.目的地,终点            
+none           	/nʌn/               	pron.没有任何人(东西)；都不 ad.一点也不
+locate         	/ləu'keit/          	v.查出,探出,查找…地点,使…坐落于,位于
+assign         	/ə'sain/            	vt.派给，分配；选定，指定(时间、地点等)
+climax         	/'klaimæks/         	n.顶点,高潮             
+nod            	/nɔd/               	v.点(头),点头招呼 n.点头招呼;打盹,瞌睡
+meeting        	/'mi:tiŋ/           	n.会议,集合,汇合,会见,接见,汇合点
+spot           	/spɔt/              	n.斑点;地点 v.认出,认清,发现;玷污,弄脏
+resemblance    	/ri'zembləns/       	n.相似,相似性[点,物]       
+strength       	/streŋθ/            	n.力量；实力；长处，优点；人力；兵力 
+peak           	/pi:k/              	n.山顶,最高点;峰,山峰 a.高峰的,最高的

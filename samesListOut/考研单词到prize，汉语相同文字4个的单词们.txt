@@ -1,0 +1,854 @@
+speech         	/spi:tʃ/            	n.演说,讲话;言语,语言       
+	speaker        	/'spi:kə/           	n.说话者，发言者；说某种语言者；扬声器
+----------
+technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+	technical      	/'teknikəl/         	a.技术(性)的，工艺的；专门性的，专业性的
+----------
+vapour         	/'veɪpə(r)/         	n.(vapor)汽，(水)蒸气    
+	steam          	/sti:m/             	n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动
+----------
+component      	/kəm'pəunənt/       	n.组成部分,成分,元件 a.组成的,合成的
+	unit           	/'ju:nit/           	n.单位,单元;部件,元件;机组,装置 
+----------
+small          	/smɔ:l/             	a.小的；年幼的；不重要的；小规模(经营)的
+	petty          	/'peti/             	a.小(器、规模)的,不重要的,细微的,卑鄙的
+----------
+trail          	/treil/             	n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;
+	track          	/træk/              	n.跑道,小路;轨迹,轮迹 v.跟踪,追踪
+----------
+danger         	/'deindʒə/          	n.危险;威胁;危险事物        
+	threaten       	/'θretən/           	v.恐吓,威胁;有…危险,快要来临   
+	threat         	/θret/              	n.恐吓,威胁;坏兆头,危险迹象    
+----------
+abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+	skeleton       	/'skelitən/         	n.骨骼;骨架,框架;梗概,提要    
+----------
+explain        	/ik'splein/         	v.解释,说明             
+	account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+----------
+conscious      	/'kɔnʃəs/           	a.(of)意识到的,自觉的;神志清醒的
+	sense          	/sens/              	n.感官;感觉;判断力;意义 v.觉得,意识到
+----------
+maneuver       	/mə'nu:və/          	n.(manoeuvre)机动;运用,操作; v.机动
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+----------
+steep          	/sti:p/             	a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸
+	sheer          	/ʃɪə(r)/            	a.纯粹的,十足的,全然的;陡峭的,险峻的
+----------
+account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	explain        	/ik'splein/         	v.解释,说明             
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+----------
+fault          	/fɔ:lt/             	n.过失,过错;缺点,毛病       
+	defect         	/'di:fekt/          	n.过失;缺点;不足          
+----------
+manage         	/'mænɪdʒ/           	v.经营,管理,处理;设法,对付;操纵,运用
+	operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	handle         	/'hændl/            	n.柄,把手,拉手 v.处理,对待,操纵;触,抚养
+----------
+spaceship      	/'speisʃip/         	n.宇宙飞船              
+	spacecraft     	/'speiskrɑ:ft/      	n.宇宙飞船              
+----------
+anything       	/'eniθiŋ/           	pron.任何东西(事物)；无论什么东西(事物)
+	none           	/nʌn/               	pron.没有任何人(东西)；都不 ad.一点也不
+	thing          	/θiŋ/               	n.物，东西；事，事情；所有物；局面，情况
+	commonplace    	/'kɔmənpleis/       	a.普通的，平庸的n.寻常事物，平庸的东西
+	anyhow         	/'enihau/           	ad.不管怎么说，无论如何；不论用何种方法
+----------
+consolidate    	/kən'sɔlideit/      	v.使加固，使加强；(把...)联为一体，合并
+	unite          	/ju:'nait/          	vi.联合,团结;统一,合并vt.使联合
+----------
+block          	/blɒk/              	n.大块木（石）料;街区;障碍物 v.阻塞,拦阻
+	obstruct       	/əb'strʌkt/         	v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物
+----------
+inspire        	/in'spaiə/          	vt.鼓舞,激起;使产生灵感      
+	cause          	/kɔ:z/              	n.原因;事业,事件,奋斗目标 v.使产生,引起
+----------
+romantic       	/rəu'mæntik/        	a.浪漫的,传奇式的;不切实际的,好幻想的
+	fancy          	/'fænsi/            	n.爱好,迷恋 v.想象,幻想 a.花式的,奇特的
+----------
+mostly         	/'məustli/          	ad.几乎全部地;主要地,大部分,基本上
+	cardinal       	/'kɑ:dɪnl/          	n.(天主教的)红衣主教 a.首要的，基本的
+	largely        	/'lɑ:dʒli/          	ad.主要地,基本上;大量地,大规模地 
+----------
+significance   	/sig'nifikəns/      	n.意义,含义;重要性,重要的     
+	meaning        	/'mi:niŋ/           	n.意思,意义,含义;重要性,价值   
+----------
+shipment       	/'ʃɪpmənt/          	n.装船,装运;装载的货物,装货量   
+	load           	/ləud/              	v.装(货),装载 n.装载(量),负荷(量);(一)担
+----------
+constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+	inhibit        	/in'hibit/          	vt.抑制，约束            
+	restrict       	/ri'strikt/         	v.限制,约束             
+----------
+unite          	/ju:'nait/          	vi.联合,团结;统一,合并vt.使联合
+	consolidate    	/kən'sɔlideit/      	v.使加固，使加强；(把...)联为一体，合并
+	unity          	/'ju:niti/          	n.团结;统一,一致,整体       
+----------
+sufficient     	/sə'fiʃənt/         	a.(for)足够的,充分的(比enough拘谨、正式)
+	enough         	/i'nʌf/             	a.(for)足够的 n.足够,充分 ad.足够地
+----------
+major          	/'meidʒə/           	a.主要的n.成年人,专业学生,主修课程v.主修
+	career         	/kə'rɪə(r)/         	n.(个人的)事业；专业，生涯，职业，经历
+----------
+slice          	/slais/             	n.薄片,切片;一份;部分切(片)   
+	fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	portion        	/'pɔ:ʃən/           	n.一部分,一份            
+----------
+satisfactory   	/ˌsætis'fæktəri/    	a.令人满意的,圆满的,良好的,符合要求的
+	well           	/wel/               	ad.好，令人满意地；很 int.哎呀，好啦，嗯
+----------
+kid            	/kid/               	n.小孩,儿童 v.戏弄,取笑     
+	tease          	/ti:z/              	v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄
+	child          	/tʃaɪld/            	n.( [pl.] children)小孩，儿童，儿女
+----------
+acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+	get            	/get/               	v.获得，得到；使，使得；变得，成为；到达
+----------
+theirs         	/ðεəz/              	pron.[they的物主代词]他(她、它)们的
+	hers           	/hə:z/              	pron.[she的物主代词]她的(所有物)
+----------
+educate        	/'edju:keit/        	v.教育,培养,训练          
+	train          	/trein/             	n.列车;行列,系列,一串 v.训练,培养
+----------
+fail           	/feil/              	v.失败,不及格;衰退,减弱      
+	failure        	/'feiljə/           	n.失败,不及格;失败者;故障,失灵;未能
+----------
+worldwide      	/'wə:ldˌwaid/       	a.全世界的,世界范围的 ad.遍及全世界
+	universal      	/ˌju:ni'və:səl/     	a.普遍的,全体的,通用的;宇宙的,世界的
+----------
+attract        	/ə'trækt/           	vt.引起的注意(或兴趣等),吸引；引起；激起
+	tempt          	/tempt/             	v.诱惑,引诱;吸引,使感兴趣     
+	attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+	intrigue       	/in'tri:g/          	n.阴谋v.密谋,私通;激起…的兴趣;诡计取得
+----------
+enough         	/i'nʌf/             	a.(for)足够的 n.足够,充分 ad.足够地
+	sufficient     	/sə'fiʃənt/         	a.(for)足够的,充分的(比enough拘谨、正式)
+----------
+sight          	/sait/              	n.视力;望见,瞥见;视域;眼界;情景,奇观
+	view           	/vju:/              	n.视野;风景;观察;见解;照片 vt.观察;认为
+----------
+attempt        	/ə'tempt/           	vt.企图，试图 n.努力，尝试，企图 
+	effort         	/'efət/             	n.努力;成就;艰难的尝试       
+----------
+lash           	/læʃ/               	v.鞭打,摆动,捆扎 n.鞭子,鞭打,睫毛,讽刺
+	whip           	/hwip/              	n.鞭子;车夫 v.鞭打,抽打;突然移动
+----------
+none           	/nʌn/               	pron.没有任何人(东西)；都不 ad.一点也不
+	anything       	/'eniθiŋ/           	pron.任何东西(事物)；无论什么东西(事物)
+----------
+acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	get            	/get/               	v.获得，得到；使，使得；变得，成为；到达
+----------
+tell           	/tel/               	vt.告诉，讲述；告诫；吩咐，命令；辨 
+	bid            	/bid/               	v.祝愿;命令,吩咐;报价,投标 n.出众,投标
+----------
+ignore         	/ig'nɔ:/            	v.不理,不顾,忽视          
+	disregard      	/disri'gɑ:d/        	vt.不理会;忽视;漠视 n.忽视;漠视
+----------
+alongside      	/ə'lɔŋ'said/        	ad.在旁边 prep.和...在一起；在...旁边
+	aside          	/ə'said/            	ad.在旁边，到一边 n.旁白；离题的话
+----------
+somehow        	/'sʌmhau/           	ad.以某种方式，用某种方法；不知怎么地
+	anyhow         	/'enihau/           	ad.不管怎么说，无论如何；不论用何种方法
+----------
+exciting       	/ik'saitiŋ/         	a.令人兴奋的,使人激动的       
+	excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+----------
+brave          	/breiv/             	a.勇敢的 v.勇敢地面对(危险等)  
+	confront       	/kən'frʌnt/         	v.使面临,使遭遇;面对(危险等)   
+----------
+waiter         	/weitə/             	n.侍者,服务员            
+	waitress       	/'weitris/          	n.女侍者,女服务员          
+----------
+acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+	accept         	/ək'sept/           	vt.接受，领受；认可，同意 vi.同意，认可
+----------
+scheme         	/ski:m/             	n.计划,方案;阴谋;配置 v.计划,策划;阴谋
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+----------
+annoy          	/ə'nɔi/             	vt.使恼怒，使生气；打扰 vi.招人讨厌
+	troublesome    	/'trʌblsəm/         	a.令人烦恼的,讨厌的         
+----------
+expand         	/ik'spænd/          	v.(使)膨胀,(使)扩张;张开,展开 
+	expansion      	/ik'spænʃən/        	n.扩张,膨胀;张开,伸展       
+----------
+conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+	conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+----------
+aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+	board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+	ambulance      	/'æmbjuləns/        	n.救护车，救护船，救护飞机      
+----------
+switch         	/switʃ/             	n.开关；转换；鞭子 v.转变,转换；抽打
+	whip           	/hwip/              	n.鞭子;车夫 v.鞭打,抽打;突然移动
+----------
+rein           	/rein/              	n.缰绳,统治,支配 v.驾驭,控制,统治
+	dominant       	/'dɔminənt/         	a.支配的,统治的,占优势的      
+----------
+witness        	/'witnis/           	n.目击者,证人;证据,证明 v.目击,目睹;作证
+	reference      	/'refərəns/         	n.提及,涉及;参考,参考书目;证明书（人）
+----------
+suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+----------
+grave          	/greiv/             	n.坟墓 a.严肃的,庄重的      
+	gravity        	/'græviti/          	n.重力,引力;严肃,庄重       
+----------
+participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+	participant    	/pɑ:'tisipənt/      	n.参加者,参与者 a.有份的,参与的 
+----------
+conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+	conclude       	/kən'klu:d/         	v.结束,终止;断定,下结论;缔结,议定
+----------
+symbol         	/'simbəl/           	n.符号,标志;象征          
+	badge          	/'bædʒ/             	n.徽章,像章；标记；象征；记号    
+----------
+deny           	/di'nai/            	v.否认,否定;拒绝          
+	denial         	/di'naiəl/          	n.否认;拒绝;否认某事或某事实的声明 
+----------
+opinion        	/ə'pinjən/          	n.意见,看法,主张          
+	idea           	/ai'diə/            	n.想法，念头；概念，观念；意见，主意 
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+----------
+repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	suppress       	/sə'pres/           	v.镇压,压制;抑制,忍住;查禁    
+----------
+tease          	/ti:z/              	v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄
+	kid            	/kid/               	n.小孩,儿童 v.戏弄,取笑     
+----------
+total          	/'təutəl/           	n.总数,合计 a.总的,全部的 v.合计,总数达
+	sum            	/sʌm/               	n.总数,和;金额;算术题;要旨 v.合计,总计
+----------
+possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+	likely         	/'laikli/           	a.很可能的,有希望的 ad.大概,多半
+----------
+misery         	/'mizəri/           	n.痛苦,悲惨,不幸          
+	miserable      	/'mizərəbl/         	a.痛苦的,悲惨的           
+----------
+transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+----------
+sponsor        	/'spɔnsə/           	n.发起人,主力者,保证人 v.发起,主办
+	author         	/'ɔ:θə/             	n.作者，作家，著作人；创始人，发起人 
+----------
+mere           	/miə/               	a.纯粹的;仅仅,只不过        
+	merely         	/'miəli/            	adv.仅仅，只不过          
+	only           	/'əunli/            	ad.仅仅，只不过 a.唯一的 conj.可是，不过
+	simply         	/'simpli/           	ad.简单地;完全,简直;仅仅,只不过;朴素地
+----------
+disposal       	/dis'pəuzəl/        	n.处理,处置;布置,安排       
+	dispose        	/dɪ'spəuz/          	v.(of)处理,处置;(for)布置,安排
+----------
+divert         	/dai'və:t/          	vt.使转向，使改道；转移(注意力)；使娱乐
+	diversion      	/dai'və:ʃən/        	n.转向,转移;牵制;解闷;娱乐    
+----------
+effort         	/'efət/             	n.努力;成就;艰难的尝试       
+	attempt        	/ə'tempt/           	vt.企图，试图 n.努力，尝试，企图 
+----------
+miserable      	/'mizərəbl/         	a.痛苦的,悲惨的           
+	misery         	/'mizəri/           	n.痛苦,悲惨,不幸          
+----------
+operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+	maneuver       	/mə'nu:və/          	n.(manoeuvre)机动;运用,操作; v.机动
+	manage         	/'mænɪdʒ/           	v.经营,管理,处理;设法,对付;操纵,运用
+----------
+dubious        	/'dju:bjəs/         	a.怀疑的，无把握的；有问题的，靠不住的
+	question       	/'kwestʃən/         	n.问题;询问 v.询问;怀疑,对…表示疑问
+----------
+extreme        	/ik'stri:m/         	a.末端的,尽头的;极度的 n.极端;最大程度
+	utmost         	/'ʌtməust/          	a.最远的;极度的 n.极限,极度,最大可能
+----------
+spacecraft     	/'speiskrɑ:ft/      	n.宇宙飞船              
+	spaceship      	/'speisʃip/         	n.宇宙飞船              
+----------
+redundant      	/ri'dʌndənt/        	a.多余的,过剩的;(食物)丰富的;被解雇的
+	superfluous    	/sju'pə:fluəs/      	a.多余的，过剩的，          
+----------
+swarm          	/swɔ:m/             	n.蜂群;一大群 vi.涌往;挤满;云集;成群移动
+	cloud          	/klaud/             	n.云(状物);遮暗物,阴影;一大群  
+	pack           	/pæk/               	v.捆扎,打包;塞满,挤满n.包裹,背包,一群
+----------
+meaning        	/'mi:niŋ/           	n.意思,意义,含义;重要性,价值   
+	significance   	/sig'nifikəns/      	n.意义,含义;重要性,重要的     
+----------
+technique      	/tek'ni:k/          	n.技巧，手艺，技能；技术，工艺    
+	technical      	/'teknikəl/         	a.技术(性)的，工艺的；专门性的，专业性的
+----------
+build          	/bild/              	vt.建造，建筑；建设，建立 vi.增大，增强
+	architect      	/'ɑ:kitekt/         	n.建筑师；设计师；缔造者；创造者   
+----------
+idea           	/ai'diə/            	n.想法，念头；概念，观念；意见，主意 
+	opinion        	/ə'pinjən/          	n.意见,看法,主张          
+----------
+threaten       	/'θretən/           	v.恐吓,威胁;有…危险,快要来临   
+	danger         	/'deindʒə/          	n.危险;威胁;危险事物        
+	threat         	/θret/              	n.恐吓,威胁;坏兆头,危险迹象    
+----------
+dominant       	/'dɔminənt/         	a.支配的,统治的,占优势的      
+	rein           	/rein/              	n.缰绳,统治,支配 v.驾驭,控制,统治
+----------
+painful        	/'peinfl/           	a.疼痛的,使痛苦的,费力[心]的,棘手的
+	wrench         	/rentʃ/             	v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受
+----------
+himself        	/him'self/          	pron.[反身代词]他自己；他本人  
+	emigrate       	/'emigreit/         	v.(反)immigrate;(to,from)自本国移居他
+----------
+petty          	/'peti/             	a.小(器、规模)的,不重要的,细微的,卑鄙的
+	small          	/smɔ:l/             	a.小的；年幼的；不重要的；小规模(经营)的
+----------
+sheer          	/ʃɪə(r)/            	a.纯粹的,十足的,全然的;陡峭的,险峻的
+	steep          	/sti:p/             	a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸
+----------
+countryside    	/'kʌntriˌsaid/      	n.乡下,农村             
+	country        	/'kʌntri/           	n.国家;农村,乡下          
+----------
+excitement     	/ik'saitmənt/       	n.刺激,激动,兴奋          
+	exciting       	/ik'saitiŋ/         	a.令人兴奋的,使人激动的       
+----------
+indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+	indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+----------
+question       	/'kwestʃən/         	n.问题;询问 v.询问;怀疑,对…表示疑问
+	dubious        	/'dju:bjəs/         	a.怀疑的，无把握的；有问题的，靠不住的
+----------
+superfluous    	/sju'pə:fluəs/      	a.多余的，过剩的，          
+	redundant      	/ri'dʌndənt/        	a.多余的,过剩的;(食物)丰富的;被解雇的
+----------
+visit          	/'vizit/            	n.访问,参观 v.访问,参观;视察;降临;闲谈
+	visitor        	/'vizitə/           	n.访问者,客人,来宾,参观者     
+----------
+advise         	/əd'vaiz/           	vt.忠告，劝告，建议；通知，告知   
+	recommend      	/ˌrekə'mend/        	v.推荐,介绍;劝告,建议       
+----------
+thing          	/θiŋ/               	n.物，东西；事，事情；所有物；局面，情况
+	anything       	/'eniθiŋ/           	pron.任何东西(事物)；无论什么东西(事物)
+	commonplace    	/'kɔmənpleis/       	a.普通的，平庸的n.寻常事物，平庸的东西
+----------
+visitor        	/'vizitə/           	n.访问者,客人,来宾,参观者     
+	visit          	/'vizit/            	n.访问,参观 v.访问,参观;视察;降临;闲谈
+----------
+load           	/ləud/              	v.装(货),装载 n.装载(量),负荷(量);(一)担
+	shipment       	/'ʃɪpmənt/          	n.装船,装运;装载的货物,装货量   
+----------
+track          	/træk/              	n.跑道,小路;轨迹,轮迹 v.跟踪,追踪
+	trail          	/treil/             	n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;
+----------
+spot           	/spɔt/              	n.斑点;地点 v.认出,认清,发现;玷污,弄脏
+	discern        	/dɪ'sɜ:n/           	v.认出,发现;辨别,识别       
+----------
+child          	/tʃaɪld/            	n.( [pl.] children)小孩，儿童，儿女
+	kid            	/kid/               	n.小孩,儿童 v.戏弄,取笑     
+----------
+inhibit        	/in'hibit/          	vt.抑制，约束            
+	constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+----------
+unanimous      	/ju:'næniməs/       	a.全体一致的,一致同意的       
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	identity       	/ai'dentəti/        	n.身份;本体;特征;同一(性);一致;国籍;等式
+	community      	/kə'mju:niti/       	n.同一地区的全体居民,社会,社区;共同体
+----------
+get            	/get/               	v.获得，得到；使，使得；变得，成为；到达
+	acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+	acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+----------
+belief         	/bi'li:f/           	n.信任，相信，信念；信仰，信条    
+	faith          	/feiθ/              	n.信任,信用;信仰,信条       
+----------
+unity          	/'ju:niti/          	n.团结;统一,一致,整体       
+	unite          	/ju:'nait/          	vi.联合,团结;统一,合并vt.使联合
+----------
+board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+	aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+	ambulance      	/'æmbjuləns/        	n.救护车，救护船，救护飞机      
+	fare           	/fεə/               	n.车费,船费;伙食;乘客 v.过活;进展;经营
+----------
+speaker        	/'spi:kə/           	n.说话者，发言者；说某种语言者；扬声器
+	speech         	/spi:tʃ/            	n.演说,讲话;言语,语言       
+----------
+buy            	/baɪ/               	vt.买，买得；向…行贿，收买vi.购买东西
+	lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+----------
+confront       	/kən'frʌnt/         	v.使面临,使遭遇;面对(危险等)   
+	brave          	/breiv/             	a.勇敢的 v.勇敢地面对(危险等)  
+----------
+agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+	unanimous      	/ju:'næniməs/       	a.全体一致的,一致同意的       
+	pact           	/pækt/              	n.合同,条约,公约,协定       
+----------
+emigrate       	/'emigreit/         	v.(反)immigrate;(to,from)自本国移居他
+	himself        	/him'self/          	pron.[反身代词]他自己；他本人  
+----------
+strength       	/streŋθ/            	n.力量；实力；长处，优点；人力；兵力 
+	advantage      	/əd'vɑ:ntidʒ/       	n.优点，长处，有利条件；利益，好处  
+----------
+universal      	/ˌju:ni'və:səl/     	a.普遍的,全体的,通用的;宇宙的,世界的
+	worldwide      	/'wə:ldˌwaid/       	a.全世界的,世界范围的 ad.遍及全世界
+----------
+measure        	/'meʒə/             	v.测量,分派,权衡 n.尺寸,量度器,措施,办法
+	gauge          	/geidʒ/             	n.标准尺寸;规格;量规,量表 v.测量
+----------
+hatch          	/hætʃ/              	v.孵,孵出;策划,图谋 n.舱口,小门
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+	devise         	/dɪ'vaɪz/           	vt.设计;发明;图谋;作出(计划);想出(办法)
+----------
+engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+	engage         	/ɪn'geɪdʒ/          	v.(in)从事,着手;约定;使订婚;保证;雇用
+----------
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+----------
+skeleton       	/'skelitən/         	n.骨骼;骨架,框架;梗概,提要    
+	abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+----------
+interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+	transition     	/træn'siʒən/        	n.转变，变迁，过渡(时期)      
+	layoff         	/'leiɔf/            	n.临时解雇,操作停止,活动停止期间,失业期
+----------
+revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+	discover       	/dis'kʌvə/          	v.发现,显示             
+----------
+pilgrim        	/'pilgrim/          	n.(在国外)旅游者;朝圣者,最初的移民
+	immigrant      	/'imigrənt/         	a.(从国外)移来的,移民的 n.移民,侨民
+----------
+steward        	/'stju:əd/          	n.乘务员，服务员；看管人；膳食管理员 
+	porter         	/'pɔ:tə/            	n.守门人,门房,行李搬运工,服务员  
+----------
+pocket         	/'pɔkit/            	n.衣袋 a.袖珍的,小型的 v.把…装入袋内
+	bag            	/bæg/               	n.袋，提包 v.把…装入袋中；猎杀；占有
+----------
+might          	/mait/              	aux.v.可能,也许 n.力量,威力,权力
+	possibly       	/'pɔsəbli/          	ad.可能地，也许；无论如何      
+----------
+disregard      	/disri'gɑ:d/        	vt.不理会;忽视;漠视 n.忽视;漠视
+	ignore         	/ig'nɔ:/            	v.不理,不顾,忽视          
+----------
+well           	/wel/               	ad.好，令人满意地；很 int.哎呀，好啦，嗯
+	satisfactory   	/ˌsætis'fæktəri/    	a.令人满意的,圆满的,良好的,符合要求的
+----------
+restrict       	/ri'strikt/         	v.限制,约束             
+	constrain      	/kən'strein/        	vt.限制，约束；克制，抑制      
+----------
+merely         	/'miəli/            	adv.仅仅，只不过          
+	mere           	/miə/               	a.纯粹的;仅仅,只不过        
+	only           	/'əunli/            	ad.仅仅，只不过 a.唯一的 conj.可是，不过
+	simply         	/'simpli/           	ad.简单地;完全,简直;仅仅,只不过;朴素地
+----------
+tempt          	/tempt/             	v.诱惑,引诱;吸引,使感兴趣     
+	attract        	/ə'trækt/           	vt.引起的注意(或兴趣等),吸引；引起；激起
+	lure           	/luə(r)/            	n.吸引力,魅力,诱惑物 vt.引诱，吸引
+----------
+van            	/væn/               	n.有篷汽车;有篷货运车厢       
+	wagon          	/'wægən/            	n.运货马车,运货车;敞蓬车厢     
+----------
+utmost         	/'ʌtməust/          	a.最远的;极度的 n.极限,极度,最大可能
+	extreme        	/ik'stri:m/         	a.末端的,尽头的;极度的 n.极端;最大程度
+----------
+develop        	/di'veləp/          	v.发展,开发,研制;显现,显影;发育,生长
+	growth         	/grəuθ/             	n.生长,增长,发展          
+----------
+goods          	/gudz/              	n.(pl.)货物，商品        
+	merchandise    	/'mə:tʃəndaiz/      	n.商品,货物             
+----------
+institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+	seminar        	/'seminɑ:/          	n.(大学的)研究班,研讨会      
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+pact           	/pækt/              	n.合同,条约,公约,协定       
+	agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+----------
+arrive         	/ə'raɪv/            	vi.到达；(时间、事件)到来，发生；达到
+	advent         	/'ædvənt/           	n.(重要事件等的)到来，来临     
+----------
+accept         	/ək'sept/           	vt.接受，领受；认可，同意 vi.同意，认可
+	acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+----------
+cardinal       	/'kɑ:dɪnl/          	n.(天主教的)红衣主教 a.首要的，基本的
+	mostly         	/'məustli/          	ad.几乎全部地;主要地,大部分,基本上
+	largely        	/'lɑ:dʒli/          	ad.主要地,基本上;大量地,大规模地 
+----------
+peak           	/pi:k/              	n.山顶,最高点;峰,山峰 a.高峰的,最高的
+	summit         	/'sʌmit/            	n.顶，最高点；颠峰，高峰；最高级会议 
+----------
+possibly       	/'pɔsəbli/          	ad.可能地，也许；无论如何      
+	might          	/mait/              	aux.v.可能,也许 n.力量,威力,权力
+	anyhow         	/'enihau/           	ad.不管怎么说，无论如何；不论用何种方法
+----------
+alliance       	/ə'laiəns/          	n.同盟，同盟国；结盟，联姻      
+	ally           	/'ælaɪ/             	n.同盟者，同盟国，vt.使结盟；与…有关联
+----------
+denial         	/di'naiəl/          	n.否认;拒绝;否认某事或某事实的声明 
+	deny           	/di'nai/            	v.否认,否定;拒绝          
+----------
+swallow        	/'swɔləu/           	n.燕子;吞咽vt.吞,咽;轻信;忍受;vi.咽口水
+	stomach        	/'stʌmək/           	n.胃，胃口；肚子，腹部vt.承受，忍受
+----------
+junction       	/'dʒʌŋkʃən/         	n.连接,接合,交叉点,枢纽站,接头,中继线
+	joint          	/dʒɔint/            	n.接合处,接头;关节a.联合的,共同的,连接的
+----------
+threat         	/θret/              	n.恐吓,威胁;坏兆头,危险迹象    
+	danger         	/'deindʒə/          	n.危险;威胁;危险事物        
+	threaten       	/'θretən/           	v.恐吓,威胁;有…危险,快要来临   
+----------
+conflict       	/kən'flikt/         	n.战斗,斗争;抵触,冲突 v.(with)抵触,冲突
+	collide        	/kə'laid/           	vi.[with]互撞，碰撞；冲突，抵触
+----------
+seminar        	/'seminɑ:/          	n.(大学的)研究班,研讨会      
+	institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+failure        	/'feiljə/           	n.失败,不及格;失败者;故障,失灵;未能
+	fail           	/feil/              	v.失败,不及格;衰退,减弱      
+----------
+abundant       	/ə'bʌndənt/         	a.大量(充足)的；(in)丰富(富裕)的
+	plenty         	/'plenti/           	n.丰富,大量             
+----------
+disgrace       	/dis'greis/         	n.失宠,耻辱 v.使失宠;玷辱,使蒙羞
+	shame          	/ʃeim/              	n.羞耻,耻辱;可耻的人(或事物) v.使羞愧
+----------
+indication     	/ˌindi'keiʃən/      	n.指出,指示;表明,暗示       
+	indicate       	/'indikeit/         	v.指出,指示;表明,暗示       
+----------
+attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+	attract        	/ə'trækt/           	vt.引起的注意(或兴趣等),吸引；引起；激起
+	charm          	/tʃɑ:m/             	n.吸引力,魅力 v.迷人,(使)陶醉;施魔法于
+----------
+ally           	/'ælaɪ/             	n.同盟者，同盟国，vt.使结盟；与…有关联
+	alliance       	/ə'laiəns/          	n.同盟，同盟国；结盟，联姻      
+----------
+fence          	/'fens/             	n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑
+	hedge          	/hedʒ/              	n.篱笆,树篱,障碍物 v.用树篱围住 
+----------
+institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+	institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定
+	seminar        	/'seminɑ:/          	n.(大学的)研究班,研讨会      
+----------
+cause          	/kɔ:z/              	n.原因;事业,事件,奋斗目标 v.使产生,引起
+	inspire        	/in'spaiə/          	vt.鼓舞,激起;使产生灵感      
+----------
+site           	/sait/              	n.位置,场所,地点          
+	location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+----------
+immigrant      	/'imigrənt/         	a.(从国外)移来的,移民的 n.移民,侨民
+	pilgrim        	/'pilgrim/          	n.(在国外)旅游者;朝圣者,最初的移民
+----------
+porter         	/'pɔ:tə/            	n.守门人,门房,行李搬运工,服务员  
+	steward        	/'stju:əd/          	n.乘务员，服务员；看管人；膳食管理员 
+----------
+layoff         	/'leiɔf/            	n.临时解雇,操作停止,活动停止期间,失业期
+	interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+----------
+fraction       	/'frækʃən/          	n.碎片,小部分,一点儿;分数     
+	slice          	/slais/             	n.薄片,切片;一份;部分切(片)   
+----------
+steam          	/sti:m/             	n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动
+	vapour         	/'veɪpə(r)/         	n.(vapor)汽，(水)蒸气    
+	launch         	/lɔ:ntʃ/            	v.发射;使(船)下水,发动,开展 n.发射,下水
+----------
+gauge          	/geidʒ/             	n.标准尺寸;规格;量规,量表 v.测量
+	measure        	/'meʒə/             	v.测量,分派,权衡 n.尺寸,量度器,措施,办法
+----------
+interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+	explain        	/ik'splein/         	v.解释,说明             
+	account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+----------
+judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+	opinion        	/ə'pinjən/          	n.意见,看法,主张          
+	sense          	/sens/              	n.感官;感觉;判断力;意义 v.觉得,意识到
+----------
+commonplace    	/'kɔmənpleis/       	a.普通的，平庸的n.寻常事物，平庸的东西
+	anything       	/'eniθiŋ/           	pron.任何东西(事物)；无论什么东西(事物)
+	thing          	/θiŋ/               	n.物，东西；事，事情；所有物；局面，情况
+	ordinary       	/'ɔ:dinəri/         	a.普通的,平凡的,平常的;平庸的   
+----------
+obstruct       	/əb'strʌkt/         	v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物
+	block          	/blɒk/              	n.大块木（石）料;街区;障碍物 v.阻塞,拦阻
+----------
+activate       	/'æktiveit/         	vt.启动，激活；驱动，驱使；使开始起作用
+	propel         	/prəu'pel/          	vt.推进，推动；激励，驱使      
+----------
+train          	/trein/             	n.列车;行列,系列,一串 v.训练,培养
+	educate        	/'edju:keit/        	v.教育,培养,训练          
+----------
+temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	lure           	/luə(r)/            	n.吸引力,魅力,诱惑物 vt.引诱，吸引
+----------
+waitress       	/'weitris/          	n.女侍者,女服务员          
+	waiter         	/weitə/             	n.侍者,服务员            
+----------
+intense        	/in'tens/           	a.强烈的,剧烈的;热烈的,热情的   
+	passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+----------
+only           	/'əunli/            	ad.仅仅，只不过 a.唯一的 conj.可是，不过
+	mere           	/miə/               	a.纯粹的;仅仅,只不过        
+	merely         	/'miəli/            	adv.仅仅，只不过          
+	simply         	/'simpli/           	ad.简单地;完全,简直;仅仅,只不过;朴素地
+----------
+hers           	/hə:z/              	pron.[she的物主代词]她的(所有物)
+	theirs         	/ðεəz/              	pron.[they的物主代词]他(她、它)们的
+----------
+country        	/'kʌntri/           	n.国家;农村,乡下          
+	countryside    	/'kʌntriˌsaid/      	n.乡下,农村             
+----------
+hedge          	/hedʒ/              	n.篱笆,树篱,障碍物 v.用树篱围住 
+	fence          	/'fens/             	n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑
+----------
+surprise       	/sə'praiz/          	v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭
+	wonder         	/'wʌndə/            	n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道
+----------
+contend        	/kən'tend/          	v.竞争,斗争;坚决主张        
+	insist         	/in'sist/           	vi.(on)坚持要求,坚决主张,坚持 
+----------
+explanation    	/ˌeksplə'neiʃən/    	n.解释,说明             
+	explain        	/ik'splein/         	v.解释,说明             
+	account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+	interpret      	/in'tə:prit/        	vt.解释,说明;口译         
+----------
+discover       	/dis'kʌvə/          	v.发现,显示             
+	revelation     	/ˌrevə'leiʃən/      	n.揭示,揭露,显示,启示,新发现,被揭露的事
+----------
+faith          	/feiθ/              	n.信任,信用;信仰,信条       
+	belief         	/bi'li:f/           	n.信任，相信，信念；信仰，信条    
+----------
+merchandise    	/'mə:tʃəndaiz/      	n.商品,货物             
+	goods          	/gudz/              	n.(pl.)货物，商品        
+----------
+view           	/vju:/              	n.视野;风景;观察;见解;照片 vt.观察;认为
+	sight          	/sait/              	n.视力;望见,瞥见;视域;眼界;情景,奇观
+----------
+insist         	/in'sist/           	vi.(on)坚持要求,坚决主张,坚持 
+	contend        	/kən'tend/          	v.竞争,斗争;坚决主张        
+----------
+dispose        	/dɪ'spəuz/          	v.(of)处理,处置;(for)布置,安排
+	disposal       	/dis'pəuzəl/        	n.处理,处置;布置,安排       
+----------
+oil            	/ɔil/               	n.油，石油 v.给…加润滑油；涂油，上油
+	lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+----------
+portion        	/'pɔ:ʃən/           	n.一部分,一份            
+	slice          	/slais/             	n.薄片,切片;一份;部分切(片)   
+----------
+lure           	/luə(r)/            	n.吸引力,魅力,诱惑物 vt.引诱，吸引
+	tempt          	/tempt/             	v.诱惑,引诱;吸引,使感兴趣     
+	temptation     	/temp'teiʃən/       	n.引诱，诱惑；诱惑物         
+	charm          	/tʃɑ:m/             	n.吸引力,魅力 v.迷人,(使)陶醉;施魔法于
+----------
+badge          	/'bædʒ/             	n.徽章,像章；标记；象征；记号    
+	symbol         	/'simbəl/           	n.符号,标志;象征          
+----------
+ambulance      	/'æmbjuləns/        	n.救护车，救护船，救护飞机      
+	aboard         	/ə'bɔ:d/            	ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+	board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+----------
+wrench         	/rentʃ/             	v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受
+	painful        	/'peinfl/           	a.疼痛的,使痛苦的,费力[心]的,棘手的
+----------
+plenty         	/'plenti/           	n.丰富,大量             
+	abundant       	/ə'bʌndənt/         	a.大量(充足)的；(in)丰富(富裕)的
+----------
+tempo          	/'tempəu/           	n.节奏,行进速度;(音乐的)速度   
+	speed          	/spi:d/             	n.速度,快 v.迅速,前进,急行;加速,使加速
+----------
+population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+	community      	/kə'mju:niti/       	n.同一地区的全体居民,社会,社区;共同体
+----------
+location       	/ləu'keɪʃn/         	n.位置,场所,定位,测位       
+	site           	/sait/              	n.位置,场所,地点          
+----------
+speed          	/spi:d/             	n.速度,快 v.迅速,前进,急行;加速,使加速
+	tempo          	/'tempəu/           	n.节奏,行进速度;(音乐的)速度   
+----------
+reference      	/'refərəns/         	n.提及,涉及;参考,参考书目;证明书（人）
+	witness        	/'witnis/           	n.目击者,证人;证据,证明 v.目击,目睹;作证
+----------
+prone          	/prəun/             	a.倾向于,俯伏的,倾斜的,陡的    
+	incline        	/in'klain/          	v.(使)倾斜;(使)倾向于 n.斜坡,斜面
+----------
+belly          	/'beli/             	n.肚子，腹部；(像肚子一样)鼓起的部分，膛
+	stomach        	/'stʌmək/           	n.胃，胃口；肚子，腹部vt.承受，忍受
+----------
+discern        	/dɪ'sɜ:n/           	v.认出,发现;辨别,识别       
+	spot           	/spɔt/              	n.斑点;地点 v.认出,认清,发现;玷污,弄脏
+----------
+cloud          	/klaud/             	n.云(状物);遮暗物,阴影;一大群  
+	swarm          	/swɔ:m/             	n.蜂群;一大群 vi.涌往;挤满;云集;成群移动
+----------
+sum            	/sʌm/               	n.总数,和;金额;算术题;要旨 v.合计,总计
+	total          	/'təutəl/           	n.总数,合计 a.总的,全部的 v.合计,总数达
+----------
+sense          	/sens/              	n.感官;感觉;判断力;意义 v.觉得,意识到
+	conscious      	/'kɔnʃəs/           	a.(of)意识到的,自觉的;神志清醒的
+	judgement      	/'dʒʌdʒmənt/        	n.(judgment)审判,判决;判断(力);看法,意见
+----------
+shame          	/ʃeim/              	n.羞耻,耻辱;可耻的人(或事物) v.使羞愧
+	disgrace       	/dis'greis/         	n.失宠,耻辱 v.使失宠;玷辱,使蒙羞
+----------
+contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+	scheme         	/ski:m/             	n.计划,方案;阴谋;配置 v.计划,策划;阴谋
+	hatch          	/hætʃ/              	v.孵,孵出;策划,图谋 n.舱口,小门
+	devise         	/dɪ'vaɪz/           	vt.设计;发明;图谋;作出(计划);想出(办法)
+----------
+business       	/'biznis/           	n.商业,生意;事务,业务,职责    
+	career         	/kə'rɪə(r)/         	n.(个人的)事业；专业，生涯，职业，经历
+----------
+aside          	/ə'said/            	ad.在旁边，到一边 n.旁白；离题的话
+	alongside      	/ə'lɔŋ'said/        	ad.在旁边 prep.和...在一起；在...旁边
+----------
+participant    	/pɑ:'tisipənt/      	n.参加者,参与者 a.有份的,参与的 
+	participate    	/pɑ:'tɪsɪpeɪt/      	v.(in)参与,参加;分享,分担;含有,带有
+----------
+advantage      	/əd'vɑ:ntidʒ/       	n.优点，长处，有利条件；利益，好处  
+	strength       	/streŋθ/            	n.力量；实力；长处，优点；人力；兵力 
+----------
+architect      	/'ɑ:kitekt/         	n.建筑师；设计师；缔造者；创造者   
+	build          	/bild/              	vt.建造，建筑；建设，建立 vi.增大，增强
+----------
+fancy          	/'fænsi/            	n.爱好,迷恋 v.想象,幻想 a.花式的,奇特的
+	romantic       	/rəu'mæntik/        	a.浪漫的,传奇式的;不切实际的,好幻想的
+----------
+gravity        	/'græviti/          	n.重力,引力;严肃,庄重       
+	grave          	/greiv/             	n.坟墓 a.严肃的,庄重的      
+----------
+identity       	/ai'dentəti/        	n.身份;本体;特征;同一(性);一致;国籍;等式
+	unanimous      	/ju:'næniməs/       	a.全体一致的,一致同意的       
+----------
+stomach        	/'stʌmək/           	n.胃，胃口；肚子，腹部vt.承受，忍受
+	swallow        	/'swɔləu/           	n.燕子;吞咽vt.吞,咽;轻信;忍受;vi.咽口水
+	belly          	/'beli/             	n.肚子，腹部；(像肚子一样)鼓起的部分，膛
+----------
+passion        	/'pæʃən/            	n.热情,激情,爱好;激怒;强烈感情  
+	intense        	/in'tens/           	a.强烈的,剧烈的;热烈的,热情的   
+----------
+propel         	/prəu'pel/          	vt.推进，推动；激励，驱使      
+	activate       	/'æktiveit/         	vt.启动，激活；驱动，驱使；使开始起作用
+----------
+troublesome    	/'trʌblsəm/         	a.令人烦恼的,讨厌的         
+	annoy          	/ə'nɔi/             	vt.使恼怒，使生气；打扰 vi.招人讨厌
+----------
+defect         	/'di:fekt/          	n.过失;缺点;不足          
+	fault          	/fɔ:lt/             	n.过失,过错;缺点,毛病       
+----------
+whip           	/hwip/              	n.鞭子;车夫 v.鞭打,抽打;突然移动
+	lash           	/læʃ/               	v.鞭打,摆动,捆扎 n.鞭子,鞭打,睫毛,讽刺
+	switch         	/switʃ/             	n.开关；转换；鞭子 v.转变,转换；抽打
+----------
+parcel         	/'pɑ:sl/            	n.包裹,邮包,部分 v.打包,捆扎,分配
+	pack           	/pæk/               	v.捆扎,打包;塞满,挤满n.包裹,背包,一群
+----------
+bag            	/bæg/               	n.袋，提包 v.把…装入袋中；猎杀；占有
+	pocket         	/'pɔkit/            	n.衣袋 a.袖珍的,小型的 v.把…装入袋内
+----------
+anyhow         	/'enihau/           	ad.不管怎么说，无论如何；不论用何种方法
+	anything       	/'eniθiŋ/           	pron.任何东西(事物)；无论什么东西(事物)
+	somehow        	/'sʌmhau/           	ad.以某种方式，用某种方法；不知怎么地
+	possibly       	/'pɔsəbli/          	ad.可能地，也许；无论如何      
+----------
+wonder         	/'wʌndə/            	n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道
+	surprise       	/sə'praiz/          	v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭
+----------
+intrigue       	/in'tri:g/          	n.阴谋v.密谋,私通;激起…的兴趣;诡计取得
+	attract        	/ə'trækt/           	vt.引起的注意(或兴趣等),吸引；引起；激起
+----------
+unit           	/'ju:nit/           	n.单位,单元;部件,元件;机组,装置 
+	component      	/kəm'pəunənt/       	n.组成部分,成分,元件 a.组成的,合成的
+----------
+technical      	/'teknikəl/         	a.技术(性)的，工艺的；专门性的，专业性的
+	technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+	technique      	/tek'ni:k/          	n.技巧，手艺，技能；技术，工艺    
+----------
+growth         	/grəuθ/             	n.生长,增长,发展          
+	develop        	/di'veləp/          	v.发展,开发,研制;显现,显影;发育,生长
+----------
+career         	/kə'rɪə(r)/         	n.(个人的)事业；专业，生涯，职业，经历
+	major          	/'meidʒə/           	a.主要的n.成年人,专业学生,主修课程v.主修
+	business       	/'biznis/           	n.商业,生意;事务,业务,职责    
+----------
+summit         	/'sʌmit/            	n.顶，最高点；颠峰，高峰；最高级会议 
+	peak           	/pi:k/              	n.山顶,最高点;峰,山峰 a.高峰的,最高的
+----------
+author         	/'ɔ:θə/             	n.作者，作家，著作人；创始人，发起人 
+	sponsor        	/'spɔnsə/           	n.发起人,主力者,保证人 v.发起,主办
+----------
+likely         	/'laikli/           	a.很可能的,有希望的 ad.大概,多半
+	possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+----------
+collide        	/kə'laid/           	vi.[with]互撞，碰撞；冲突，抵触
+	conflict       	/kən'flikt/         	n.战斗,斗争;抵触,冲突 v.(with)抵触,冲突
+----------
+engage         	/ɪn'geɪdʒ/          	v.(in)从事,着手;约定;使订婚;保证;雇用
+	engagement     	/ɪn'geɪdʒmənt/      	n.约会,约定;婚约,订婚       
+----------
+recommend      	/ˌrekə'mend/        	v.推荐,介绍;劝告,建议       
+	advise         	/əd'vaiz/           	vt.忠告，劝告，建议；通知，告知   
+----------
+community      	/kə'mju:niti/       	n.同一地区的全体居民,社会,社区;共同体
+	unanimous      	/ju:'næniməs/       	a.全体一致的,一致同意的       
+	population     	/ˌpɒpju'leɪʃn/      	n.人口,(全体)居民         
+----------
+fare           	/fεə/               	n.车费,船费;伙食;乘客 v.过活;进展;经营
+	board          	/bɔ:d/              	n.板,木板;全体委员;伙食 v.上船(车,飞机)
+----------
+wagon          	/'wægən/            	n.运货马车,运货车;敞蓬车厢     
+	van            	/væn/               	n.有篷汽车;有篷货运车厢       
+----------
+formation      	/fɔ:'meiʃən/        	n.形成;构成;组织;构造;编制;塑造 
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+----------
+charm          	/tʃɑ:m/             	n.吸引力,魅力 v.迷人,(使)陶醉;施魔法于
+	attractive     	/ə'træktiv/         	a.吸引人的，引人注意的；漂亮的，迷人的
+	lure           	/luə(r)/            	n.吸引力,魅力,诱惑物 vt.引诱，吸引
+----------
+launch         	/lɔ:ntʃ/            	v.发射;使(船)下水,发动,开展 n.发射,下水
+	steam          	/sti:m/             	n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动
+----------
+simply         	/'simpli/           	ad.简单地;完全,简直;仅仅,只不过;朴素地
+	mere           	/miə/               	a.纯粹的;仅仅,只不过        
+	merely         	/'miəli/            	adv.仅仅，只不过          
+	only           	/'əunli/            	ad.仅仅，只不过 a.唯一的 conj.可是，不过
+----------
+diversion      	/dai'və:ʃən/        	n.转向,转移;牵制;解闷;娱乐    
+	divert         	/dai'və:t/          	vt.使转向，使改道；转移(注意力)；使娱乐
+----------
+pack           	/pæk/               	v.捆扎,打包;塞满,挤满n.包裹,背包,一群
+	swarm          	/swɔ:m/             	n.蜂群;一大群 vi.涌往;挤满;云集;成群移动
+	parcel         	/'pɑ:sl/            	n.包裹,邮包,部分 v.打包,捆扎,分配
+----------
+expansion      	/ik'spænʃən/        	n.扩张,膨胀;张开,伸展       
+	expand         	/ik'spænd/          	v.(使)膨胀,(使)扩张;张开,展开 
+----------
+ordinary       	/'ɔ:dinəri/         	a.普通的,平凡的,平常的;平庸的   
+	commonplace    	/'kɔmənpleis/       	a.普通的，平庸的n.寻常事物，平庸的东西
+----------
+incline        	/in'klain/          	v.(使)倾斜;(使)倾向于 n.斜坡,斜面
+	prone          	/prəun/             	a.倾向于,俯伏的,倾斜的,陡的    
+----------
+lubricate      	/'lubrikeit/        	v.润滑,加润滑油,行贿,收买     
+	buy            	/baɪ/               	vt.买，买得；向…行贿，收买vi.购买东西
+	oil            	/ɔil/               	n.油，石油 v.给…加润滑油；涂油，上油
+----------
+devise         	/dɪ'vaɪz/           	vt.设计;发明;图谋;作出(计划);想出(办法)
+	hatch          	/hætʃ/              	v.孵,孵出;策划,图谋 n.舱口,小门
+	contrive       	/kən'traiv/         	vt.谋划，策划；设法做到；设计，想出 
+----------
+joint          	/dʒɔint/            	n.接合处,接头;关节a.联合的,共同的,连接的
+	junction       	/'dʒʌŋkʃən/         	n.连接,接合,交叉点,枢纽站,接头,中继线
+----------
+largely        	/'lɑ:dʒli/          	ad.主要地,基本上;大量地,大规模地 
+	mostly         	/'məustli/          	ad.几乎全部地;主要地,大部分,基本上
+	cardinal       	/'kɑ:dɪnl/          	n.(天主教的)红衣主教 a.首要的，基本的
+----------
+bid            	/bid/               	v.祝愿;命令,吩咐;报价,投标 n.出众,投标
+	tell           	/tel/               	vt.告诉，讲述；告诫；吩咐，命令；辨 
+----------
+advent         	/'ædvənt/           	n.(重要事件等的)到来，来临     
+	arrive         	/ə'raɪv/            	vi.到达；(时间、事件)到来，发生；达到
+----------
+handle         	/'hændl/            	n.柄,把手,拉手 v.处理,对待,操纵;触,抚养
+	manage         	/'mænɪdʒ/           	v.经营,管理,处理;设法,对付;操纵,运用
+----------

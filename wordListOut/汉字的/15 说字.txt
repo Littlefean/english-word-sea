@@ -1,0 +1,15 @@
+speech         	/spi:tʃ/            	n.演说,讲话;言语,语言       
+explain        	/ik'splein/         	v.解释,说明             
+account        	/ə'kaunt/           	a.叙述，说明；账目，账户 vi.说明，解释
+fabulous       	/'fæbjuləs/         	a.极好的；极为巨大的；寓言中的，传说中的
+story          	/'stɔ:ri/           	n.故事,传说,小说;(=storey)楼层
+persuasion     	/pə'sweiʒən/        	n.说服,说服力            
+stumble        	/'stʌmbl/           	n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说
+eloquent       	/'eləkwənt/         	a.雄辩的,有说服力的;善辩的,口才流利的
+direction      	/di'rekʃən/         	n.方向,方位;指令,说明       
+serial         	/'siəriəl/          	n.连载小说，连续剧；连载刊物 a.连续的
+hypothesis     	/hai'pɔθisis/       	n.假说,假设,前提          
+speaker        	/'spi:kə/           	n.说话者，发言者；说某种语言者；扬声器
+legend         	/'ledʒənd/          	n.传说,传奇             
+fame           	/feim/              	n.名声;名望;传说 vt使出名;传扬…的名
+tradition      	/trə'diʃən/         	n.传统； 惯例； 传说        

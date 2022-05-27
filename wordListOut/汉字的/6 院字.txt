@@ -1,0 +1,6 @@
+hospital       	/'hɔspitəl/         	n.医院                
+cinema         	/'sinəmə/           	n.电影院;电影,影片         
+chamber        	/'tʃeimbə/          	n.房间，室；会议室；议院；(动物体内)腔室
+theater        	/'θiətə/            	n.(theatre)戏院;戏剧;阶梯教室
+court          	/kɔ:t/              	n.法院,法庭;宫廷,朝廷;院子;球场 
+institute      	/'institjut/        	n.学会,研究所;学院 v.设立,设置,制定

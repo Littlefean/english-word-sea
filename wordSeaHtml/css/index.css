@@ -1,0 +1,35 @@
+.lineBox {
+  background-color: transparent;
+  position: absolute;
+  opacity: 0.1;
+  transition: all 0.5s;
+}
+.lineBox .line {
+  width: 3px;
+  height: 100%;
+  background-color: red;
+}
+.word {
+  color: black;
+  position: absolute;
+  transition: all 0.2s;
+  outline: solid 1px #222;
+  z-index: 100;
+}
+.word .chinese {
+  display: none;
+}
+.word:active {
+  color: greenyellow;
+  z-index: 100;
+  background-color: black;
+  font-size: 20px;
+  box-shadow: 0 0 10px whitesmoke;
+}
+.word:hover {
+  transform: scale(1.1);
+}
+.word:active .chinese {
+  display: block;
+}
+/*# sourceMappingURL=index.css.map */

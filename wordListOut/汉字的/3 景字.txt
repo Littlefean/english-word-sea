@@ -1,0 +1,3 @@
+sight          	/sait/              	n.视力;望见,瞥见;视域;眼界;情景,奇观
+context        	/'kɔntekst/         	n.（文章等）前后关系；(事件等的)背景
+background     	/'bækgraund/        	n.背景,经历；幕后          

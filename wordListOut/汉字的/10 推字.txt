@@ -1,0 +1,10 @@
+trolley        	/'trɔli/            	n.手推车;(英)无轨电车,(美)有轨电车
+advance        	/əd'vɑ:ns/          	n.前进，预付 vi.前进，进展 vt.促进，推进
+salesman       	/'seilzmən/         	n.售货员,推销员           
+conclusion     	/kən'klu:ʒən/       	n.结论，推论；结尾；缔结，议定    
+impetus        	/'ɪmpɪtəs/          	n.推动(力),促进          
+inference      	/'infərəns/         	n.推论,推理,推断;结论       
+presumably     	/pri'zju:-məbli/    	ad.推测起来,大概          
+infer          	/in'fə:/            	v.推论,推断             
+upset          	/ʌp'set/            	v.使…心烦意乱;打翻,推翻a.难过的;不安的
+deduct         	/di'dʌkt/           	vt.扣除;演绎(推理)        

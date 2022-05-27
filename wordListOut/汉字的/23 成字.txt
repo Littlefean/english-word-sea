@@ -1,0 +1,23 @@
+list           	/lɪst/              	n.表,目录,名单 v.把…编列成表,列入表内
+component      	/kəm'pəunənt/       	n.组成部分,成分,元件 a.组成的,合成的
+membership     	/'membəʃɪp/         	n.会员资格,成员资格         
+identify       	/aɪ'dentɪfaɪ/       	v.识别,鉴别;(with)把…和…看成一样
+cereal         	/'siəriəl/          	n.加工而成的谷类食物；谷类植物，谷物 
+major          	/'meidʒə/           	a.主要的n.成年人,专业学生,主修课程v.主修
+acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+acquire        	/ə'kwaiə/           	v.获得；学到(知识等)；养成(习惯) 
+accomplish     	/ə'kʌmpliʃ/         	v.实现(计划等)；达到(目的)；完成(任务)
+outcome        	/'autkʌm/           	n.结果,成果             
+underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+effort         	/'efət/             	n.努力;成就;艰难的尝试       
+swarm          	/swɔ:m/             	n.蜂群;一大群 vi.涌往;挤满;云集;成群移动
+triumph        	/'traiəmf/          	n.胜利,成功 v.得胜,战胜     
+ball           	/bɔ:l/              	n.球(状物);(正式的)舞会vt.把…捏成球状
+multiple       	/'mʌltipl/          	a.多样的,多重的 n.倍数 v.成倍增加
+succeed        	/sək'si:d/          	vi.成功；继承，接替 vt.接替；继…之后
+get            	/get/               	v.获得，得到；使，使得；变得，成为；到达
+agreement      	/ə'gri:mənt/        	n.协定,协议；契约；达成协议；同意，一致
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+contrast       	/kən'trɑ:st/        	n.对比，对照 vi.形成对比 vt.把…与…对比
+recruit        	/ri'kru:t/          	v.征募(新兵)，吸收；补充 n.新成员，新兵
+uphold         	/ʌp'həuld/          	vt.支持,赞成;举起;坚持      

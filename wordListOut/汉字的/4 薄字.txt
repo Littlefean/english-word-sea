@@ -1,0 +1,4 @@
+slice          	/slais/             	n.薄片,切片;一份;部分切(片)   
+mist           	/mist/              	n.薄雾,霭              
+superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+thin           	/θin/               	a.薄的,细的;稀薄的,淡的;瘦的 v.变薄;变稀

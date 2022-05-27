@@ -1,0 +1,6 @@
+finance        	/fai'næns/          	n.财政,金融 v.为…提供资金    
+reserve        	/ri'zə:v/           	n.储备(物),储备金;缄默 v.保留,储备;预定
+award          	/ə'wɔ:d/            	vt.授予,给予；判定 n.奖,奖金；仲裁
+rent           	/rent/              	v.租,租赁 n.租金         
+expenditure    	/iks'penditʃə/      	n.花费;(时间,金钱等的)支出,消耗 
+turnover       	/'tə:nˌəuvə/        	n.翻倒(物);人员调整;(资金等)周转;营业额

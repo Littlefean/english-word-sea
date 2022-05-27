@@ -1,0 +1,5 @@
+weave          	/wi:v/              	v.编(织) n.编织法，编织式样   
+list           	/lɪst/              	n.表,目录,名单 v.把…编列成表,列入表内
+fabricate      	/'fæbrikeit/        	v.捏造,编造(谎言,借口等);建造,制造
+programme      	/'prəugræm/         	n.(program)节目,计划,规划,程序 v.编程序
+compile        	/kəm'pail/          	vt.编辑，编制，搜集         

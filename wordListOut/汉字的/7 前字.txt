@@ -1,0 +1,7 @@
+advance        	/əd'vɑ:ns/          	n.前进，预付 vi.前进，进展 vt.促进，推进
+along          	/ə'lɔŋ/             	ad.向前；和...一起，一同 prep.沿着，顺着
+context        	/'kɔntekst/         	n.（文章等）前后关系；(事件等的)背景
+prior          	/'praiə/            	a.优先的,在前的;(to)在…之前  
+hitherto       	/ˌhiðə'tu:/         	ad.到目前为止,迄今         
+hypothesis     	/hai'pɔθisis/       	n.假说,假设,前提          
+premise        	/pri'maiz/          	n.前提,房屋连地基v.提论,预述,假定

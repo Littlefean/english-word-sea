@@ -1,0 +1,6 @@
+technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+physical       	/'fɪzɪkl/           	a.物质的;肉体的,身体的;自然科学的,物理的
+surgery        	/'sə:dʒəri/         	n.外科,外科学;手术室,诊疗室    
+science        	/'saiəns/           	n.科学;学科             
+scientist      	/'saiəntist/        	n.科学家               
+scientific     	/ˌsaiən'tifik/      	a.科学上的              

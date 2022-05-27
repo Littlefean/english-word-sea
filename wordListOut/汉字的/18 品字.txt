@@ -1,0 +1,18 @@
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+breed          	/bri:d/             	v.(使)繁殖,生殖;产生;教养,抚养 n.品种
+taste          	/teist/             	v.品尝;(of)有…味道;体验 n.滋味;味觉
+accessory      	/ək'sesəri/         	n.附件,附属品;(为全套衣服增加美感的)服饰
+conduct        	/'kɔndʌkt/          	n.行为,品行 v.引导;管理;指挥(乐队);传导
+duplicate      	/'dju:plikət/       	n.复制品 v.复写,使加倍 a.复制的,二重的
+cotton         	/'kɔtən/            	n.棉花;棉线,棉纱;棉制品      
+exhibit        	/ig'zibit/          	v.展出,陈列 n.展览品,陈列品   
+textile        	/'tekstail/         	n.纺织品 a.纺织的         
+writing        	/'raitiŋ/           	n.写,写作;著作,作品        
+product        	/'prɔdəkt/          	n.产品,产物;乘积          
+remedy         	/'remidi/           	n.药品;治疗措施 v.治疗,医治;纠正,补救
+sculpture      	/'skʌlptʃə/         	n.雕刻(术)，雕塑(术)；雕刻作品  
+fiber          	/faɪbə/             	n.(fibre)纤维;构造;纤维制品 
+horn           	/hɔ:n/              	n.(牛羊等的)角;号,喇叭;角状物;角制品
+satire         	/'sætaiə/           	n.讽刺,讽刺文学,讽刺作品      
+goods          	/gudz/              	n.(pl.)货物，商品        
+necessity      	/ni'sesəti/         	n.必要性,需要;必然性;(pl.)必需品

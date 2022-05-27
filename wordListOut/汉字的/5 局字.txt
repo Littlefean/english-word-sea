@@ -1,0 +1,5 @@
+local          	/'ləukəl/           	a.地方的,当地的;局部的       
+thing          	/θiŋ/               	n.物，东西；事，事情；所有物；局面，情况
+trick          	/trik/              	n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗
+catastrophe    	/kə'tæstrəfi/       	n.大灾难；(悲剧)结局        
+draw           	/drɔ:/              	v.拉;画;汲取;引出;(to)挨近 n.平局;拖曳

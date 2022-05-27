@@ -1,0 +1,15 @@
+tile           	/tail/              	n.瓦片,瓷砖 vt.铺瓦于，贴砖于  
+articulate     	/ɑ:'tɪkjuleɪt/      	a.善于表达的；有关节相连的 v.清楚地讲话
+locate         	/ləu'keit/          	v.查出,探出,查找…地点,使…坐落于,位于
+excel          	/ik'sel/            	vi.胜过其他;擅长 vt.胜过，优于 
+apt            	/æpt/               	a.恰当的，适当的；易于…的，有…倾向的
+dedicate       	/'dedikeit/         	vt.奉献;献身于           
+await          	/ə'weit/            	vt.等候，期待；(事情等)降临于   
+underlie       	/ˌʌndə'lai/         	vt.位于...之下, 成为...的基础
+enrich         	/in'ritʃ/           	v.使富足;使肥沃;装饰;加料于;浓缩 
+correspondence 	/ˌkɔ:ris'pɔndəns/   	n.通信,信件;(with)符合;(to)相当于,对应
+lottery        	/'lɔtəri/           	n.抽彩；碰运气的事，难于算计的事   
+accordingly    	/ə'kɔ:dɪŋli/        	ad.相应地，照着办，按照；于是，因此 
+militant       	/'mɪlɪtənt/         	a.好战的，富于战斗性的 n.斗士   
+available      	/ə'veɪləbl/         	a.(用于物)可用的；可见到的，接受采访的
+lose           	/lu:z/              	v.丢失,迷路,输掉,亏本,失败,走慢,使沉湎于

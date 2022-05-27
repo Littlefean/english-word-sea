@@ -1,0 +1,4 @@
+drive          	/draiv/             	v.开(车);驱;驱动,把(钉,桩)打入 n.驾驶
+steer          	/stiə/              	vt.驾驶，为…操舵；引导vi.驾驶  
+rein           	/rein/              	n.缰绳,统治,支配 v.驾驭,控制,统治
+driver         	/draivə/            	n.驾驶员               

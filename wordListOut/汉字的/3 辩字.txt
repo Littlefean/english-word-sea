@@ -1,0 +1,3 @@
+eloquent       	/'eləkwənt/         	a.雄辩的,有说服力的;善辩的,口才流利的
+plead          	/pli:d/             	v.恳求,请求;为…辩护;提出…为理由 
+dispute        	/dis'pju:t/         	n.争论,争执 v.争论,辩论;反驳;怀疑;阻止

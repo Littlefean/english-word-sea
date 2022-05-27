@@ -1,0 +1,8 @@
+monster        	/'mɔnstə/           	n.怪物,妖怪,畸形的动植物      
+fork           	/fɔ:k/              	n.叉,耙;叉形物;餐叉        
+rectangle      	/'rekˌtæŋgl/        	n.[数]矩形, 长方形        
+triangle       	/'traiæŋgl/         	n.三角(形)             
+egg            	/eg/                	n.蛋; 卵; 卵形物         
+cube           	/kju:b/             	n.立方形,立方体;立方,三次幂    
+contrast       	/kən'trɑ:st/        	n.对比，对照 vi.形成对比 vt.把…与…对比
+him            	/him/               	pron.他(he的宾格形式)     

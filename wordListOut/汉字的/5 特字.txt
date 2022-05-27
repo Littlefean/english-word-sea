@@ -1,0 +1,5 @@
+character      	/'kærəktə/          	n.性格,品质,特性;人物,角色;字符,(汉)字
+option         	/'ɔpʃən/            	n.选择(权),[商]选择买卖的特权  
+concession     	/kən'seʃən/         	n.让步，妥协；特许(权)；      
+occasional     	/ə'keiʒənəl/        	a.偶然的,非经常的,特殊场合的;临时的
+characteristic 	/ˌkærəktə'ristik/   	a.(of)特有的,独特的 n.特征,特性

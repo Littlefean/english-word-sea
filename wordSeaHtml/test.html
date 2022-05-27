@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .my-lien {
+            opacity: 0;
+            transition: all 0.5s;
+        }
+
+        #a:hover ~ #a-b, #a:hover ~ #a-c {
+            opacity: 1;
+        }
+
+    </style>
+    <!--    <link rel="stylesheet" href="css/index.css">-->
+
+</head>
+
+<body>
+<div class="my-word" id="a">aaa</div>
+<div class="my-lien" id="a-b">bbb</div>
+<div class="my-lien" id="a-c">ccc</div>
+</body>
+
+</html>
+<script>
+    /**
+     * 在html body 里添加一个线
+     * x1 y1 是上面的点 x2 y2 是下面的点
+     * y2 必须 ＞ y1
+     * x1 ＜ x2 线是 ↘
+     * x1 ＞ x2 线是 ↙
+     */
+    function createLineEle(x1, y1, x2, y2, idName) {
+        if (y1 > y2) {
+            let temp = [x2, y2];
+            x2 = x1;
+            y2 = y1;
+            x1 = temp[0];
+            y1 = temp[1];
+        }
+        let lb = document.createElement("div");
+        lb.className = "lineBox";
+        lb.id = idName;
+        let w = Math.abs(x2 - x1);
+        let h = Math.abs(y2 - y1);
+        lb.style.width = w + 'px';
+        lb.style.height = h + 'px';
+        lb.style.left = Math.min(x1, x2) + 'px';
+        lb.style.top = y1 + 'px';
+        let lineEle = document.createElement("div");
+        lineEle.className = "line";
+        let a = Math.atan(w / h) * 180 / Math.PI; // 角度
+        lineEle.style.transform = `translateX(${w / 2}px)`;  // 先移动，再旋转，再缩放
+        if (x1 < x2) {
+            // 如果是 ↘ 就带符号 ，如果 ↙ 就正号
+            a = -a;
+        }
+        lineEle.style.transform += `rotate(${a}deg)`;
+        lineEle.style.transform += `scaleY(${Math.sqrt(w * w + h * h) / h})`;
+        lb.appendChild(lineEle);
+        return lb;
+    }
+
+    let body = document.querySelector("body");
+    body.appendChild(createLineEle(300, 200, 100, 100, "a"));
+    body.appendChild(createLineEle(100, 200, 200, 0, "a"));
+    body.appendChild(createLineEle(200, 0, 100, 200, "a"));
+
+
+</script>

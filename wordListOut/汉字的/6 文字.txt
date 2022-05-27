@@ -1,0 +1,6 @@
+verse          	/və:s/              	n.韵文,诗;诗节,诗句        
+context        	/'kɔntekst/         	n.（文章等）前后关系；(事件等的)背景
+graceful       	/'greisful/         	a.优美的,文雅的,大方的       
+biography      	/bai'ɔgrəfi/        	n.传记；传记文学           
+satire         	/'sætaiə/           	n.讽刺,讽刺文学,讽刺作品      
+Latin          	/'lætin/            	a.拉丁的,拉丁文的 n.拉丁语    

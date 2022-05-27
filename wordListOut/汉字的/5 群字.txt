@@ -1,0 +1,5 @@
+swarm          	/swɔ:m/             	n.蜂群;一大群 vi.涌往;挤满;云集;成群移动
+band           	/bænd/              	n.条,带;乐队;波段;一群,一伙 v.缚,绑扎
+batch          	/bætʃ/              	n.一批,一组,一群          
+group          	/gru:p/             	n.群,组 v.分组          
+troop          	/tru:p/             	n.(pl.)部队,军队;(一)群   

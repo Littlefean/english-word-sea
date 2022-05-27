@@ -1,0 +1,7 @@
+acceptance     	/ək'septəns/        	n.接受，接收，验收，接纳；承认，认可 
+succeed        	/sək'si:d/          	vi.成功；继承，接替 vt.接替；继…之后
+meeting        	/'mi:tiŋ/           	n.会议,集合,汇合,会见,接见,汇合点
+access         	/'ækses/            	n.进入；接入；到达；享用权；入口 vi.存取
+adjacent       	/ə'dʒeisənt/        	a.(to)(时间上)紧接着的；邻近的，毗邻的
+available      	/ə'veɪləbl/         	a.(用于物)可用的；可见到的，接受采访的
+accept         	/ək'sept/           	vt.接受，领受；认可，同意 vi.同意，认可

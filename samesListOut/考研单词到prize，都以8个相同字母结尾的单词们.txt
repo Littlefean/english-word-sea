@@ -1,0 +1,54 @@
+expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+----------
+administer     	/əd'ministə/        	v.施行，实施；掌管，料理...的事务；给予
+	minister       	/'ministə/          	n.部长,大臣             
+----------
+temporary      	/'tempərəri/        	a.暂时的,临时的           
+	contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+----------
+minister       	/'ministə/          	n.部长,大臣             
+	administer     	/əd'ministə/        	v.施行，实施；掌管，料理...的事务；给予
+----------
+responsibility 	/ri.spɔnsə'biliti/  	n.责任,责任心;职责,任务      
+	possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+----------
+repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+----------
+possibility    	/ˌpɔsə'biləti/      	n.可能,可能性;可能的事,希望    
+	responsibility 	/ri.spɔnsə'biliti/  	n.责任,责任心;职责,任务      
+----------
+contemporary   	/kən'tempərəri/     	a.现代的,当代的;同时代的      
+	temporary      	/'tempərəri/        	a.暂时的,临时的           
+----------
+dominant       	/'dɔminənt/         	a.支配的,统治的,占优势的      
+	predominant    	/ˌpri'dɔminənt/     	a.(over)占优势的;主要的,突出的
+----------
+predominant    	/ˌpri'dɔminənt/     	a.(over)占优势的;主要的,突出的
+	dominant       	/'dɔminənt/         	a.支配的,统治的,占优势的      
+----------
+constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+	institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+----------
+preposition    	/ˌprepə'ziʃən/      	n.介词                
+	proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+----------
+impression     	/ɪm'preʃn/          	n.印象,感想;盖印,压痕       
+	expression     	/ɪk'spreʃn/         	n.表达;表情;声调;腔调;榨出;措词;式;符号
+	repression     	/ri'preʃən/         	n.压抑，压制，镇压          
+----------
+proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       
+	preposition    	/ˌprepə'ziʃən/      	n.介词                
+----------
+institution    	/ˌinsti'tju:ʃən/    	n.公共机构;协会;学校;研究所;制度;惯例
+	constitution   	/ˌkɒnstɪ'tju:ʃn/    	n.构成,构造,组成(方式),成分;体格;宪法
+----------
+resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+	assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+----------
+assistance     	/ə'sistəns/         	n.协作; 援助; 帮助        
+	resistance     	/ri'zistəns/        	n.(to)抵抗,反抗;抵抗力,阻力;电阻
+----------

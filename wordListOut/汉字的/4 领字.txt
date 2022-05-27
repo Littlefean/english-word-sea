@@ -1,0 +1,4 @@
+navigation     	/ˌnævi'geiʃən/      	n.航海,航空;导航,领航       
+comprehend     	/ˌkɔmpri'hend/      	vt.理解，领会；包含，包括      
+capable        	/'keipəbl/          	a.有本领的,有能力的;(of)可以…的,能…的
+accept         	/ək'sept/           	vt.接受，领受；认可，同意 vi.同意，认可

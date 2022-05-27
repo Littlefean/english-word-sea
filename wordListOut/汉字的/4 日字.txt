@@ -1,0 +1,4 @@
+holiday        	/'hɔlədi/           	n.假日,节日,假期,休假       
+daytime        	/'deitaim/          	n.白天,日间             
+date           	/deit/              	n.日期,年代 v.注明…的日期 n. 
+weekday        	/'wi:kdeɪ/          	n.平常日,工作日           

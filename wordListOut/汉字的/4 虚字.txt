@@ -1,0 +1,4 @@
+void           	/vɔid/              	a.空虚的;没有的;无效的       
+vanity         	/'vænəti/           	n.虚荣心,浮华            
+fairy          	/'feəri/            	a.幻想中的;虚构的;优雅的 n.仙女;精灵
+hollow         	/'hɔləu/            	a.空的,中空的;空洞的,空虚的 v.挖空,凿空

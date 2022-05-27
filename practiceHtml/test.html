@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .domain {
+            width: 100%;
+            height: 100vh;
+
+            animation-name: ani;
+            animation-duration: 1s;
+            animation-play-state: running;
+            animation-iteration-count: 1;
+
+        }
+
+        @keyframes ani {
+            0% {
+                background-color: red;
+            }
+            100% {
+                background-color: transparent;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div class="domain"></div>
+</body>
+<script>
+    let body = document.querySelector("body");
+
+    window.addEventListener("click", function () {
+        body.innerHTML = "<div class=\"domain\"></div>";
+    });
+    // let domain = document.querySelector(".domain");
+    // domain.addEventListener("click", function () {
+    //     console.log(this);
+    //     this.style.animationPlayState = "running";
+    //     document.write(this.style);
+    // });
+</script>
+</html>

@@ -1,0 +1,3 @@
+poem           	/'pəuim/            	n.诗                 
+verse          	/və:s/              	n.韵文,诗;诗节,诗句        
+refrain        	/ˌri:'frein/        	v.节制,避免,制止 n.(诗的)叠句 

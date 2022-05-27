@@ -1,0 +1,9 @@
+musical        	/'mju:zikəl/        	a.音乐的;有音乐才能的 n.音乐片  
+conduct        	/'kɔndʌkt/          	n.行为,品行 v.引导;管理;指挥(乐队);传导
+delight        	/di'lait/           	n.快乐,高兴 v.(使)高兴,(使)欣喜
+divert         	/dai'və:t/          	vt.使转向，使改道；转移(注意力)；使娱乐
+forthcoming    	/'fɔ:θ'kʌmiŋ/       	a.即将到来的;准备好的;乐意帮助的;n.来临
+band           	/bænd/              	n.条,带;乐队;波段;一群,一伙 v.缚,绑扎
+instrument     	/'ɪnstrəmənt/       	n.工具,仪器,器械;乐器       
+melody         	/'melədi/           	n.旋律，曲调；悦耳的音乐       
+pleasure       	/'pleʒə/            	n.愉快,快乐;乐事,乐趣       

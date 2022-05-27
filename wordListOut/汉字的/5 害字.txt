@@ -1,0 +1,5 @@
+pest           	/pest/              	n.害虫                
+injure         	/'indʒə/            	v.损害,损伤,伤害          
+sensitive      	/'sensətɪv/         	a.(to)敏感的,易受伤害的;灵敏的 
+innocent       	/'inəsənt/          	a.(of)清白的,无罪的;无害的;单纯的,无知的
+bitter         	/'bitə/             	a.(有)苦(味)的;痛苦的,厉害的  

@@ -1,0 +1,3 @@
+axis           	/'æksis/            	n.轴，轴线，中心线；坐标轴，基准线  
+locate         	/ləu'keit/          	v.查出,探出,查找…地点,使…坐落于,位于
+situated       	/'sitjueitid/       	a.坐落在…的             

@@ -1,0 +1,5 @@
+cook           	/kuk/               	n.厨师 v.烹调，烧煮；纂改(账目)，捏造
+doctor         	/dɔktə/             	n.医生;博士 vt.授以博士学位;诊断;修改
+conversion     	/kən'və:ʃən/        	n.转变，转换；信仰的改变；      
+divert         	/dai'və:t/          	vt.使转向，使改道；转移(注意力)；使娱乐
+mend           	/mend/              	v.修理,缝补;改正,改进       

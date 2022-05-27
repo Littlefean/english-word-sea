@@ -1,0 +1,5 @@
+fix            	/fiks/              	v.(使)固定;修理;安装;决定;注视 n.困境
+settlement     	/'setlmənt/         	n.解决,决定,调停;居留区,住宅区  
+condition      	/kən'diʃən/         	n.条件，状况，环境 vt.决定；支配；训练
+decide         	/di'said/           	v.决定,下决心;解决,裁决      
+solution       	/sə'lju:ʃən/        	n.解答,解决办法;溶解,溶液     

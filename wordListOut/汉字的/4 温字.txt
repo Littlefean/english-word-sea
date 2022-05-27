@@ -1,0 +1,4 @@
+tame           	/teim/              	a.驯服的,温顺的;沉闷的,乏味的 vt.驯服
+temperature    	/'temprətʃə(r)/     	n.温度，体温；热度，发烧       
+moderate       	/'mɔdərət/          	a.有节制的,中等的,适度的,温和的,稳健的
+warm           	/wɔ:m/              	a.温暖的，热心的，热情的  v.(使)变暖

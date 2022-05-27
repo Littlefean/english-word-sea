@@ -1,0 +1,6 @@
+lavatory       	/'lævətəri/         	n.厕所,盥洗室            
+chamber        	/'tʃeimbə/          	n.房间，室；会议室；议院；(动物体内)腔室
+surgery        	/'sə:dʒəri/         	n.外科,外科学;手术室,诊疗室    
+room           	/ru:m/              	n.房间，室，空间，地方；余地     
+theater        	/'θiətə/            	n.(theatre)戏院;戏剧;阶梯教室
+living-room    	/'lɪvɪŋ ru:m/       	n.起居室               

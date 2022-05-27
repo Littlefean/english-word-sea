@@ -1,0 +1,9 @@
+abstract       	/'æbstrækt/         	a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+kid            	/kid/               	n.小孩,儿童 v.戏弄,取笑     
+acquisition    	/ˌækwɪ'zɪʃn/        	n.取得，学到，养成(习惯)；获得的东西
+tease          	/ti:z/              	v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄
+access         	/'ækses/            	n.进入；接入；到达；享用权；入口 vi.存取
+ban            	/bæn/               	v.取缔,查禁;(from)禁止 n.禁止,禁令
+preferable     	/'prefərəbl/        	a.(to)更可取的,更好的      
+rob            	/rɔb/               	v.(of)抢劫,盗取;非法剥夺    
+draw           	/drɔ:/              	v.拉;画;汲取;引出;(to)挨近 n.平局;拖曳

@@ -1,0 +1,5 @@
+dessert        	/di'zə:t/           	n.正餐后的水果或甜食         
+fork           	/fɔ:k/              	n.叉,耙;叉形物;餐叉        
+lunch          	/lʌntʃ/             	n.午餐，(美)便餐          
+table          	/'teibl/            	n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+supper         	/'sʌpə(r)/          	n.晚餐                

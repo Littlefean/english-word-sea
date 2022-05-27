@@ -1,0 +1,4 @@
+theme          	/θi:m/              	n.题目，主题；主旋律，基调      
+dubious        	/'dju:bjəs/         	a.怀疑的，无把握的；有问题的，靠不住的
+question       	/'kwestʃən/         	n.问题;询问 v.询问;怀疑,对…表示疑问
+proposition    	/ˌprɔpə'ziʃən/      	n.主张,建议;陈述,命题       

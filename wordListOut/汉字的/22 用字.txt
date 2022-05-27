@@ -1,0 +1,22 @@
+technology     	/tek'nɔlədʒi/       	n.科学技术；工业技术；应用科学    
+maneuver       	/mə'nu:və/          	n.(manoeuvre)机动;运用,操作; v.机动
+fist           	/fɪst/              	n.拳头 vt.用拳头打；紧握     
+utilize        	/'ju:tilaiz/        	vt.利用               
+manage         	/'mænɪdʒ/           	v.经营,管理,处理;设法,对付;操纵,运用
+veil           	/veil/              	n.面纱,遮蔽物 v.用面纱掩盖,掩饰 
+serve          	/sə:v/              	v.服务,尽责;招待,侍候;符合,适用 
+somehow        	/'sʌmhau/           	ad.以某种方式，用某种方法；不知怎么地
+try            	/trai/              	v.尝试，试图；试验，试用；审讯 n.尝试
+levy           	/'levi/             	n.征收,征税,征兵 v.征收,征集,征用
+keyboard       	/'ki:bɔ:d/          	n.键盘 vt.用键盘输入(信息)   
+operational    	/ˌɔpə'reiʃənəl/     	a.操作的,运转的,起作用的,经营的  
+paralyze       	/'pærəlaiz/         	v.(paralyse)使瘫痪(麻痹);使丧失作用
+virgin         	/'və:dʒin/          	n.处女 a.处女的;纯洁的;原始的;未使用的
+external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的
+universal      	/ˌju:ni'və:səl/     	a.普遍的,全体的,通用的;宇宙的,世界的
+access         	/'ækses/            	n.进入；接入；到达；享用权；入口 vi.存取
+barbecue       	/'bɑ:bikju:/        	n.烤肉；烤肉用的台架 vt.炙烤(肉等)
+chain          	/tʃeɪn/             	n.链(条);(pl.)镣铐;一连串 v.用链条拴住
+heave          	/hi:v/              	v.(用力)举，提，拉；扔；拖；呕吐n.举起
+available      	/ə'veɪləbl/         	a.(用于物)可用的；可见到的，接受采访的
+application    	/ˌæplɪ'keɪʃn/       	n.申请，申请书；应用，实施，实用性  

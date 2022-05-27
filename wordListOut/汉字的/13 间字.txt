@@ -1,0 +1,13 @@
+wait           	/weit/              	v.(for)等待；(on)侍候 n.等候，等待时间
+assign         	/ə'sain/            	vt.派给，分配；选定，指定(时间、地点等)
+daytime        	/'deitaim/          	n.白天,日间             
+sometimes      	/'sʌmtaimz/         	ad.不时，有时，间或         
+chamber        	/'tʃeimbə/          	n.房间，室；会议室；议院；(动物体内)腔室
+room           	/ru:m/              	n.房间，室，空间，地方；余地     
+expenditure    	/iks'penditʃə/      	n.花费;(时间,金钱等的)支出,消耗 
+adjacent       	/ə'dʒeisənt/        	a.(to)(时间上)紧接着的；邻近的，毗邻的
+interim        	/'intərim/          	a.中间的,暂时的,临时的 n.过渡时期,暂定
+suite          	/swi:t/             	n.套间；一套家具；套，组，系列    
+arrive         	/ə'raɪv/            	vi.到达；(时间、事件)到来，发生；达到
+meantime       	/'mi:n'taim/        	n.(meanwhile)其间,其时 ad.同时,当时
+hell           	/hel/               	n.地狱,阴间;苦境,极大痛苦     

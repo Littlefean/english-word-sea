@@ -1,0 +1,4 @@
+accomplish     	/ə'kʌmpliʃ/         	v.实现(计划等)；达到(目的)；完成(任务)
+scheme         	/ski:m/             	n.计划,方案;阴谋;配置 v.计划,策划;阴谋
+programme      	/'prəugræm/         	n.(program)节目,计划,规划,程序 v.编程序
+hatch          	/hætʃ/              	v.孵,孵出;策划,图谋 n.舱口,小门

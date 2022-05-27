@@ -1,0 +1,4 @@
+standard       	/'stændəd/          	n.标准,规则 a.标准的       
+normalization  	/ˌnɔ:məlai'zeiʃən/  	n.(normalisation)正常化,标准化
+axis           	/'æksis/            	n.轴，轴线，中心线；坐标轴，基准线  
+symbol         	/'simbəl/           	n.符号,标志;象征          

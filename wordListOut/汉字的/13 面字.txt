@@ -1,0 +1,13 @@
+veil           	/veil/              	n.面纱,遮蔽物 v.用面纱掩盖,掩饰 
+exterior       	/ik'stiəriə/        	a.外部的,外面的 n.外部      
+dial           	/'daiəlˌ dail/      	n.钟(表)面,刻度盘,拨号盘 v.拨号,打电话
+interior       	/in'tiəriə/         	a.内部的,里面的 n.内部,内地   
+brave          	/breiv/             	a.勇敢的 v.勇敢地面对(危险等)  
+cheek          	/tʃi:k/             	n.面颊,脸              
+superficial    	/ˌsu:pə'fɪʃl/       	a.表面的;肤浅的,浅薄的       
+thing          	/θiŋ/               	n.物，东西；事，事情；所有物；局面，情况
+audience       	/'ɔ:diəns/          	n.听众，观众，读者；见面，会见    
+confront       	/kən'frʌnt/         	v.使面临,使遭遇;面对(危险等)   
+external       	/ik'stə:nəl/        	a.外部的;客观的;外国的;表面的;[医]外用的
+decent         	/'di:sənt/          	a.体面的;正派的,合乎礼仪的;合适的 
+across         	/ə'krɒs/            	prep.横过，越过；在的对面 ad.横过，穿过
