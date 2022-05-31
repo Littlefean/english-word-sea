@@ -8,18 +8,18 @@ locale.setlocale(locale.LC_CTYPE, 'chinese')
 class StatusFrame(tk.Frame):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.strvar = tk.StringVar()
+        self.strVar = tk.StringVar()
         self.MesList = ["", "", "", "Info:"]
         self.columnconfigure(0, weight=1)
-        self.statusbar = tk.Label(self, relief="sunken", anchor="sw", textvariable=self.strvar)
+        self.statusBar = tk.Label(self, relief="sunken", anchor="sw", textvariable=self.strVar)
 
-        self.statusbar.grid(column=0, row=0, sticky="WE")
+        self.statusBar.grid(column=0, row=0, sticky="WE")
         self.RunThread()
 
     def ShowMessage(self):
         self.after(800, self.ShowMessage)
         self.m_UpdateTime()
-        self.strvar.set(" || ".join(self.MesList))
+        self.strVar.set(" || ".join(self.MesList))
 
     @staticmethod
     def GetTimeStr():
@@ -42,7 +42,7 @@ class StatusFrame(tk.Frame):
         0.Ready 1.Running 2.Finish 3.Fail
         """
         self.MesList[2] = ["Ready", "Running", "Finish", "Fail"][index]
-        self.statusbar["bg"] = ["green", "yellow", "green", "red"][index]
+        self.statusBar["bg"] = ["green", "yellow", "green", "red"][index]
         if index == 0 or index == 2:
             self.m_UpdatePercent([0, 100][index > 0])
 

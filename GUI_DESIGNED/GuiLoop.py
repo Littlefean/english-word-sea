@@ -3,12 +3,12 @@ import tktk
 from StatusFrame import StatusFrame
 
 
-class PraticeGui:
+class PracticeGui:
     def __init__(self) -> None:
         self.win = tk.Tk()
-        self.win.title("PraticeGui")
-        self.wordshow = tk.StringVar()
-        self.wordshow.set("NONE")
+        self.win.title("PracticeGui")
+        self.wordShow = tk.StringVar()
+        self.wordShow.set("NONE")
         self.design()
 
     def run(self):
@@ -16,7 +16,7 @@ class PraticeGui:
         self.win.mainloop()
 
     def design(self):
-        tk.Label(self.win, textvariable=self.wordshow).grid(column=0, row=0, columnspan=3, sticky="WE")
+        tk.Label(self.win, textvariable=self.wordShow).grid(column=0, row=0, columnspan=3, sticky="WE")
         self.log = tktk.LogFrame(self.win, text="释意:")
         self.log.grid(column=0, row=1, columnspan=3, sticky="WE")
         self.cmd1 = tk.Button(self.win, text="熟练", width=20, bg="#FFEE33", command=lambda: self.CallBack(1))
@@ -62,5 +62,5 @@ class PraticeGui:
 
 
 if __name__ == "__main__":
-    xe = PraticeGui()
+    xe = PracticeGui()
     xe.run()
