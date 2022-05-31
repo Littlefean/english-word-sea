@@ -1,6 +1,8 @@
 # -*- encoding: utf-8 -*-
 """
 PyCharm Practice
+此模块中定义了一些单词训练函数
+大多数是基于控制台交互式操作的方式进行单词训练的
 2021年08月08日
 by littlefean
 """

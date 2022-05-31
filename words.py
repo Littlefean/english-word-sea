@@ -2,6 +2,7 @@
 # -*- encoding: utf-8 -*-
 """
 单词库类
+此模块只对外开放 WordList 类
 2021年06月21日
 by littlefean
 """
@@ -14,6 +15,10 @@ from word import Word
 
 
 class WordList:
+    """
+    单词列表类
+    表示很多个单词（Word对象）组成的列表
+    """
     def __init__(self, array: List[Word]):
         """不要使用此方法创建实例"""
         self.array = array
