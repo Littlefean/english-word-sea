@@ -12,8 +12,8 @@ def main():
     w = WordList.initialize()
     addWords(w, "dataBaseOrigin/相对于岳同学的六级高频词")
     print(w)
-    fastPractice(w, "yxt")
-    easyPractice(w)
+    fastPractice(w, "ytx")
+    # easyPractice(w)
     return None
 
 

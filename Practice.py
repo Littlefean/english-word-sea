@@ -97,7 +97,13 @@ def practiceCE(wordList: WordList):
 
 
 def fastPractice(wordList: WordList, listName: str):
-    """生成含有js的静态网页，对其进行高速练习"""
+    """
+    生成含有js的静态网页，对其进行高速练习
+    此方法仅仅是根据一个单词列表，生成（更新）一个js文件
+    :param wordList: 单词列表
+    :param listName: 生成js文件得名字
+    :return:
+    """
     listStr = ''
     for word in wordList:
         listStr += word.toEasyJs() + ","
