@@ -9,25 +9,44 @@ body {
   color: white;
   height: 100vh;
 
+  .topBtn {
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+    outline: solid 1px;
+    float: left;
+
+    &:active {
+      background: red;
+    }
+  }
 
   .switchBtn {
-    position: absolute;
-    width: 200px;
-    height: 50px;
-    top: 0;
-    left: 2px;
+    //position: absolute;
+    //
+    //top: 0;
+    //left: 2px;
     background-color: green;
   }
 
   .box {
-    width: 60%;
+    width: 100%;
     height: 500px;
     text-align: center;
-    /*outline: solid 1px;*/
-    margin: 200px auto 0;
+    outline: solid 1px;
+    //margin: 200px auto 0;
+    position: absolute;
+    top: 200px;
+
+    .eng, .chinese {
+      width: 100%;
+    }
 
     .eng {
-      font-size: 150px;
+      font-size: 50px;
       font-family: "Times New Roman", serif;
       /*outline: solid 1px;*/
     }
@@ -40,10 +59,11 @@ body {
 
 
   .nextBtn {
-    width: 300px;
+    width: 100%;
     height: 60px;
     position: absolute;
     bottom: 0;
+    left: 0;
   }
 
 }

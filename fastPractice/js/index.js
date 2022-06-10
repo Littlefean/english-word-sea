@@ -16,15 +16,14 @@ function shuff(arr) {
     });
 }
 
-let BODY = document.querySelector("body");
-
 window.onload = function () {
+    preventScale();
     /**
      * 夜间按钮处理
      * @type {Element}
      */
     let sBtn = document.querySelector(".switchBtn");
-    let isNight = true;
+    let isNight = false;
     sBtn.addEventListener("click", () => {
         isNight = !isNight;
         if (isNight) {
@@ -35,20 +34,13 @@ window.onload = function () {
             document.body.style.backgroundColor = "black";
         }
     })
-    document.querySelector(".max").innerHTML = WORD_LIST.length;
+    document.querySelector(".max").innerHTML = WORD_LIST.length.toString();
     let indexEle = document.querySelector(".index");
     let englishEle = document.querySelector(".eng");
     let chineseEle = document.querySelector(".chinese");
     shuff(WORD_LIST);
 
     let index = 0;
-
-    /**
-     * 随机字体大小
-     */
-    function changeWordCss() {
-        englishEle.style.fontSize = Math.random() * 10 + 50 + "px";
-    }
 
     function indexAdd() {
         index++;
@@ -61,16 +53,6 @@ window.onload = function () {
         return WORD_LIST[index];
     }
 
-    // 获取下一个单词对象
-    function nextWord() {
-        index++;
-        if (index >= WORD_LIST.length) {
-            index = 0;
-        }
-        return WORD_LIST[index];
-    }
-
-
     /**
      * 自动模式
      */
@@ -81,16 +63,14 @@ window.onload = function () {
             }
         }));
         setInterval(() => {
-            let word = nextWord();
-            indexEle.innerHTML = index;
-            englishEle.innerHTML = word.name;
-            chineseEle.innerHTML = word.chinese;
-            chineseEle.style.display = "none";
-            changeWordCss()
+            if (autoOpen) {
+                _next();
+            }
         }, 500);
     }
 
     let step = 0;
+    let autoOpen = false;
 
     function _next() {
         switch (step % 2) {
@@ -100,11 +80,9 @@ window.onload = function () {
                 englishEle.innerHTML = word.name;
                 chineseEle.innerHTML = word.chinese;
                 chineseEle.style.display = "none";
-                changeWordCss()
                 break;
             case 1:
                 chineseEle.style.display = "block";
-
                 indexAdd();
                 break;
         }
@@ -134,6 +112,45 @@ window.onload = function () {
     }
 
     handMode();
-    // autoMode();
+    autoMode();
+    /**
+     * 自动模式开关
+     */
+    let autoBtn = document.querySelector(`.autoModeBtn`);
+    autoBtn.addEventListener("click", () => {
+        console.log(autoOpen);
+        autoOpen = !autoOpen;
+        if (autoOpen) {
+            // 当前是开启的状态，又发生了点击了
+            autoBtn.innerHTML = "开启自动模式"
+        } else {
+            // 当前是关闭状态，点击了
+            autoBtn.innerHTML = "关闭自动模式"
+        }
 
+    });
+
+}
+
+/**
+ * 防止缩放
+ */
+function preventScale() {
+    document.addEventListener('touchstart', function (event) {
+        if (event.touches.length >= 2) {
+            event.preventDefault();
+        }
+    })
+
+    document.addEventListener('touchmove', function (event) {
+        if (event.touches.length >= 2) {
+            event.preventDefault();
+        }
+    })
+
+    document.addEventListener('touchend', function (event) {
+        if (event.touches.length >= 2) {
+            event.preventDefault();
+        }
+    })
 }
