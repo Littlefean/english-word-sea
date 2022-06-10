@@ -35,7 +35,7 @@ class StatusFrame(tk.Frame):
         self.ShowMessage()
 
     def m_UpdateInfo(self, msg):
-        self.MesList[3] = "Info:{}".format(msg)
+        self.MesList[3] = f"Info:{msg}"
 
     def m_UpdateStatus(self, index):
         """
@@ -43,7 +43,7 @@ class StatusFrame(tk.Frame):
         """
         self.MesList[2] = ["Ready", "Running", "Finish", "Fail"][index]
         self.statusBar["bg"] = ["green", "yellow", "green", "red"][index]
-        if index == 0 or index == 2:
+        if index in [0, 2]:
             self.m_UpdatePercent([0, 100][index > 0])
 
     def m_UpdatePercent(self, pros):

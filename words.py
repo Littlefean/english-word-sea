@@ -30,10 +30,7 @@ class WordList:
         return cls([])
 
     def __str__(self):
-        result = ""
-        for word in self.array:
-            result += str(word)
-        return result
+        return "".join(str(word) for word in self.array)
 
     def __contains__(self, item):
         """判断某个单词对象是否在这个词列表里"""
@@ -127,24 +124,18 @@ class WordList:
         i = self.index(w1)
         j = self.index(w2)
         self.array = self.array[i: j + 1]
-        self._nameHash = set()
-        for w in self.array:
-            self._nameHash.add(w.name)
+        self._nameHash = {w.name for w in self.array}
 
     def saveTxtFile(self, fileName: str):
         """将此词序列保存到一个文件里"""
         with open(f"wordListOut/{fileName}.txt", "w", encoding="utf-8") as f:
-            lineArray = []
-            for word in self.array:
-                lineArray.append(word.toTxtLineString())
+            lineArray = [word.toTxtLineString() for word in self.array]
             f.writelines(lineArray)
 
     def saveHtmlFile(self, fileName: str):
         """将此词序列保存到一个文件里"""
         with open(f"wordListOut/{fileName}.html", "w", encoding="utf-8") as f:
-            content = ""
-            for word in self:
-                content += f"{word.toHtmlString()}\n"
+            content = "".join(f"{word.toHtmlString()}\n" for word in self)
             f.write(f"""<!DOCTYPE html>
                     <html>
                         <head>
@@ -161,13 +152,10 @@ class WordList:
 
     def index(self, word: str) -> int:
         """查询某个单词在列表里的下标位置"""
-        res = 0
-        for w in self.array:
+        for res, w in enumerate(self.array):
             if w.name == word:
                 return res
-            res += 1
-        else:
-            raise Exception(f"未找到单词{word}")
+        raise Exception(f"未找到单词{word}")
 
     @staticmethod
     def stringToChineseList(string: str) -> list:
@@ -175,10 +163,7 @@ class WordList:
         for key in Word.chineseObjType:
             string = string.replace(key, "")
         res = _mySplit(string, ',', '，', '/', ";", '；')
-        newRes = []
-        for r in res:
-            newRes.append(r.strip())
-        return newRes
+        return [r.strip() for r in res]
 
     @staticmethod
     def stringToChineseObj(string) -> dict:
@@ -225,17 +210,12 @@ class WordList:
                     typeContent = string[leftIndex + len(key):len(string)]
                     res[key] += _mySplit(typeContent, *seps)
         for k, v in res.items():
-            a = []
-            for string in v:
-                a.append(string.strip())
+            a = [string.strip() for string in v]
             res[k] = a
         return res
 
     def toDic(self):
-        res = []
-        for item in self.array:
-            res.append(item.toDic())
-        return res
+        return [item.toDic() for item in self.array]
 
     def toJsonStr(self):
         """将自己单词列表转化为Json字符串"""
@@ -258,15 +238,12 @@ def _mySplit(string, *seps):
     for char in string:
         if char == "(":
             inTuple = True
-        if char == ")":
+        elif char == ")":
             inTuple = False
-        if char in seps:
-            if addStr != "" and not inTuple:
-                result.append(addStr)
-                addStr = ""
-            elif addStr != "" and inTuple:
-                addStr += char
-        else:
+        if char in seps and addStr != "" and not inTuple:
+            result.append(addStr)
+            addStr = ""
+        elif char in seps and addStr != "" or char not in seps:
             addStr += char
     if addStr != "":
         result.append(addStr)

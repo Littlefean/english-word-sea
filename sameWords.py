@@ -51,11 +51,7 @@ class Sames:
         return res
 
     def toDic(self):
-        res = {
-            "word": self.word.toDic(),
-            "sameWords": self.sameWords.toDic()
-        }
-        return res
+        return {"word": self.word.toDic(), "sameWords": self.sameWords.toDic()}
 
 
 class SamesList:
@@ -81,11 +77,9 @@ class SamesList:
         """根据一个词表，返回这个词表里每一个单词与其他所有单词所组成的关系的表
         此过程可能较长，可以打印进度"""
         res = cls.initialize()
-        i = 0
         barLen = 100
-        for w in wordList:
+        for i, w in enumerate(wordList, start=1):
             res.append(Sames.crateSames(w, wordList, sameFunc, funcN=funcN))
-            i += 1
             iCount = int((i / len(wordList)) * 100)
             print("=" * iCount + " " * (barLen - iCount) + "|" + f"{i} / {len(wordList)}")
         return res
@@ -104,14 +98,8 @@ class SamesList:
             f.write(str(self))
 
     def toDic(self):
-        array = []
-        for item in self.array:
-            if len(item.sameWords) != 0:
-                array.append(item.toDic())
-        res = {
-            "array": array
-        }
-        return res
+        array = [item.toDic() for item in self.array if len(item.sameWords) != 0]
+        return {"array": array}
 
     def saveJson(self, fileName: str):
         dicStr = self.toDic()
@@ -124,22 +112,14 @@ def wordInWord(word1: Word, word2: Word) -> bool:
     """一个单词，一个词表，看看词表里那些单词和这个目标单词相似
     返回相似单词组成的新词表
     此相似度匹配算法是名称是否在内"""
-    if word1.name in word2.name:
-        return True
-    elif word2.name in word1.name:
-        return True
-    else:
-        return False
+    return word1.name in word2.name or word2.name in word1.name
 
 
 def lenSame(word1: Word, word2: Word, n=3) -> bool:
     """两个单词长度相同，只差了n个字母不一样"""
     # todo bug
     if len(word1.name) == len(word2.name):
-        count = 0
-        for i in range(len(word1.name)):
-            if word1.name[i] == word2.name[i]:
-                count += 1
+        count = sum(word1.name[i] == word2.name[i] for i in range(len(word1.name)))
         return count == len(word1.name) - n
     else:
         return False
@@ -182,15 +162,14 @@ def sameChinese(word1: Word, word2: Word) -> bool:
         w2cArr.remove("")
     set1 = set(w1cArr)
     set2 = set(w2cArr)
-    if len(set1 & set2) == 0:
-        for w1 in w1cArr:
-            if len(w1) == 1:
-                continue
-            for w2 in w2cArr:
-                if w1 in w2 or w2 in w1:
-                    return True
-    else:
+    if len(set1 & set2) != 0:
         return True
+    for w1 in w1cArr:
+        if len(w1) == 1:
+            continue
+        for w2 in w2cArr:
+            if w1 in w2 or w2 in w1:
+                return True
 
 
 def chineseInWord(word: Word, chineseChar: str) -> bool:
@@ -201,14 +180,8 @@ def chineseInWord(word: Word, chineseChar: str) -> bool:
 def _sameChCharCount(word1: Word, word2: Word):
     """返回两个单词中汉语解释相同汉字的数量"""
     ignoreWords = "的 地".split()
-    set1 = set()
-    set2 = set()
-    for char1 in set(word1.chinese):
-        if _isChineseChar(char1):
-            set1.add(char1)
-    for char2 in set(word2.chinese):
-        if _isChineseChar(char2):
-            set2.add(char2)
+    set1 = {char1 for char1 in set(word1.chinese) if _isChineseChar(char1)}
+    set2 = {char2 for char2 in set(word2.chinese) if _isChineseChar(char2)}
     # print(set1, set2)
     for igWord in ignoreWords:
         if igWord in set1:
@@ -287,9 +260,9 @@ def _maxLastLineLen(arr: List[List[int]]):
 
 
 def _printArray(arr: List[List[int]]):
-    for y in range(len(arr)):
-        for x in range(len(arr[y])):
-            print(arr[y][x], end=" ")
+    for item in arr:
+        for x in range(len(item)):
+            print(item[x], end=" ")
         print()
 
 

@@ -27,11 +27,8 @@ class Proficiency:
             self.proValueDic[wordName] += n
 
     def __str__(self):
-        res = ""
         d_order = sorted(self.proValueDic.items(), key=lambda x: x[1], reverse=True)
-        for item in d_order:
-            res += str(item) + "\n"
-        return res
+        return "".join(str(item) + "\n" for item in d_order)
 
 
 def practiceE(wordList: WordList):
@@ -85,7 +82,7 @@ def practiceCE(wordList: WordList):
             # 输入1也可以通过，这个是为了测试
             # todo 可以请求发送读音
             # todo 也可以直接删除这个单词
-            if inputData == w.name or inputData == "1":
+            if inputData in [w.name, "1"]:
                 print("拼写正确")
                 wordList.remove(w.name)
             else:
@@ -104,9 +101,7 @@ def fastPractice(wordList: WordList, listName: str):
     :param listName: 生成js文件得名字
     :return:
     """
-    listStr = ''
-    for word in wordList:
-        listStr += word.toEasyJs() + ","
+    listStr = ''.join(f"{word.toEasyJs()}," for word in wordList)
     jsStr = f"""
     WORD_LIST = [{listStr}]
     """
@@ -116,10 +111,7 @@ def fastPractice(wordList: WordList, listName: str):
 
 def inputEnglishOut(string: str) -> str:
     """对输入的单词进行预处理"""
-    arr = []
-    for char in string:
-        if char.isalpha():
-            arr.append(char)
+    arr = [char for char in string if char.isalpha()]
     return "".join(arr)
 
 

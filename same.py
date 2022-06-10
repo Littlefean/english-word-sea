@@ -16,17 +16,14 @@ def main():
             filePath = item[0] + os.sep + file
             if filePath.endswith(".docx"):
                 print("正在打开这个docx", filePath)
-                print("【【【" + getWordStr(filePath) + "】】】")
+                print(f"【【【{getWordStr(filePath)}】】】")
     return None
 
 
 def getWordStr(path: str) -> str:
     """输入一个word文档的路径，返回这个word文档里的字符串内容"""
     document = Document(path)
-    res = ""
-    for paragraph in document.paragraphs:
-        res += paragraph.text + "\n"
-    return res
+    return "".join(paragraph.text + "\n" for paragraph in document.paragraphs)
 
 
 if __name__ == '__main__':

@@ -4,6 +4,8 @@
 2021年06月21日
 by littlefean
 """
+
+import contextlib
 from sameWords import *
 from Practice import *
 
@@ -163,22 +165,17 @@ def addWords1(wordList: WordList, path):
         for line in lineList:
             if "视频网课资料请" in line:
                 continue
-            if len(line) > 0:
-                if line[0].isalpha():  # 如果第一个字符是字母，则认为这一行是有效的单词行
-                    try:
-                        splitArr = line.split("/")
-                        word = splitArr[0].strip()
-                        speak = line.split("/")[1]
-                        speak = f"/{speak}/"
-                        chinese = "".join(line.split("/")[2:]).strip()  # 音标后面的部分都是汉语意思
-                        w = Word(word, chinese, speaker=speak)
-                        w.chineseObj = WordList.stringToChineseObj(chinese)
-                        w.chineseList = WordList.stringToChineseList(chinese)
-                        wordList.addWord(w)
-                    except IndexError:
-                        # todo 解决解析错误
-                        # print(f"【出现了解析错误】：{line}")
-                        pass
+            if len(line) > 0 and line[0].isalpha():
+                with contextlib.suppress(IndexError):
+                    splitArr = line.split("/")
+                    word = splitArr[0].strip()
+                    speak = line.split("/")[1]
+                    speak = f"/{speak}/"
+                    chinese = "".join(line.split("/")[2:]).strip()  # 音标后面的部分都是汉语意思
+                    w = Word(word, chinese, speaker=speak)
+                    w.chineseObj = WordList.stringToChineseObj(chinese)
+                    w.chineseList = WordList.stringToChineseList(chinese)
+                    wordList.addWord(w)
 
 
 def addWords2(wordList: WordList, path):

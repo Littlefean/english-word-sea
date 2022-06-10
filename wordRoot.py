@@ -14,13 +14,7 @@ rootWord = {}  # 词根
 
 def removeNum(string: str) -> str:
     """去除字符串里的数字"""
-    res = ""
-    for char in string:
-        if char.isdigit():
-            continue
-        else:
-            res += char
-    return res
+    return "".join(char for char in string if not char.isdigit())
 
 
 def removeSubStr(string: str, removeStr: str) -> str:
