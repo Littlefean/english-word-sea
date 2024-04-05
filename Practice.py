@@ -32,7 +32,10 @@ class Proficiency:
 
 
 def practiceE(wordList: WordList):
-    """单词练习 随机展示英语想汉语"""
+    """
+    在控制台上开始交互式练习，
+    单词练习 随机展示英语想汉语
+    """
     while True:
         wordList.shuffle()
         for w in wordList:
@@ -43,7 +46,10 @@ def practiceE(wordList: WordList):
 
 
 def easyPractice(wordList: WordList):
-    """只进行辨识度的练习  看英文能知道是什么意思"""
+    """
+    在控制台上开始交互式练习，
+    只进行辨识度的练习  看英文能知道是什么意思
+    """
     count = len(wordList)
     wv = Proficiency(wordList)
 
@@ -66,7 +72,10 @@ def easyPractice(wordList: WordList):
 
 
 def practiceCE(wordList: WordList):
-    """根据汉语意思输入英文单词的练习"""
+    """
+    在控制台上开始交互式练习
+    根据汉语意思输入英文单词的练习
+    """
     count = len(wordList)
     wv = Proficiency(wordList)
 
@@ -97,6 +106,8 @@ def fastPractice(wordList: WordList, listName: str):
     """
     生成含有js的静态网页，对其进行高速练习
     此方法仅仅是根据一个单词列表，生成（更新）一个js文件
+    注意：生成的网页不能直接运行，需要在webstorm里或者pycharm里用小三角运行
+    或者vscode的LiveServer运行
     :param wordList: 单词列表
     :param listName: 生成js文件得名字
     :return:
